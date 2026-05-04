@@ -1,0 +1,49 @@
+{
+  "version": "2026-05-04-v1",
+  "lang": "en-IN",
+  "translations": {
+    "common": {
+      "cancel": "Cancel",
+      "retry": "Retry",
+      "save": "Save",
+      "loading": "Loading...",
+      "error": "Something went wrong",
+      "ok": "OK",
+      "yes": "Yes",
+      "no": "No",
+      "close": "Close",
+      "back": "Back",
+      "next": "Next",
+      "submit": "Submit",
+      "done": "Done"
+    },
+    "auth": {
+      "landingPage": {
+        "enterPhoneNumber": "Enter Phone Number",
+        "title": "AskMyGuru",
+        "unlimitedFreeChats": "Unlimited Free Chats",
+        "guruChats": "Guru Chats 24 x 7",
+        "tnc": "By signing up, you agree to our Terms and Conditions",
+        "getOtp": "GET OTP",
+        "resend": "Resend OTP in",
+        "verify": "Verify"
+      }
+    },
+    "onboarding": {},
+    "home": {},
+    "chat": {},
+    "wallet": {},
+    "reports": {},
+    "marketing": {},
+    "profile": {},
+    "dasha": {},
+    "relationships": {},
+    "categories": {},
+    "navigation": {},
+    "notifications": {},
+    "support": {},
+    "shopping": {},
+    "vedshala": {},
+    "match-making": {}
+  }
+}

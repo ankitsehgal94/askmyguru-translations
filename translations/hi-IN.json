@@ -1,0 +1,49 @@
+{
+  "version": "2026-05-04-v1",
+  "lang": "hi-IN",
+  "translations": {
+    "common": {
+      "cancel": "रद्द करें",
+      "retry": "पुनः प्रयास करें",
+      "save": "सहेजें",
+      "loading": "लोड हो रहा है...",
+      "error": "कुछ गलत हो गया",
+      "ok": "ठीक है",
+      "yes": "हाँ",
+      "no": "नहीं",
+      "close": "बंद करें",
+      "back": "वापस",
+      "next": "आगे",
+      "submit": "सबमिट करें",
+      "done": "हो गया"
+    },
+    "auth": {
+      "landingPage": {
+        "enterPhoneNumber": "फ़ोन नंबर डालें",
+        "title": "AskMyGuru",
+        "unlimitedFreeChats": "असीमित मुफ़्त चैट",
+        "guruChats": "गुरुओं से 24 x 7 चैट",
+        "tnc": "साइन अप करके, आप हमारी नियम और शर्तों से सहमत हैं",
+        "getOtp": "OTP प्राप्त करें",
+        "resend": "OTP दोबारा भेजें",
+        "verify": "सत्यापित करें"
+      }
+    },
+    "onboarding": {},
+    "home": {},
+    "chat": {},
+    "wallet": {},
+    "reports": {},
+    "marketing": {},
+    "profile": {},
+    "dasha": {},
+    "relationships": {},
+    "categories": {},
+    "navigation": {},
+    "notifications": {},
+    "support": {},
+    "shopping": {},
+    "vedshala": {},
+    "match-making": {}
+  }
+}
