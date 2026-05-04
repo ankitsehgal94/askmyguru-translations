@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-04-v1",
+  "version": "2026-05-04-v2",
   "lang": "hi-IN",
   "translations": {
     "common": {
@@ -19,17 +19,78 @@
     },
     "auth": {
       "landingPage": {
-        "enterPhoneNumber": "फ़ोन नंबर डालें",
         "title": "AskMyGuru",
         "unlimitedFreeChats": "असीमित मुफ़्त चैट",
-        "guruChats": "गुरुओं से 24 x 7 चैट",
-        "tnc": "साइन अप करके, आप हमारी नियम और शर्तों से सहमत हैं",
+        "guruChats": "गुरुओं से 24 x 7 चैट"
+      },
+      "loginForm": {
+        "enterPhoneNumber": "फ़ोन नंबर डालें",
+        "phonePlaceholder": "999999999",
         "getOtp": "OTP प्राप्त करें",
+        "whatsappConsent": "मैं WhatsApp पर संदेश प्राप्त करने के लिए सहमत हूँ",
+        "termsPrefix": "साइन अप करके, आप हमारी ",
+        "termsLink": "नियम और शर्तें"
+      },
+      "otpScreen": {
+        "otpSentTo": "OTP +91 {{phoneNumber}} पर भेजा गया",
+        "resendIn": "OTP दोबारा भेजें 00:{{seconds}} में",
         "resend": "OTP दोबारा भेजें",
-        "verify": "सत्यापित करें"
+        "resendOtp": "OTP दोबारा भेजें",
+        "verify": "सत्यापित करें",
+        "verifyOtp": "OTP सत्यापित करें",
+        "invalidOtp": "अमान्य OTP। कृपया पुनः प्रयास करें।",
+        "editNumberA11yLabel": "फ़ोन नंबर संपादित करें"
       }
     },
-    "onboarding": {},
+    "onboarding": {
+      "trustMarker": {
+        "trustedByLabel": "भरोसेमंद",
+        "trustedByValue": "3 लाख+ यूज़र्स",
+        "secureLabel": "100%",
+        "secureValue": "सुरक्षित चैट",
+        "chatLabel": "चैट ऑर्डर",
+        "chatValue": "90 लाख+"
+      },
+      "common": {
+        "next": "आगे",
+        "confirmDetails": "विवरण की पुष्टि करें"
+      },
+      "namePage": {
+        "title": "पूरा नाम दर्ज करें",
+        "placeholder": "पहला और अंतिम नाम",
+        "minLengthError": "नाम कम से कम 2 अक्षर का होना चाहिए"
+      },
+      "genderPage": {
+        "title": "लिंग चुनें",
+        "male": "पुरुष",
+        "female": "महिला"
+      },
+      "dateOfBirthPage": {
+        "title": "जन्म तिथि"
+      },
+      "timeOfBirthPage": {
+        "title": "जन्म का समय",
+        "noteText": "नोट: यदि आपको जन्म का सटीक समय नहीं पता है, तो 12:00pm चुनें"
+      },
+      "placeOfBirthPage": {
+        "title": "जन्म स्थान",
+        "placeholder": "जन्म स्थान चुनें"
+      },
+      "guruImageA11yLabel": "{{guruName}} की प्रोफ़ाइल तस्वीर",
+      "guruImageA11yLabelFallback": "गुरु की प्रोफ़ाइल तस्वीर",
+      "welcomePopup": {
+        "title": "Namaste",
+        "body": "यहाँ प्रति मिनट कोई शुल्क नहीं है। अपने सवाल आराम से पूछिए।",
+        "ctaText": "पुष्टि करें और चैट शुरू करें",
+        "back": "वापस",
+        "namasteIllustrationA11yLabel": "नमस्ते का चित्रण",
+        "editDetailsA11yLabel": "प्रोफ़ाइल विवरण संपादित करें",
+        "confirmA11yLabel": "विवरण की पुष्टि करें और चैट शुरू करें",
+        "confirmA11yHint": "आपके प्रोफ़ाइल विवरण की पुष्टि करता है और चैट सत्र शुरू करता है",
+        "backA11yLabel": "वापस जाएँ",
+        "backA11yHint": "पिछली स्क्रीन पर वापस जाता है"
+      }
+    },
     "home": {},
     "chat": {},
     "wallet": {},

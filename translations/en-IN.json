@@ -1,35 +1,96 @@
 {
-  "version": "2026-05-04-v1",
+  "version": "2026-05-04-v2",
   "lang": "en-IN",
   "translations": {
     "common": {
+      "back": "Back",
       "cancel": "Cancel",
+      "close": "Close",
+      "done": "Done",
+      "error": "Something went wrong",
+      "loading": "Loading...",
+      "next": "Next",
+      "no": "No",
+      "ok": "OK",
       "retry": "Retry",
       "save": "Save",
-      "loading": "Loading...",
-      "error": "Something went wrong",
-      "ok": "OK",
-      "yes": "Yes",
-      "no": "No",
-      "close": "Close",
-      "back": "Back",
-      "next": "Next",
       "submit": "Submit",
-      "done": "Done"
+      "yes": "Yes"
     },
     "auth": {
       "landingPage": {
-        "enterPhoneNumber": "Enter Phone Number",
         "title": "AskMyGuru",
         "unlimitedFreeChats": "Unlimited Free Chats",
-        "guruChats": "Guru Chats 24 x 7",
-        "tnc": "By signing up, you agree to our Terms and Conditions",
+        "guruChats": "Guru Chats 24 x 7"
+      },
+      "loginForm": {
+        "enterPhoneNumber": "Enter Phone Number",
+        "phonePlaceholder": "999999999",
         "getOtp": "GET OTP",
+        "whatsappConsent": "I agree to receive messages on WhatsApp",
+        "termsPrefix": "By signing up, you agree to our ",
+        "termsLink": "Terms and Conditions"
+      },
+      "otpScreen": {
+        "otpSentTo": "OTP sent to +91 {{phoneNumber}}",
+        "resendIn": "Resend OTP in 00:{{seconds}}",
         "resend": "Resend OTP in",
-        "verify": "Verify"
+        "resendOtp": "Resend OTP",
+        "verify": "Verify",
+        "verifyOtp": "Verify OTP",
+        "invalidOtp": "Invalid OTP. Please try again.",
+        "editNumberA11yLabel": "Edit phone number"
       }
     },
-    "onboarding": {},
+    "onboarding": {
+      "trustMarker": {
+        "trustedByLabel": "Trusted by",
+        "trustedByValue": "3 lakh+ users",
+        "secureLabel": "100%",
+        "secureValue": "Secure Chats",
+        "chatLabel": "Chat Orders",
+        "chatValue": "90 Lakh+"
+      },
+      "common": {
+        "next": "Next",
+        "confirmDetails": "Confirm Details"
+      },
+      "namePage": {
+        "title": "Enter Full Name",
+        "placeholder": "First and Last Name",
+        "minLengthError": "Name must be at least 2 characters"
+      },
+      "genderPage": {
+        "title": "Select Gender",
+        "male": "Male",
+        "female": "Female"
+      },
+      "dateOfBirthPage": {
+        "title": "Date of Birth"
+      },
+      "timeOfBirthPage": {
+        "title": "Time of Birth",
+        "noteText": "Note: Select 12:00pm if you do not know the exact time of birth"
+      },
+      "placeOfBirthPage": {
+        "title": "Place of Birth",
+        "placeholder": "Select Place of Birth"
+      },
+      "guruImageA11yLabel": "{{guruName}} profile picture",
+      "guruImageA11yLabelFallback": "Guru profile picture",
+      "welcomePopup": {
+        "title": "Namaste",
+        "body": "Yahan pe per minute charges nahi hain. Apne sawal aram se puchiye.",
+        "ctaText": "Confirm Details & Start Chat",
+        "back": "Back",
+        "namasteIllustrationA11yLabel": "Namaste illustration",
+        "editDetailsA11yLabel": "Edit profile details",
+        "confirmA11yLabel": "Confirm details and start chat",
+        "confirmA11yHint": "Confirms your profile details and starts the chat session",
+        "backA11yLabel": "Go back",
+        "backA11yHint": "Returns to the previous screen"
+      }
+    },
     "home": {},
     "chat": {},
     "wallet": {},
