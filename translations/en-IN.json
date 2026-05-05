@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-04-v3",
+  "version": "2026-05-04-v4",
   "lang": "en-IN",
   "translations": {
     "common": {
@@ -43,7 +43,9 @@
       },
       "referralCode": {
         "title": "Have a referral code?",
-        "subtitle": "Earn up to ₹50"
+        "subtitle": "Earn up to ₹50",
+        "appliedReward": "GET ₹50",
+        "remove": "Remove Referral"
       }
     },
     "onboarding": {
