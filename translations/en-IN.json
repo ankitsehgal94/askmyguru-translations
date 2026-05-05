@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v5",
+  "version": "2026-05-05-v6",
   "lang": "en-IN",
   "translations": {
     "common": {
@@ -246,6 +246,29 @@
           "closeAccessibilityHint": "Dismisses the bottom sheet",
           "backdropAccessibilityLabel": "Close bottom sheet",
           "fallbackBenefitImageLabel": "Locked content"
+        }
+      },
+      "rating": {
+        "initialStep": {
+          "titlePrefix": "Please rate your Chat with {{guruName}}'s ",
+          "notSatisfiedLabel": "Not Satisfied",
+          "excellentLabel": "Excellent",
+          "rateYourExperience": "Rate your experience",
+          "pleaseTellUsMore": "Please tell us more",
+          "thoughtsPlaceholder": "Share your thoughts...",
+          "feedbackPlaceholder": "Write your feedback here...",
+          "submitCta": "Submit"
+        },
+        "thankYou": {
+          "title": "We sincerely Apologise for your experience.",
+          "body": "Thank you for your feedback. We're working on improvements and will share your suggestions with the Guru Avatar team.",
+          "customerSupportCta": "Talk to Customer Support",
+          "okayCta": "Okay"
+        },
+        "satisfiedThankYou": {
+          "title": "Thanks for the love!",
+          "body": "We're thrilled you liked the Guruji's advice!\nYour support keeps us going.",
+          "okayCta": "Okay"
         }
       },
       "freeChatInfo": {

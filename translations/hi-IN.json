@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v5",
+  "version": "2026-05-05-v6",
   "lang": "hi-IN",
   "translations": {
     "common": {
@@ -262,6 +262,29 @@
         "rechargeNowAccessibilityLabel": "मुफ़्त चैट पाने के लिए अभी रिचार्ज करें",
         "backgroundAccessibilityLabel": "मुफ़्त चैट बैकग्राउंड डिज़ाइन",
         "characterAccessibilityLabel": "मेगाफ़ोन के साथ घोषणा करता व्यक्ति"
+      },
+      "rating": {
+        "initialStep": {
+          "titlePrefix": "कृपया {{guruName}} के साथ अपनी चैट को रेट करें — ",
+          "notSatisfiedLabel": "संतुष्ट नहीं",
+          "excellentLabel": "उत्कृष्ट",
+          "rateYourExperience": "अपने अनुभव को रेट करें",
+          "pleaseTellUsMore": "कृपया हमें और बताएँ",
+          "thoughtsPlaceholder": "अपने विचार साझा करें...",
+          "feedbackPlaceholder": "अपनी प्रतिक्रिया यहाँ लिखें...",
+          "submitCta": "सबमिट करें"
+        },
+        "thankYou": {
+          "title": "आपके अनुभव के लिए हमें खेद है।",
+          "body": "आपकी प्रतिक्रिया के लिए धन्यवाद। हम सुधार पर काम कर रहे हैं और आपके सुझाव Guru Avatar टीम के साथ साझा करेंगे।",
+          "customerSupportCta": "ग्राहक सहायता से बात करें",
+          "okayCta": "ठीक है"
+        },
+        "satisfiedThankYou": {
+          "title": "आपके प्यार के लिए धन्यवाद!",
+          "body": "हमें खुशी है कि Guruji की सलाह आपको पसंद आई!\nआपका साथ हमें आगे बढ़ाता है।",
+          "okayCta": "ठीक है"
+        }
       }
     },
     "wallet": {},
