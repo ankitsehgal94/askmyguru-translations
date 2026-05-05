@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v8",
+  "version": "2026-05-05-v9",
   "lang": "en-IN",
   "translations": {
     "common": {
@@ -701,7 +701,84 @@
       },
       "transactionDetails": {
         "headerTitle": "Transaction Details",
-        "notFound": "Transaction not found"
+        "notFound": "Transaction not found",
+        "fields": {
+          "transactionId": "Transaction ID",
+          "transactionType": "Transaction Type",
+          "from": "From",
+          "dateAndTime": "Date & Time",
+          "callDuration": "Call Duration",
+          "inrDebited": "INR Debited",
+          "guruCoinsDebited": "Guru Coins Debited",
+          "guruCoinsRefunded": "Guru Coins Refunded",
+          "amountPaid": "Amount Paid",
+          "amountRefunded": "Amount Refunded",
+          "reportCategory": "Report Category",
+          "planName": "Plan Name",
+          "planType": "Plan Type",
+          "planAmount": "Plan Amount",
+          "newPlan": "New Plan",
+          "nextRenewal": "Next Renewal",
+          "chat": "Chat",
+          "guru": "Guru",
+          "guruCoins": "Guru Coins",
+          "orderId": "Order ID",
+          "paymentMethod": "Payment Method",
+          "paymentMode": "Payment Mode"
+        },
+        "types": {
+          "call": "Call",
+          "chat": "Chat",
+          "loginReward": "Login Reward",
+          "referralReward": "Referral Reward",
+          "reportPurchase": "Report Purchase",
+          "refundToWallet": "Refund to Wallet",
+          "reward": "Reward",
+          "subscriptionPayment": "Subscription Payment",
+          "subscriptionRenewal": "Subscription Renewal",
+          "subscriptionRenewed": "Subscription Renewed",
+          "subscriptionUpgrade": "Subscription Upgrade",
+          "subscriptionUpgraded": "Subscription Upgraded",
+          "subscriptionDowngrade": "Subscription Downgrade",
+          "subscriptionDowngraded": "Subscription Downgraded",
+          "subscriptionCancelled": "Subscription Cancelled",
+          "subscriptionRefund": "Subscription Refund",
+          "chatErrorRefund": "Chat Error Refund",
+          "wrongPredictionRefund": "Wrong Prediction Refund",
+          "reportRefund": "Report Refund",
+          "limitedChat": "Limited Chat",
+          "unlimitedChat": "Unlimited Chat"
+        },
+        "subtitles": {
+          "refund": "Refund",
+          "walletDeposit": "Wallet Deposit",
+          "guruCoinsDeposit": "Guru Coins Deposit",
+          "walletDebit": "Wallet Debit",
+          "reward": "Reward"
+        },
+        "deposit": {
+          "successful": "Deposit Successful",
+          "pending": "Deposit Pending",
+          "failed": "Deposit Failed",
+          "refunded": "Refunded"
+        },
+        "paymentMode": {
+          "upiMandate": "UPI Mandate",
+          "online": "Online",
+          "others": "Others"
+        },
+        "refreshCta": "Refresh"
+      },
+      "transactionListItem": {
+        "you": "You",
+        "detailsLink": "Details",
+        "free": "Free"
+      },
+      "transactionLineItem": {
+        "refund": "Refund",
+        "depositPending": "Deposit Pending",
+        "depositFailed": "Deposit Failed",
+        "depositCash": "Deposit Cash"
       },
       "transactionType": {
         "DEPOSIT": "Deposit",

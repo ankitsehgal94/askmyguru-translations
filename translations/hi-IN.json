@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v8",
+  "version": "2026-05-05-v9",
   "lang": "hi-IN",
   "translations": {
     "common": {
@@ -701,7 +701,73 @@
       },
       "transactionDetails": {
         "headerTitle": "लेनदेन विवरण",
-        "notFound": "लेनदेन नहीं मिला"
+        "notFound": "लेनदेन नहीं मिला",
+        "fields": {
+          "transactionId": "ट्रांज़ैक्शन ID",
+          "transactionType": "ट्रांज़ैक्शन प्रकार",
+          "from": "से",
+          "dateAndTime": "तिथि और समय",
+          "callDuration": "कॉल अवधि",
+          "inrDebited": "INR काटा गया",
+          "guruCoinsDebited": "Guru Coins काटे गए",
+          "guruCoinsRefunded": "Guru Coins वापस किए गए",
+          "amountPaid": "भुगतान की गई राशि",
+          "amountRefunded": "वापस की गई राशि",
+          "reportCategory": "रिपोर्ट श्रेणी",
+          "planName": "प्लान नाम",
+          "planType": "प्लान प्रकार",
+          "planAmount": "प्लान राशि",
+          "newPlan": "नया प्लान",
+          "nextRenewal": "अगला नवीनीकरण",
+          "chat": "चैट",
+          "guru": "Guru",
+          "guruCoins": "Guru Coins",
+          "orderId": "ऑर्डर ID",
+          "paymentMethod": "भुगतान विधि",
+          "paymentMode": "भुगतान मोड"
+        },
+        "types": {
+          "call": "कॉल",
+          "chat": "चैट",
+          "loginReward": "लॉगिन रिवार्ड",
+          "referralReward": "रेफरल रिवार्ड",
+          "reportPurchase": "रिपोर्ट खरीद",
+          "refundToWallet": "वॉलेट में रिफ़ंड",
+          "reward": "रिवार्ड",
+          "subscriptionPayment": "सब्सक्रिप्शन भुगतान",
+          "subscriptionRenewal": "सब्सक्रिप्शन नवीनीकरण",
+          "subscriptionRenewed": "सब्सक्रिप्शन नवीनीकृत",
+          "subscriptionUpgrade": "सब्सक्रिप्शन अपग्रेड",
+          "subscriptionUpgraded": "सब्सक्रिप्शन अपग्रेड किया गया",
+          "subscriptionDowngrade": "सब्सक्रिप्शन डाउनग्रेड",
+          "subscriptionDowngraded": "सब्सक्रिप्शन डाउनग्रेड किया गया",
+          "subscriptionCancelled": "सब्सक्रिप्शन रद्द",
+          "subscriptionRefund": "सब्सक्रिप्शन रिफ़ंड",
+          "chatErrorRefund": "चैट त्रुटि रिफ़ंड",
+          "wrongPredictionRefund": "गलत भविष्यवाणी रिफ़ंड",
+          "reportRefund": "रिपोर्ट रिफ़ंड",
+          "limitedChat": "सीमित चैट",
+          "unlimitedChat": "असीमित चैट"
+        },
+        "subtitles": {
+          "refund": "रिफ़ंड",
+          "walletDeposit": "वॉलेट डिपॉज़िट",
+          "guruCoinsDeposit": "Guru Coins डिपॉज़िट",
+          "walletDebit": "वॉलेट डेबिट",
+          "reward": "रिवार्ड"
+        },
+        "deposit": {
+          "successful": "डिपॉज़िट सफल",
+          "pending": "डिपॉज़िट लंबित",
+          "failed": "डिपॉज़िट विफल",
+          "refunded": "वापसी हुई"
+        },
+        "paymentMode": {
+          "upiMandate": "UPI Mandate",
+          "online": "ऑनलाइन",
+          "others": "अन्य"
+        },
+        "refreshCta": "रिफ़्रेश करें"
       },
       "transactionType": {
         "DEPOSIT": "डिपॉज़िट",
@@ -756,6 +822,17 @@
         "statusActive": "सक्रिय",
         "statusDeactivated": "निष्क्रिय",
         "viewButton": "देखें"
+      },
+      "transactionListItem": {
+        "you": "आप",
+        "detailsLink": "विवरण",
+        "free": "मुफ़्त"
+      },
+      "transactionLineItem": {
+        "refund": "रिफ़ंड",
+        "depositPending": "डिपॉज़िट लंबित",
+        "depositFailed": "डिपॉज़िट विफल",
+        "depositCash": "कैश डिपॉज़िट करें"
       }
     },
     "reports": {},
