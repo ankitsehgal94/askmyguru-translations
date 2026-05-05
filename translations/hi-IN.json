@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v7",
+  "version": "2026-05-05-v8",
   "lang": "hi-IN",
   "translations": {
     "common": {
@@ -289,7 +289,475 @@
         }
       }
     },
-    "wallet": {},
+    "wallet": {
+      "addMoney": {
+        "amountInputPlaceholder": "राशि दर्ज करें (₹{{minDepositAmount}} - ₹1000)",
+        "minimumAmountError": "कम से कम ₹{{minDepositAmount}} जोड़ें",
+        "getRupeesExtra": "₹{{dcOfferAmount}} अतिरिक्त पाएं",
+        "getGuruCoinsExtra": "{{gcOfferAmount}} Guru Coins अतिरिक्त पाएं",
+        "cashbackBadge": "{{offerPercentage}}% कैश-बैक",
+        "rechargeNow": "अभी रिचार्ज करें",
+        "payWith": "इससे भुगतान करें",
+        "freeChatPromoTitle": "अभी रिचार्ज करें और हर दिन 2 फ्री चैट पाएं",
+        "freeChatsExhaustedTitle": "आज {{used}}/{{total}} फ्री चैट उपयोग हो चुकी हैं।",
+        "freeChatsExhaustedSubtitle": "तुरंत चैट के लिए रिचार्ज करें, या फ्री चैट रीसेट होने का इंतज़ार करें।",
+        "defaultHeaderTitle": "कृपया रिचार्ज करें",
+        "defaultHeaderSubtitle": "Guruji से चैट जारी रखने के लिए",
+        "reportsHeaderDefaultTitle": "रिपोर्ट",
+        "reportsHeaderCurrentBalance": "मौजूदा बैलेंस ₹{{currentBalance}}",
+        "ftdValidTill": "पहली बार डिपॉज़िट का ऑफर इस तारीख तक मान्य",
+        "ftdDays": "{{days}} दिन",
+        "ftdDaysPlural": "{{days}} दिन",
+        "ftdGetExtraGuruCoins": "{{gcOfferAmount}} अतिरिक्त Guru Coins पाएं"
+      },
+      "addMoneyV2": {
+        "amountInput": {
+          "label": "राशि दर्ज करें",
+          "placeholder": "₹0",
+          "minimumDepositError": "न्यूनतम डिपॉज़िट राशि ₹{{minDepositAmount}} है"
+        },
+        "amountPills": {
+          "otherAmount": "अन्य राशि",
+          "chats": "{{count}} चैट",
+          "chatsPlural": "{{count}} चैट",
+          "rupeesExtra": "₹{{amount}} अतिरिक्त",
+          "extra": "{{amount}} अतिरिक्त",
+          "freeChats": "+ {{count}} फ्री चैट",
+          "freeChatsPlural": "+ {{count}} फ्री चैट",
+          "extraGuruCoin": "{{amount}} अतिरिक्त Guru Coin",
+          "guruCoinAccessibilityLabel": "Guru Coin"
+        },
+        "subscriptionWidget": {
+          "defaultTitle": "सब्सक्राइब करें",
+          "moreLinkDefault": "और",
+          "moreLinkV2": "और देखें",
+          "viewMoreAccessibilityLabel": "और सब्सक्रिप्शन प्लान देखें",
+          "viewMoreAccessibilityHint": "सभी उपलब्ध प्लान देखने के लिए डबल टैप करें",
+          "planAccessibilityHint": "इस प्लान को चुनने के लिए डबल टैप करें",
+          "planAccessibilityLabel": "{{amount}} रुपये प्रति {{interval}} सब्सक्रिप्शन प्लान",
+          "autopayEvery": "हर {{interval}} ऑटोपे",
+          "benefitsPillAccessibilityLabel": "{{pillText}}। फ़ायदे देखने के लिए टैप करें",
+          "subscribeWithTitle": "{{planTitle}} सब्सक्राइब करें"
+        },
+        "payPerChat": {
+          "defaultTitle": "हर चैट के लिए भुगतान करें",
+          "fallbackTitle": "हर चैट के लिए भुगतान करें",
+          "continueWithoutSubscription": "बिना सब्सक्रिप्शन के जारी रखें",
+          "orPayPerChat": "या हर चैट के लिए भुगतान करें",
+          "subscribeReportFree": "सब्सक्राइब करें और यह रिपोर्ट मुफ़्त पाएं",
+          "otherAmountAccessibilityLabel": "अन्य राशि दर्ज करें",
+          "otherAmountAccessibilityHint": "मनचाही राशि दर्ज करने के लिए डबल टैप करें"
+        },
+        "sheetHeader": {
+          "closeAccessibilityLabel": "ऐड मनी शीट बंद करें",
+          "closeAccessibilityHint": "वापस जाने के लिए डबल टैप करें",
+          "chatTitle": "चैट के लिए कृपया रिचार्ज करें",
+          "chatSubtitleFreePromo": "आपकी फ्री चैट की सीमा पूरी हो गई है",
+          "reportTitleDefault": "रिपोर्ट खरीद",
+          "reportCurrentBalance": "मौजूदा बैलेंस ₹{{currentBalance}}"
+        },
+        "paymentMethodSelector": {
+          "payWith": "इससे भुगतान करें",
+          "accessibilityLabel": "{{methodName}} से भुगतान करें",
+          "accessibilityHint": "भुगतान का तरीका बदलने के लिए डबल टैप करें",
+          "defaultMethodName": "अन्य भुगतान विकल्प"
+        },
+        "previousPaymentOption": {
+          "label": "पिछली राशि से भुगतान करें",
+          "accessibilityLabel": "पिछली राशि से भुगतान करें",
+          "accessibilityHint": "{{amount}} रुपये भुगतान करने के लिए डबल टैप करें"
+        },
+        "paymentModal": {
+          "headerTitle": "चैट के लिए रिचार्ज करें",
+          "closeAccessibilityLabel": "रिचार्ज स्क्रीन बंद करें",
+          "closeAccessibilityHint": "चैट पर वापस जाने के लिए डबल टैप करें"
+        },
+        "contentSubscription": {
+          "defaultTitle1": "अनलॉक करें",
+          "defaultTitle2": "VIP प्लान"
+        },
+        "footer": {
+          "buttonSubscribe": "₹{{amount}} में सब्सक्राइब करें",
+          "buttonAdd": "₹{{amount}} जोड़ें",
+          "buttonRechargeNow": "अभी रिचार्ज करें",
+          "buttonSubscribeAt": "₹{{amount}} में सब्सक्राइब करें",
+          "buttonUpgradeAt": "₹{{amount}} में अपग्रेड करें",
+          "buttonSubscribeNow": "अभी सब्सक्राइब करें",
+          "buttonUpgradeNow": "अभी अपग्रेड करें"
+        },
+        "config": {
+          "multiProfileUpsellTitle": "ज़्यादा परिवार/दोस्तों को अनलॉक/जोड़ने के लिए कृपया सब्सक्राइब करें",
+          "matchMakingUpsellTitle": "असीमित मैच अनलॉक करने के लिए सब्सक्राइब करें!",
+          "subscribeReportForFreeTitle": "सब्सक्राइब करें और यह रिपोर्ट मुफ़्त पाएं",
+          "unlimitedReports": "असीमित रिपोर्ट",
+          "allReportsFreeDescription": "सब्सक्रिप्शन के साथ सभी रिपोर्ट मुफ़्त पाएं"
+        }
+      },
+      "balanceScreen": {
+        "headerTitle": "मेरा बैलेंस",
+        "totalCash": "कुल कैश",
+        "guruCoins": "Guru Coins",
+        "addCash": "कैश जोड़ें",
+        "earnMore": "और कमाएं",
+        "whatAreGuruCoins": "Guru Coins क्या हैं?",
+        "yourTransactions": "आपके लेनदेन",
+        "tabOrders": "ऑर्डर",
+        "tabDeposits": "डिपॉज़िट",
+        "tabFailed": "विफल",
+        "failedToLoad": "{{tab}} लोड नहीं हो सका",
+        "pleaseTryAgain": "कृपया कुछ देर बाद पुनः प्रयास करें",
+        "noOrdersTitle": "कोई ऑर्डर नहीं मिला!",
+        "noOrdersDescription": "खरीदारी करने पर आपका ऑर्डर इतिहास यहाँ दिखेगा।",
+        "noDepositsTitle": "कोई डिपॉज़िट नहीं मिला!",
+        "noDepositsDescription": "वॉलेट में पैसे जोड़ने पर आपका डिपॉज़िट इतिहास यहाँ दिखेगा।",
+        "noFailedTitle": "कोई विफल लेनदेन नहीं!",
+        "noFailedDescription": "आपके पास कोई विफल लेनदेन नहीं है। आपके सभी लेनदेन सफल रहे।"
+      },
+      "depositSuggestion": {
+        "rupeesExtra": "₹{{amount}} अतिरिक्त",
+        "rupeesExtraWithChats": "₹{{amount}} अतिरिक्त • {{count}} चैट",
+        "rupeesExtraWithChatsPlural": "₹{{amount}} अतिरिक्त • {{count}} चैट",
+        "chatsOnly": "{{count}} चैट",
+        "chatsOnlyPlural": "{{count}} चैट",
+        "getGuruCoins": "Guru Coins पाएं"
+      },
+      "emptyTransactionState": {
+        "defaultTitle": "कोई लेनदेन नहीं मिला!",
+        "defaultDescription": "अपने पिछले लेनदेन का इतिहास यहाँ देखने के लिए वॉलेट का उपयोग शुरू करें।",
+        "noTransactionHistory": "कोई लेनदेन इतिहास नहीं मिला",
+        "failedToLoadDeposits": "डिपॉज़िट लोड नहीं हो सके",
+        "failedToLoadTransactions": "लेनदेन लोड नहीं हो सके",
+        "failedToLoadOrders": "ऑर्डर लोड नहीं हो सके",
+        "tryAgainLater": "कृपया कुछ देर बाद पुनः प्रयास करें"
+      },
+      "failedTransactions": {
+        "headerTitle": "विफल लेनदेन",
+        "loading": "विफल लेनदेन लोड हो रहे हैं...",
+        "empty": "कोई विफल लेनदेन नहीं मिला"
+      },
+      "ftdSuggestion": {
+        "validTill": "पहली बार डिपॉज़िट का ऑफर इस तारीख तक मान्य",
+        "dayLabel": "{{days}} दिन",
+        "daysLabel": "{{days}} दिन",
+        "rupeesExtra": "₹{{amount}} अतिरिक्त",
+        "extraGuruCoins": "{{amount}} अतिरिक्त Guru Coins पाएं"
+      },
+      "guruCoinsModal": {
+        "deposited": "जमा किया गया",
+        "guruCoinsCount": "{{count}} Guru Coins",
+        "worth": "मूल्य",
+        "congratulations": "बधाई हो!",
+        "howToUseTitle": "Guru Coins का उपयोग कैसे करें",
+        "useGuruCoins": "Guru Coins का उपयोग करें",
+        "guruName": "Guruji",
+        "callLabel": "कॉल",
+        "chatLabel": "चैट",
+        "hintText": "इस टैग वाले Gurus से चैट करने के लिए Guru Coins का उपयोग करें",
+        "primaryAction": "Guru Coins से चैट करें",
+        "primaryActionAccessibilityLabel": "Guru Coins से चैट करें",
+        "closeAccessibilityLabel": "बंद करें",
+        "closeAccessibilityHint": "मॉडल बंद करता है"
+      },
+      "notifications": {
+        "unlimitedChats": "असीमित चैट",
+        "freeChatsExhaustedTitle": "उपलब्ध फ्री चैट: 0",
+        "freeChatsExhaustedWithWalletSubtitle": "आपका कैश बैलेंस उपयोग होगा",
+        "freeChatsExhaustedNoWalletSubtitle": "अभी रिचार्ज करें",
+        "freeChatsAvailableTitle": "उपलब्ध फ्री चैट: {{count}}",
+        "freeChatsAvailableSubtitle": "हर दिन {{count}} फ्री चैट पाएं",
+        "paidChatsTitle": "उपलब्ध चैट: {{count}}",
+        "paidChatsSubtitle": "अभी रिचार्ज करें"
+      },
+      "paymentMethod": {
+        "UPI": "UPI",
+        "CARD": "कार्ड",
+        "NETBANKING": "नेट बैंकिंग",
+        "WALLET": "वॉलेट",
+        "unknown": "अज्ञात"
+      },
+      "paymentSelection": {
+        "headerTitle": "₹{{amount}} कैश जोड़ें",
+        "cashbackSubtitle": "{{count}} Guru Coins कैश-बैक पाएं",
+        "checkingApps": "इंस्टॉल किए गए ऐप जाँचे जा रहे हैं...",
+        "loadingPaymentMethods": "भुगतान विकल्प लोड हो रहे हैं...",
+        "noPaymentApps": "आपके डिवाइस पर कोई भुगतान ऐप नहीं मिला",
+        "installUpiApp": "जारी रखने के लिए कृपया PhonePe, Google Pay या Paytm जैसा कोई UPI ऐप इंस्टॉल करें",
+        "initiatingPayment": "भुगतान शुरू हो रहा है..."
+      },
+      "paymentStatus": {
+        "screen": {
+          "errorTitle": "भुगतान स्थिति लोड करने में त्रुटि",
+          "errorDescription": "हम भुगतान स्थिति लोड नहीं कर सके। कृपया पुनः प्रयास करें।",
+          "goBack": "वापस जाएं",
+          "goToHome": "होम पर जाएं",
+          "redirectingTo": "{{seconds}}s में {{screenName}} पर रीडायरेक्ट हो रहा है...",
+          "successTitle": "₹{{amount}} सफलतापूर्वक जोड़े गए",
+          "processingTitle": "आपका भुगतान प्रोसेस हो रहा है",
+          "processingDescription": "भुगतान प्रोसेस होते समय कृपया ऐप्लिकेशन बंद न करें",
+          "pendingTitle": "डिपॉज़िट लंबित",
+          "pendingDescription": "आपका डिपॉज़िट प्रोसेस हो रहा है। पूरा होते ही हम आपको सूचित करेंगे।",
+          "successFallbackTitle": "कैश सफलतापूर्वक जोड़ा गया",
+          "successFallbackDescription": "₹{{amount}} AskMyGuru में जोड़े गए",
+          "failedTitle": "भुगतान विफल!",
+          "failedDescription": "आपके खाते से कटी हुई कोई भी राशि 2-3 कार्य दिवसों में रिफंड कर दी जाएगी",
+          "offerPillRupeesExtra": "₹{{amount}} अतिरिक्त",
+          "offerPillGuruCoins": "{{count}} Guru Coin",
+          "offerPillGuruCoinsPlural": "{{count}} Guru Coins",
+          "offerPillWorthFreeChats": "{{count}} फ्री चैट के बराबर",
+          "offerPillWorthFreeChatsPlural": "{{count}} फ्री चैट के बराबर",
+          "offerPillUseGuruCoins": "मुफ़्त चैट के लिए Guru Coins का उपयोग करें।"
+        },
+        "PENDING": "लंबित",
+        "PROCESSING": "प्रक्रिया में",
+        "SUCCESS": "सफल",
+        "FAILED": "विफल",
+        "REFUNDED": "वापसी",
+        "CANCELLED": "रद्द",
+        "unknown": "अज्ञात"
+      },
+      "pendingDeposits": {
+        "sectionTitle": "डिपॉज़िट लंबित",
+        "itemTitle": "डिपॉज़िट लंबित"
+      },
+      "sheets": {
+        "addMoney": {
+          "popupName": "add_money"
+        },
+        "contentSubscription": {
+          "defaultTitle1": "अनलॉक करें",
+          "defaultTitle2Fallback": "VIP प्लान"
+        },
+        "depositOffer": {
+          "validForDays": "{{days}} दिनों के लिए मान्य",
+          "validForHoursMinutes": "{{hours}}h {{minutes}}m के लिए मान्य",
+          "cashbackTitle": "{{percentage}}% कैश-बैक",
+          "subtitle": "अतिरिक्त Guru चैट पाएं",
+          "addAmount": "₹{{amount}} जोड़ें",
+          "getLabel": "पाएं",
+          "extraGuruCoins": "{{amount}} अतिरिक्त",
+          "depositNow": "अभी डिपॉज़िट करें"
+        },
+        "planBenefits": {
+          "defaultTitle1": "अनलॉक करें",
+          "closeAccessibilityLabel": "बंद करें",
+          "closeAccessibilityHint": "बॉटम शीट को बंद करता है"
+        },
+        "guruCoinsFaq": {
+          "headerTitle": "Guru Coin के बारे में",
+          "question1": "Guru Coins क्या हैं?",
+          "question1Description": "Guru Coins प्लेटफ़ॉर्म पर एक वर्चुअल मुद्रा है।",
+          "valueLabel": "Guru Coin का मूल्य",
+          "question2": "मैं Guru Coins का उपयोग कहाँ कर सकता हूँ?",
+          "question2Description": "आप Guru Coins का उपयोग केवल उन Gurus से चैट करने के लिए कर सकते हैं जिनकी प्रोफ़ाइल पर \"Pay with Guru Coins\" टैग है।",
+          "question3": "Guru Coins कैसे कमाएं?",
+          "buttonNext": "आगे",
+          "buttonDone": "पूरा हुआ",
+          "buttonCancel": "रद्द करें"
+        }
+      },
+      "subscription": {
+        "details": {
+          "weeklyLabel": "साप्ताहिक सब्सक्रिप्शन:",
+          "monthlyLabel": "मासिक सब्सक्रिप्शन:",
+          "yearlyLabel": "वार्षिक सब्सक्रिप्शन:",
+          "priceLabel": "₹{{amount}}/ {{interval}}",
+          "nextBillingDate": "अगली बिलिंग तारीख:",
+          "accessUntil": "इस तारीख तक एक्सेस:",
+          "paymentMode": "भुगतान का तरीका:",
+          "deactivate": "निष्क्रिय करें"
+        },
+        "planCard": {
+          "defaultPlanName": "प्लान",
+          "saveBadge": "{{percent}}% बचाएं",
+          "bigSavings": "बड़ी बचत",
+          "intervalWeek": "सप्ताह",
+          "intervalMonth": "महीना",
+          "intervalYear": "साल",
+          "intervalPeriod": "अवधि",
+          "intervalWeekPlural": "{{count}} सप्ताह",
+          "intervalMonthPlural": "{{count}} महीने",
+          "intervalYearPlural": "{{count}} साल"
+        },
+        "hero": {
+          "subtitleSubscribed": "आनंद लें",
+          "subtitleNonSubscribed": "अनलॉक करें",
+          "titleLine1": "असीमित",
+          "titleLine2": "चैट"
+        },
+        "benefitMiniCard": {
+          "chatsBadge": "{{count}} चैट",
+          "youSavedAmount": "आपने ₹{{amount}} बचाए",
+          "unlimitedChats": "असीमित चैट",
+          "chatNow": "अभी चैट करें"
+        },
+        "activeBenefits": {
+          "title": "सक्रिय फ़ायदे"
+        },
+        "guruSavings": {
+          "title": "सब्सक्रिप्शन के साथ आपकी बचत"
+        },
+        "upgradeSection": {
+          "title": "अपग्रेड करें और बचाएं"
+        },
+        "reportsSection": {
+          "headerCount": "{{count}} {{reportText}} मुफ़्त पाएं",
+          "headerEmpty": "रिपोर्ट मुफ़्त पाएं",
+          "reportSingular": "रिपोर्ट",
+          "reportPlural": "रिपोर्ट"
+        },
+        "benefits": {
+          "autopayCancelAnytime": "ऑटोपे और कभी भी रद्द करें"
+        }
+      },
+      "subscriptionDeactivation": {
+        "headerTitle": "सब्सक्रिप्शन रद्द करें",
+        "confirmation": {
+          "alertErrorTitle": "त्रुटि",
+          "subscriptionIdNotFound": "सब्सक्रिप्शन ID नहीं मिली। कृपया पुनः प्रयास करें।",
+          "cancelFailedDefault": "सब्सक्रिप्शन रद्द नहीं हो सका। कृपया पुनः प्रयास करें।",
+          "title": "रद्दीकरण की पुष्टि करें?",
+          "currentSubscriptionWillBeCancelled": "आपका मौजूदा सब्सक्रिप्शन रद्द कर दिया जाएगा।",
+          "useTillDate": "आप {{benefitsEndDate}} तक अपने सब्सक्रिप्शन के फ़ायदे उपयोग कर पाएंगे।",
+          "cancelSubscription": "सब्सक्रिप्शन रद्द करें",
+          "doNotCancel": "रद्द न करें",
+          "successTitle": "सब्सक्रिप्शन सफलतापूर्वक रद्द हो गया।",
+          "successDescription": "आप {{benefitsEndDate}} तक अपने फ़ायदों का आनंद लेते रहेंगे।",
+          "okay": "ठीक है"
+        },
+        "lossOfBenefits": {
+          "subscriptionActiveSince": "{{startDate}} से सब्सक्रिप्शन सक्रिय है",
+          "loseAllBenefits": "रद्द करने पर आप सब्सक्रिप्शन के सभी फ़ायदे खो देंगे",
+          "benefitsLabel": "फ़ायदे:",
+          "cancelSubscription": "सब्सक्रिप्शन रद्द करें",
+          "doNotCancel": "रद्द न करें"
+        },
+        "cancellationReason": {
+          "promptUser": "{{userName}}, आपको जाते देख दुख है। सब्सक्रिप्शन रद्द करने का मुख्य कारण क्या है?",
+          "fallbackUserName": "उपयोगकर्ता",
+          "noReasonsAvailable": "रद्दीकरण फ़िलहाल उपलब्ध नहीं है। कृपया सहायता के लिए सपोर्ट से संपर्क करें।"
+        }
+      },
+      "subscriptionDetailsCard": {
+        "amountLabel": "सब्सक्रिप्शन राशि",
+        "transactionId": "लेनदेन ID",
+        "transactionType": "लेनदेन प्रकार",
+        "from": "से",
+        "fromOthers": "अन्य",
+        "dateAndTime": "तारीख और समय",
+        "nextBillingDate": "अगली बिलिंग तारीख"
+      },
+      "subscriptionInterval": {
+        "DAY": "दिन",
+        "WEEK": "सप्ताह",
+        "MONTH": "महीना",
+        "YEAR": "साल",
+        "WEEKLY": "साप्ताहिक",
+        "MONTHLY": "मासिक",
+        "QUARTERLY": "त्रैमासिक",
+        "YEARLY": "वार्षिक",
+        "ANNUAL": "वार्षिक",
+        "subscriptionFallback": "सब्सक्रिप्शन",
+        "unknown": "अज्ञात"
+      },
+      "subscriptionSelection": {
+        "subscribeTitle": "₹{{amount}}/{{interval}} सब्सक्राइब करें",
+        "upgradeTitle": "₹{{amount}}/{{interval}} अपग्रेड करें",
+        "checkingApps": "इंस्टॉल किए गए ऐप जाँचे जा रहे हैं...",
+        "loadingPaymentMethods": "भुगतान विकल्प लोड हो रहे हैं...",
+        "noPaymentApps": "आपके डिवाइस पर कोई भुगतान ऐप नहीं मिला",
+        "installUpiApp": "जारी रखने के लिए कृपया PhonePe, Google Pay या Paytm जैसा कोई UPI ऐप इंस्टॉल करें",
+        "creatingSubscription": "सब्सक्रिप्शन बनाया जा रहा है...",
+        "upgradingSubscription": "सब्सक्रिप्शन अपग्रेड हो रहा है...",
+        "upgradeScreenTitle": "अपग्रेड"
+      },
+      "subscriptionStatus": {
+        "screen": {
+          "errorTitle": "सब्सक्रिप्शन स्थिति लोड करने में त्रुटि",
+          "errorDescription": "हम सब्सक्रिप्शन स्थिति लोड नहीं कर सके। कृपया पुनः प्रयास करें।",
+          "goBack": "वापस जाएं",
+          "needHelp": "सहायता चाहिए?",
+          "redirectingTo": "{{seconds}}s में {{screenName}} पर रीडायरेक्ट हो रहा है...",
+          "successTitleWithInterval": "{{interval}} सब्सक्रिप्शन सक्रिय हुआ",
+          "processingTitle": "आपका सब्सक्रिप्शन प्रोसेस हो रहा है",
+          "processingDescription": "भुगतान प्रोसेस होते समय कृपया ऐप्लिकेशन बंद न करें",
+          "pendingTitle": "स्वीकृति लंबित",
+          "pendingDescription": "आपका डिपॉज़िट प्रोसेस हो रहा है। पूरा होते ही हम आपको सूचित करेंगे।",
+          "successTitle": "सब्सक्रिप्शन सफलतापूर्वक सक्रिय हुआ",
+          "successDescription": "आपका {{planName}} अब सक्रिय है। असीमित चैट एक्सेस का आनंद लें।",
+          "successDescriptionFallback": "आपका सब्सक्रिप्शन अब सक्रिय है। असीमित चैट एक्सेस का आनंद लें।",
+          "failedTitle": "स्वीकृति विफल!",
+          "failedDescription": "आपके खाते से कटी हुई कोई भी राशि 2-3 कार्य दिवसों में रिफंड कर दी जाएगी",
+          "paymentMethodDefault": "UPI मैंडेट"
+        },
+        "ACTIVE": "सक्रिय",
+        "EXPIRED": "समाप्त",
+        "CANCELLED": "रद्द",
+        "PAUSED": "रोका गया",
+        "TRIAL": "ट्रायल",
+        "PENDING": "लंबित",
+        "INITIALIZED": "शुरू किया गया",
+        "BANK_APPROVAL_PENDING": "बैंक स्वीकृति लंबित",
+        "unknown": "अज्ञात"
+      },
+      "transactionDetails": {
+        "headerTitle": "लेनदेन विवरण",
+        "notFound": "लेनदेन नहीं मिला"
+      },
+      "transactionType": {
+        "DEPOSIT": "डिपॉज़िट",
+        "REFUND": "रिफ़ंड",
+        "SUBSCRIPTION": "सब्सक्रिप्शन",
+        "CHAT": "चैट",
+        "REPORT": "रिपोर्ट",
+        "REWARD": "रिवार्ड",
+        "unknown": "अज्ञात"
+      },
+      "transactions": {
+        "yourTransactions": "आपके लेनदेन",
+        "failedTransactionLink": "विफल लेनदेन",
+        "emptyHistory": "कोई लेनदेन इतिहास नहीं मिला",
+        "screenNameHome": "होम",
+        "screenNameAddMoney": "पैसे जोड़ें",
+        "screenNameWallet": "वॉलेट",
+        "screenNameChat": "चैट",
+        "screenNameReports": "रिपोर्ट",
+        "screenNameSubscription": "सब्सक्रिप्शन",
+        "screenNameContent": "कंटेंट",
+        "screenNameDailyStatus": "रोज़ाना स्टेटस",
+        "screenNameMatchMaking": "मैच मेकिंग",
+        "screenNamePartnerKundli": "पार्टनर की कुंडली",
+        "screenNameAshtakoot": "अष्टकूट",
+        "backDefault": "वापस",
+        "backToHome": "होम पर वापस",
+        "backToAddMoney": "पैसे जोड़ें पर वापस",
+        "backToWallet": "वॉलेट पर वापस",
+        "backToChat": "चैट पर वापस",
+        "backToReports": "रिपोर्ट पर वापस",
+        "backToSubscription": "सब्सक्रिप्शन पर वापस",
+        "backToContent": "कंटेंट पर वापस",
+        "backToDailyStatus": "रोज़ाना स्टेटस पर वापस",
+        "backToMatchMaking": "मैच मेकिंग पर वापस",
+        "backToPartnerKundli": "पार्टनर की कुंडली पर वापस",
+        "backToAshtakoot": "अष्टकूट पर वापस"
+      },
+      "walletFooter": {
+        "rechargeNow": "अभी रिचार्ज करें",
+        "payWith": "इससे भुगतान करें"
+      },
+      "walletScreen": {
+        "headerTitle": "कैश जोड़ें",
+        "balanceSubtitle": "बैलेंस : ₹{{balance}}"
+      },
+      "walletSubscriptionBanner": {
+        "upsellTitle1": "ज़्यादा वैल्यू पाएं",
+        "upsellTitle2": "असीमित चैट अनलॉक करें",
+        "upsellCta": "अभी सब्सक्राइब करें",
+        "statusLabel": "सब्सक्रिप्शन स्थिति:",
+        "statusActive": "सक्रिय",
+        "statusDeactivated": "निष्क्रिय",
+        "viewButton": "देखें"
+      }
+    },
     "reports": {},
     "marketing": {},
     "profile": {},

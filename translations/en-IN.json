@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v7",
+  "version": "2026-05-05-v8",
   "lang": "en-IN",
   "translations": {
     "common": {
@@ -289,7 +289,475 @@
         "characterAccessibilityLabel": "Person with megaphone announcement"
       }
     },
-    "wallet": {},
+    "wallet": {
+      "addMoney": {
+        "amountInputPlaceholder": "Enter Amount (₹{{minDepositAmount}} - ₹1000)",
+        "minimumAmountError": "Add minimum ₹{{minDepositAmount}}",
+        "getRupeesExtra": "Get ₹{{dcOfferAmount}} extra",
+        "getGuruCoinsExtra": "Get {{gcOfferAmount}} Guru Coins extra",
+        "cashbackBadge": "{{offerPercentage}}% Cash-back",
+        "rechargeNow": "Recharge Now",
+        "payWith": "Pay with",
+        "freeChatPromoTitle": "Recharge Now and get 2 Free chats everyday",
+        "freeChatsExhaustedTitle": "{{used}}/{{total}} Free Chats Used Today.",
+        "freeChatsExhaustedSubtitle": "Recharge to chat instantly, or wait for free chats to reset.",
+        "defaultHeaderTitle": "Please recharge",
+        "defaultHeaderSubtitle": "to continue chatting with Guruji",
+        "reportsHeaderDefaultTitle": "Report",
+        "reportsHeaderCurrentBalance": "Current Balance ₹{{currentBalance}}",
+        "ftdValidTill": "First time deposit offer valid till",
+        "ftdDays": "{{days}} day",
+        "ftdDaysPlural": "{{days}} days",
+        "ftdGetExtraGuruCoins": "Get {{gcOfferAmount}} Extra Guru Coins"
+      },
+      "addMoneyV2": {
+        "amountInput": {
+          "label": "Enter Amount",
+          "placeholder": "₹0",
+          "minimumDepositError": "Minimum deposit amount is ₹{{minDepositAmount}}"
+        },
+        "amountPills": {
+          "otherAmount": "Other Amount",
+          "chats": "{{count}} Chat",
+          "chatsPlural": "{{count}} Chats",
+          "rupeesExtra": "₹{{amount}} extra",
+          "extra": "{{amount}} extra",
+          "freeChats": "+ {{count}} Free Chat",
+          "freeChatsPlural": "+ {{count}} Free Chats",
+          "extraGuruCoin": "{{amount}} Extra Guru Coin",
+          "guruCoinAccessibilityLabel": "Guru Coin"
+        },
+        "subscriptionWidget": {
+          "defaultTitle": "Subscribe",
+          "moreLinkDefault": "More",
+          "moreLinkV2": "View more",
+          "viewMoreAccessibilityLabel": "View more subscription plans",
+          "viewMoreAccessibilityHint": "Double tap to see all available plans",
+          "planAccessibilityHint": "Double tap to select this plan",
+          "planAccessibilityLabel": "{{amount}} rupees per {{interval}} subscription plan",
+          "autopayEvery": "Autopay Every {{interval}}",
+          "benefitsPillAccessibilityLabel": "{{pillText}}. Tap to view benefits",
+          "subscribeWithTitle": "Subscribe {{planTitle}}"
+        },
+        "payPerChat": {
+          "defaultTitle": "Pay per Chat",
+          "fallbackTitle": "Pay Per Chat",
+          "continueWithoutSubscription": "Continue without Subscription",
+          "orPayPerChat": "Or Pay per Chat",
+          "subscribeReportFree": "Subscribe & Get this Report for free",
+          "otherAmountAccessibilityLabel": "Enter other amount",
+          "otherAmountAccessibilityHint": "Double tap to enter custom amount"
+        },
+        "sheetHeader": {
+          "closeAccessibilityLabel": "Close add money sheet",
+          "closeAccessibilityHint": "Double tap to go back",
+          "chatTitle": "Please recharge to chat",
+          "chatSubtitleFreePromo": "Your free chat limit has been reached",
+          "reportTitleDefault": "Report Purchase",
+          "reportCurrentBalance": "Current Balance ₹{{currentBalance}}"
+        },
+        "paymentMethodSelector": {
+          "payWith": "Pay with",
+          "accessibilityLabel": "Pay with {{methodName}}",
+          "accessibilityHint": "Double tap to change payment method",
+          "defaultMethodName": "Other Payment Modes"
+        },
+        "previousPaymentOption": {
+          "label": "Pay with previous amount",
+          "accessibilityLabel": "Pay with previous amount",
+          "accessibilityHint": "Double tap to pay {{amount}} rupees"
+        },
+        "paymentModal": {
+          "headerTitle": "Recharge to chat",
+          "closeAccessibilityLabel": "Close recharge screen",
+          "closeAccessibilityHint": "Double tap to go back to chat"
+        },
+        "contentSubscription": {
+          "defaultTitle1": "Unlock",
+          "defaultTitle2": "VIP Plan"
+        },
+        "footer": {
+          "buttonSubscribe": "Subscribe @ ₹{{amount}}",
+          "buttonAdd": "Add ₹{{amount}}",
+          "buttonRechargeNow": "Recharge Now",
+          "buttonSubscribeAt": "Subscribe at ₹{{amount}}",
+          "buttonUpgradeAt": "Upgrade at ₹{{amount}}",
+          "buttonSubscribeNow": "Subscribe Now",
+          "buttonUpgradeNow": "Upgrade Now"
+        },
+        "config": {
+          "multiProfileUpsellTitle": "Please subscribe to unlock/add more Family/Friends",
+          "matchMakingUpsellTitle": "Subscribe To Unlock Unlimited Matches!",
+          "subscribeReportForFreeTitle": "Subscribe & Get this Report for free",
+          "unlimitedReports": "Unlimited Reports",
+          "allReportsFreeDescription": "Get all reports free with subscription"
+        }
+      },
+      "balanceScreen": {
+        "headerTitle": "My Balance",
+        "totalCash": "Total Cash",
+        "guruCoins": "Guru Coins",
+        "addCash": "Add Cash",
+        "earnMore": "Earn More",
+        "whatAreGuruCoins": "What are Guru Coins?",
+        "yourTransactions": "Your Transactions",
+        "tabOrders": "Orders",
+        "tabDeposits": "Deposits",
+        "tabFailed": "Failed",
+        "failedToLoad": "Failed to load {{tab}}",
+        "pleaseTryAgain": "Please try again later",
+        "noOrdersTitle": "No Orders Found!",
+        "noOrdersDescription": "Your order history will appear here once you make a purchase.",
+        "noDepositsTitle": "No Deposits Found!",
+        "noDepositsDescription": "Your deposit history will appear here once you add funds to your wallet.",
+        "noFailedTitle": "No Failed Transactions!",
+        "noFailedDescription": "You have no failed transactions. All your transactions were successful."
+      },
+      "depositSuggestion": {
+        "rupeesExtra": "₹{{amount}} extra",
+        "rupeesExtraWithChats": "₹{{amount}} extra • {{count}} Chat",
+        "rupeesExtraWithChatsPlural": "₹{{amount}} extra • {{count}} Chats",
+        "chatsOnly": "{{count}} Chat",
+        "chatsOnlyPlural": "{{count}} Chats",
+        "getGuruCoins": "Get Guru Coins"
+      },
+      "emptyTransactionState": {
+        "defaultTitle": "No Transactions Found!",
+        "defaultDescription": "Start using your wallet to see your past transaction history here.",
+        "noTransactionHistory": "No transaction history found",
+        "failedToLoadDeposits": "Failed to load deposits",
+        "failedToLoadTransactions": "Failed to load transactions",
+        "failedToLoadOrders": "Failed to load orders",
+        "tryAgainLater": "Please try again later"
+      },
+      "failedTransactions": {
+        "headerTitle": "Failed Transactions",
+        "loading": "Loading failed transactions...",
+        "empty": "No failed transactions found"
+      },
+      "ftdSuggestion": {
+        "validTill": "First time deposit offer valid till",
+        "dayLabel": "{{days}} day",
+        "daysLabel": "{{days}} days",
+        "rupeesExtra": "₹{{amount}} extra",
+        "extraGuruCoins": "Get {{amount}} Extra Guru Coins"
+      },
+      "guruCoinsModal": {
+        "deposited": "Deposited",
+        "guruCoinsCount": "{{count}} Guru Coins",
+        "worth": "Worth",
+        "congratulations": "Congratulations!",
+        "howToUseTitle": "How to use Guru coins",
+        "useGuruCoins": "Use Guru Coins",
+        "guruName": "Gurji",
+        "callLabel": "Call",
+        "chatLabel": "Chat",
+        "hintText": "Use Guru coins to chat with Gurus with this tag",
+        "primaryAction": "Chat With Guru Coins",
+        "primaryActionAccessibilityLabel": "Chat With Guru Coins",
+        "closeAccessibilityLabel": "Close",
+        "closeAccessibilityHint": "Closes the modal"
+      },
+      "notifications": {
+        "unlimitedChats": "Unlimited Chats",
+        "freeChatsExhaustedTitle": "Available Free chats: 0",
+        "freeChatsExhaustedWithWalletSubtitle": "Your cash balance will be used",
+        "freeChatsExhaustedNoWalletSubtitle": "Recharge Now",
+        "freeChatsAvailableTitle": "Available Free chats: {{count}}",
+        "freeChatsAvailableSubtitle": "Get {{count}} Free Chats Everyday",
+        "paidChatsTitle": "Available chats: {{count}}",
+        "paidChatsSubtitle": "Recharge Now"
+      },
+      "paymentMethod": {
+        "UPI": "UPI",
+        "CARD": "Card",
+        "NETBANKING": "Net Banking",
+        "WALLET": "Wallet",
+        "unknown": "Unknown"
+      },
+      "paymentSelection": {
+        "headerTitle": "Add Cash ₹{{amount}}",
+        "cashbackSubtitle": "Get {{count}} Guru Coins Cash-back",
+        "checkingApps": "Checking installed apps...",
+        "loadingPaymentMethods": "Loading payment methods...",
+        "noPaymentApps": "No payment apps found on your device",
+        "installUpiApp": "Please install a UPI app like PhonePe, Google Pay, or Paytm to continue",
+        "initiatingPayment": "Initiating Payment..."
+      },
+      "paymentStatus": {
+        "screen": {
+          "errorTitle": "Error Loading Payment Status",
+          "errorDescription": "We couldn't load the payment status. Please try again.",
+          "goBack": "Go Back",
+          "goToHome": "Go to Home",
+          "redirectingTo": "Redirecting to {{screenName}} in {{seconds}}s...",
+          "successTitle": "₹{{amount}} Added Successfully",
+          "processingTitle": "Processing Your Payment",
+          "processingDescription": "Please do not close the Application while payment is processing",
+          "pendingTitle": "Deposit Pending",
+          "pendingDescription": "Your deposit is being processed. We'll notify you once it's completed.",
+          "successFallbackTitle": "Cash Added Successfully",
+          "successFallbackDescription": "₹{{amount}} Added to AskMyGuru",
+          "failedTitle": "Payment Failed!",
+          "failedDescription": "Any deducted balance from your account will be refunded in 2-3 business days",
+          "offerPillRupeesExtra": "₹{{amount}} extra",
+          "offerPillGuruCoins": "{{count}} Guru Coin",
+          "offerPillGuruCoinsPlural": "{{count}} Guru Coins",
+          "offerPillWorthFreeChats": "Worth {{count}} Free Chat",
+          "offerPillWorthFreeChatsPlural": "Worth {{count}} Free Chats",
+          "offerPillUseGuruCoins": "Use Guru Coins to Chat for free."
+        },
+        "PENDING": "Pending",
+        "PROCESSING": "Processing",
+        "SUCCESS": "Successful",
+        "FAILED": "Failed",
+        "REFUNDED": "Refunded",
+        "CANCELLED": "Cancelled",
+        "unknown": "Unknown"
+      },
+      "pendingDeposits": {
+        "sectionTitle": "Deposit Pending",
+        "itemTitle": "Deposit Pending"
+      },
+      "sheets": {
+        "addMoney": {
+          "popupName": "add_money"
+        },
+        "contentSubscription": {
+          "defaultTitle1": "Unlock",
+          "defaultTitle2Fallback": "VIP Plan"
+        },
+        "depositOffer": {
+          "validForDays": "Valid for {{days}} days",
+          "validForHoursMinutes": "Valid for {{hours}}h {{minutes}}m",
+          "cashbackTitle": "{{percentage}}% Cash-back",
+          "subtitle": "Get extra Guru chats",
+          "addAmount": "Add ₹{{amount}}",
+          "getLabel": "Get",
+          "extraGuruCoins": "{{amount}} extra",
+          "depositNow": "Deposit Now"
+        },
+        "planBenefits": {
+          "defaultTitle1": "Unlock",
+          "closeAccessibilityLabel": "Close",
+          "closeAccessibilityHint": "Dismisses the bottom sheet"
+        },
+        "guruCoinsFaq": {
+          "headerTitle": "About Guru Coin",
+          "question1": "What are Guru Coins?",
+          "question1Description": "Guru Coins are a virtual currency on the platform.",
+          "valueLabel": "Value of Guru Coin",
+          "question2": "Where can I use Guru Coins?",
+          "question2Description": "You can use Guru Coins only to chat with Gurus who have the \"Pay with Guru Coins\" tag on their profile.",
+          "question3": "How to earn Guru Coins?",
+          "buttonNext": "Next",
+          "buttonDone": "Done",
+          "buttonCancel": "Cancel"
+        }
+      },
+      "subscription": {
+        "details": {
+          "weeklyLabel": "Weekly Subscription:",
+          "monthlyLabel": "Monthly Subscription:",
+          "yearlyLabel": "Yearly Subscription:",
+          "priceLabel": "₹{{amount}}/ {{interval}}",
+          "nextBillingDate": "Next Billing Date:",
+          "accessUntil": "Access Until:",
+          "paymentMode": "Payment Mode:",
+          "deactivate": "Deactivate"
+        },
+        "planCard": {
+          "defaultPlanName": "Plan",
+          "saveBadge": "Save {{percent}}%",
+          "bigSavings": "Big Savings",
+          "intervalWeek": "week",
+          "intervalMonth": "month",
+          "intervalYear": "year",
+          "intervalPeriod": "period",
+          "intervalWeekPlural": "{{count}} weeks",
+          "intervalMonthPlural": "{{count}} months",
+          "intervalYearPlural": "{{count}} years"
+        },
+        "hero": {
+          "subtitleSubscribed": "Enjoy",
+          "subtitleNonSubscribed": "Unlock",
+          "titleLine1": "Unlimited",
+          "titleLine2": "Chats"
+        },
+        "benefitMiniCard": {
+          "chatsBadge": "{{count}} Chats",
+          "youSavedAmount": "You Saved ₹{{amount}}",
+          "unlimitedChats": "Unlimited Chats",
+          "chatNow": "Chat Now"
+        },
+        "activeBenefits": {
+          "title": "Active Benefits"
+        },
+        "guruSavings": {
+          "title": "Your Savings with Subscription"
+        },
+        "upgradeSection": {
+          "title": "Upgrade & Save"
+        },
+        "reportsSection": {
+          "headerCount": "Get {{count}} {{reportText}} for Free",
+          "headerEmpty": "Get Reports for Free",
+          "reportSingular": "Report",
+          "reportPlural": "Reports"
+        },
+        "benefits": {
+          "autopayCancelAnytime": "Autopay and Cancel Anytime"
+        }
+      },
+      "subscriptionDeactivation": {
+        "headerTitle": "Cancel Subscription",
+        "confirmation": {
+          "alertErrorTitle": "Error",
+          "subscriptionIdNotFound": "Subscription ID not found. Please try again.",
+          "cancelFailedDefault": "Failed to cancel subscription. Please try again.",
+          "title": "Confirm Cancellation?",
+          "currentSubscriptionWillBeCancelled": "Your current subscription will be cancelled.",
+          "useTillDate": "You will be able to use your subscription benefits till {{benefitsEndDate}}.",
+          "cancelSubscription": "Cancel Subscription",
+          "doNotCancel": "Do Not Cancel",
+          "successTitle": "Subscription cancelled successfully.",
+          "successDescription": "You'll continue to enjoy your benefits till {{benefitsEndDate}}.",
+          "okay": "Okay"
+        },
+        "lossOfBenefits": {
+          "subscriptionActiveSince": "Subscription active since {{startDate}}",
+          "loseAllBenefits": "You will lose all Subscription benefits if you cancel",
+          "benefitsLabel": "Benefits:",
+          "cancelSubscription": "Cancel Subscription",
+          "doNotCancel": "Do Not Cancel"
+        },
+        "cancellationReason": {
+          "promptUser": "{{userName}}, sorry to see you go. What is the main reason for cancelling your subscription?",
+          "fallbackUserName": "User",
+          "noReasonsAvailable": "Cancellation is currently not available. Please contact support for assistance."
+        }
+      },
+      "subscriptionDetailsCard": {
+        "amountLabel": "Subscription Amount",
+        "transactionId": "Transaction ID",
+        "transactionType": "Transaction Type",
+        "from": "From",
+        "fromOthers": "Others",
+        "dateAndTime": "Date & Time",
+        "nextBillingDate": "Next Billing Date"
+      },
+      "subscriptionInterval": {
+        "DAY": "Day",
+        "WEEK": "Week",
+        "MONTH": "Month",
+        "YEAR": "Year",
+        "WEEKLY": "Weekly",
+        "MONTHLY": "Monthly",
+        "QUARTERLY": "Quarterly",
+        "YEARLY": "Yearly",
+        "ANNUAL": "Annual",
+        "subscriptionFallback": "Subscription",
+        "unknown": "Unknown"
+      },
+      "subscriptionSelection": {
+        "subscribeTitle": "Subscribe ₹{{amount}}/{{interval}}",
+        "upgradeTitle": "Upgrade ₹{{amount}}/{{interval}}",
+        "checkingApps": "Checking installed apps...",
+        "loadingPaymentMethods": "Loading payment methods...",
+        "noPaymentApps": "No payment apps found on your device",
+        "installUpiApp": "Please install a UPI app like PhonePe, Google Pay, or Paytm to continue",
+        "creatingSubscription": "Creating Subscription...",
+        "upgradingSubscription": "Upgrading Subscription...",
+        "upgradeScreenTitle": "Upgrade"
+      },
+      "subscriptionStatus": {
+        "screen": {
+          "errorTitle": "Error Loading Subscription Status",
+          "errorDescription": "We couldn't load the subscription status. Please try again.",
+          "goBack": "Go Back",
+          "needHelp": "Need Help?",
+          "redirectingTo": "Redirecting to {{screenName}} in {{seconds}}s...",
+          "successTitleWithInterval": "{{interval}} Subscription Activated",
+          "processingTitle": "Processing Your Subscription",
+          "processingDescription": "Please do not close the Application while payment is processing",
+          "pendingTitle": "Authorisation Pending",
+          "pendingDescription": "Your deposit is being processed. We'll notify you once it's completed.",
+          "successTitle": "Subscription Activated Successfully",
+          "successDescription": "Your {{planName}} is now active. Enjoy unlimited chat access.",
+          "successDescriptionFallback": "Your subscription is now active. Enjoy unlimited chat access.",
+          "failedTitle": "Authorisation Failed!",
+          "failedDescription": "Any deducted balance from your account will be refunded in 2-3 business days",
+          "paymentMethodDefault": "UPI Mandate"
+        },
+        "ACTIVE": "Active",
+        "EXPIRED": "Expired",
+        "CANCELLED": "Cancelled",
+        "PAUSED": "Paused",
+        "TRIAL": "Trial",
+        "PENDING": "Pending",
+        "INITIALIZED": "Initialized",
+        "BANK_APPROVAL_PENDING": "Bank Approval Pending",
+        "unknown": "Unknown"
+      },
+      "transactionDetails": {
+        "headerTitle": "Transaction Details",
+        "notFound": "Transaction not found"
+      },
+      "transactionType": {
+        "DEPOSIT": "Deposit",
+        "REFUND": "Refund",
+        "SUBSCRIPTION": "Subscription",
+        "CHAT": "Chat",
+        "REPORT": "Report",
+        "REWARD": "Reward",
+        "unknown": "Unknown"
+      },
+      "transactions": {
+        "yourTransactions": "Your Transactions",
+        "failedTransactionLink": "Failed Transaction",
+        "emptyHistory": "No transaction history found",
+        "screenNameHome": "Home",
+        "screenNameAddMoney": "Add Money",
+        "screenNameWallet": "Wallet",
+        "screenNameChat": "Chat",
+        "screenNameReports": "Reports",
+        "screenNameSubscription": "Subscription",
+        "screenNameContent": "Content",
+        "screenNameDailyStatus": "Daily Status",
+        "screenNameMatchMaking": "Match Making",
+        "screenNamePartnerKundli": "Partner's Kundli",
+        "screenNameAshtakoot": "Ashtakoot",
+        "backDefault": "Back",
+        "backToHome": "Back to Home",
+        "backToAddMoney": "Back to Add Money",
+        "backToWallet": "Back to Wallet",
+        "backToChat": "Back to Chat",
+        "backToReports": "Back to Reports",
+        "backToSubscription": "Back to Subscription",
+        "backToContent": "Back to Content",
+        "backToDailyStatus": "Back To Daily Status",
+        "backToMatchMaking": "Back to Match Making",
+        "backToPartnerKundli": "Back to Partner's Kundli",
+        "backToAshtakoot": "Back to Ashtakoot"
+      },
+      "walletFooter": {
+        "rechargeNow": "Recharge Now",
+        "payWith": "Pay with"
+      },
+      "walletScreen": {
+        "headerTitle": "Add Cash",
+        "balanceSubtitle": "Balance : ₹{{balance}}"
+      },
+      "walletSubscriptionBanner": {
+        "upsellTitle1": "Get More Value",
+        "upsellTitle2": "Unlock Unlimited Chats",
+        "upsellCta": "Subscribe Now",
+        "statusLabel": "Subscription Status:",
+        "statusActive": "Active",
+        "statusDeactivated": "Deactivated",
+        "viewButton": "View"
+      }
+    },
     "reports": {},
     "marketing": {},
     "profile": {},
