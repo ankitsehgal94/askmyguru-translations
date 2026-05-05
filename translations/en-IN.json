@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-04-v2",
+  "version": "2026-05-04-v3",
   "lang": "en-IN",
   "translations": {
     "common": {
@@ -40,6 +40,10 @@
         "verifyOtp": "Verify OTP",
         "invalidOtp": "Invalid OTP. Please try again.",
         "editNumberA11yLabel": "Edit phone number"
+      },
+      "referralCode": {
+        "title": "Have a referral code?",
+        "subtitle": "Earn up to ₹50"
       }
     },
     "onboarding": {

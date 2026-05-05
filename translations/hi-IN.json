@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-04-v2",
+  "version": "2026-05-04-v3",
   "lang": "hi-IN",
   "translations": {
     "common": {
@@ -40,6 +40,10 @@
         "verifyOtp": "OTP सत्यापित करें",
         "invalidOtp": "अमान्य OTP। कृपया पुनः प्रयास करें।",
         "editNumberA11yLabel": "फ़ोन नंबर संपादित करें"
+      },
+      "referralCode": {
+        "title": "क्या आपके पास रेफरल कोड है?",
+        "subtitle": "₹50 तक कमाएँ"
       }
     },
     "onboarding": {
