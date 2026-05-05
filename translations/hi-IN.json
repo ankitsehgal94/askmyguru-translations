@@ -505,7 +505,11 @@
           "offerPillGuruCoinsPlural": "{{count}} Guru Coins",
           "offerPillWorthFreeChats": "{{count}} फ्री चैट के बराबर",
           "offerPillWorthFreeChatsPlural": "{{count}} फ्री चैट के बराबर",
-          "offerPillUseGuruCoins": "मुफ़्त चैट के लिए Guru Coins का उपयोग करें।"
+          "offerPillUseGuruCoins": "मुफ़्त चैट के लिए Guru Coins का उपयोग करें।",
+          "processingInfoLine1": "स्थिति प्राप्त करने में आम तौर पर 5 मिनट लगते हैं!",
+          "processingInfoLine2": "कृपया प्रतीक्षा करें ",
+          "hangTightTitle": "धैर्य रखें – हम इस पर काम कर रहे हैं!",
+          "hangTightBody": "कभी-कभी भुगतान में थोड़ा अधिक समय लगता है। निश्चिंत रहें, आपका पैसा सुरक्षित है।"
         },
         "PENDING": "लंबित",
         "PROCESSING": "प्रक्रिया में",
@@ -724,7 +728,9 @@
           "guruCoins": "Guru Coins",
           "orderId": "ऑर्डर ID",
           "paymentMethod": "भुगतान विधि",
-          "paymentMode": "भुगतान मोड"
+          "paymentMode": "भुगतान मोड",
+          "depositAmount": "डिपॉज़िट राशि",
+          "fromOthers": "अन्य"
         },
         "types": {
           "call": "कॉल",

@@ -505,7 +505,11 @@
           "offerPillGuruCoinsPlural": "{{count}} Guru Coins",
           "offerPillWorthFreeChats": "Worth {{count}} Free Chat",
           "offerPillWorthFreeChatsPlural": "Worth {{count}} Free Chats",
-          "offerPillUseGuruCoins": "Use Guru Coins to Chat for free."
+          "offerPillUseGuruCoins": "Use Guru Coins to Chat for free.",
+          "processingInfoLine1": "It usually takes 5 mins to get the status!",
+          "processingInfoLine2": "Please hold on for ",
+          "hangTightTitle": "Hang tight – we're on it!",
+          "hangTightBody": "Sometimes payments take a little longer. Rest assured, your money is safe."
         },
         "PENDING": "Pending",
         "PROCESSING": "Processing",
@@ -724,7 +728,9 @@
           "guruCoins": "Guru Coins",
           "orderId": "Order ID",
           "paymentMethod": "Payment Method",
-          "paymentMode": "Payment Mode"
+          "paymentMode": "Payment Mode",
+          "depositAmount": "Deposit Amount",
+          "fromOthers": "Others"
         },
         "types": {
           "call": "Call",
