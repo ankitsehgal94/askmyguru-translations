@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v6",
+  "version": "2026-05-05-v7",
   "lang": "hi-IN",
   "translations": {
     "common": {
@@ -272,7 +272,9 @@
           "pleaseTellUsMore": "कृपया हमें और बताएँ",
           "thoughtsPlaceholder": "अपने विचार साझा करें...",
           "feedbackPlaceholder": "अपनी प्रतिक्रिया यहाँ लिखें...",
-          "submitCta": "सबमिट करें"
+          "submitCta": "सबमिट करें",
+          "satisfiedFeedbackLabel": "अनुभव के बारे में आपको क्या पसंद आया हमें बताएँ (वैकल्पिक)",
+          "additionalFeedbackLabel": "क्या आप कुछ और साझा करना चाहेंगे?"
         },
         "thankYou": {
           "title": "आपके अनुभव के लिए हमें खेद है।",

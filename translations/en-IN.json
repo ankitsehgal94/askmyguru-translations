@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-05-v6",
+  "version": "2026-05-05-v7",
   "lang": "en-IN",
   "translations": {
     "common": {
@@ -257,6 +257,8 @@
           "pleaseTellUsMore": "Please tell us more",
           "thoughtsPlaceholder": "Share your thoughts...",
           "feedbackPlaceholder": "Write your feedback here...",
+          "satisfiedFeedbackLabel": "Tell us what you loved about the experience (Optional)",
+          "additionalFeedbackLabel": "Anything else you'd like to share?",
           "submitCta": "Submit"
         },
         "thankYou": {
