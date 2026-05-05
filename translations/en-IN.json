@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-04-v4",
+  "version": "2026-05-05-v5",
   "lang": "en-IN",
   "translations": {
     "common": {
@@ -98,7 +98,172 @@
       }
     },
     "home": {},
-    "chat": {},
+    "chat": {
+      "screen": {
+        "categoryPrefix": "AI {{category}}",
+        "deleteChatMenuItem": "Delete Chat",
+        "guruOfflineToast": "Guru is currently offline",
+        "fallbackUserName": "User",
+        "fallbackGuruName": "Guru",
+        "guruTypingMessage": "Please wait while Guruji is typing...",
+        "transactionToastBoth": "₹{{depositAmount}} | {{coinAmount}} Guru Coins used from your wallet",
+        "transactionToastDeposit": "₹{{depositAmount}} used from your wallet",
+        "transactionToastCoins": "{{coinAmount}} Guru Coins used from your wallet",
+        "transactionToastDetails": "Thanks for connecting with {{guruName}}",
+        "profileMessageHeader": "Hello {{guruName}}, below are my Profile Information:",
+        "profileMessageFallback": "Hello, below are my Profile Information:\nName: User\nGender: Not specified",
+        "profileMessageNameLine": "Name: {{name}}",
+        "profileMessageGenderLine": "Gender: {{gender}}",
+        "profileMessageDobLine": "DOB: {{dob}}",
+        "profileMessageTobLine": "TOB: {{tob}}",
+        "profileMessageLocationLine": "Location: {{location}}",
+        "profileMessageLocationNotSpecified": "Location: Not specified",
+        "profileMessageGenderNotSpecified": "Not specified",
+        "profileMessageNameFallback": "null"
+      },
+      "input": {
+        "placeholderWithName": "Message {{guruName}}",
+        "placeholderDefault": "Message",
+        "sendAccessibilityLabel": "Send message",
+        "micAccessibilityLabel": "Record audio message",
+        "pickFromGalleryAccessibilityLabel": "Pick from gallery",
+        "takePhotoAccessibilityLabel": "Take a photo"
+      },
+      "recording": {},
+      "errorBoundary": {
+        "title": "Chat Temporarily Unavailable",
+        "message": "We're experiencing technical difficulties with the chat feature.",
+        "retryCta": "Try Again",
+        "devErrorTitle": "Development Error Details:"
+      },
+      "contextBar": {
+        "dismissAccessibilityLabel": "Dismiss context"
+      },
+      "paymentCard": {
+        "title": "Recharge to Unlock Answer",
+        "lockIconAccessibilityLabel": "Locked content",
+        "subscriptionUnlimited": "₹{{amount}} → Unlimited Chats",
+        "subscriptionAccessibilityLabel": "Subscribe for {{amount}} rupees",
+        "subscriptionAccessibilityHint": "Opens payment screen",
+        "depositChats": "₹{{amount}} → {{count}} Chats",
+        "depositAccessibilityLabel": "Recharge {{amount}} rupees for {{count}} chats",
+        "depositAccessibilityHint": "Opens payment screen",
+        "extraChats_one": "+ {{count}} Free Chat Extra",
+        "extraChats_other": "+ {{count}} Free Chats Extra"
+      },
+      "imageViewer": {
+        "closeAccessibilityLabel": "Close image viewer",
+        "closeAccessibilityHint": "Tap to close the full-screen image"
+      },
+      "attachmentPreview": {
+        "uploadingProgress": "Uploading... {{percent}}%",
+        "uploadFailed": "Upload failed.",
+        "uploaded": "Uploaded"
+      },
+      "list": {
+        "today": "Today",
+        "yesterday": "Yesterday"
+      },
+      "item": {
+        "messageFailed": "Message Failed",
+        "resend": "Resend",
+        "resendAccessibilityLabel": "Resend message",
+        "resendAccessibilityHint": "Tap to add this message to the input field",
+        "disclaimer": "Disclaimer",
+        "enterKundaliPrompt": "Please help me with your Details to give better answer. Click on the link below.",
+        "enterKundaliCta": "Enter Kundali",
+        "kundliCardTitle": "Your Kundli",
+        "kundliRashi": "Rashi: {{rashi}}",
+        "kundliNakshatra": "Nakshatra: {{nakshatra}}",
+        "shareChartCta": "Share Chart",
+        "reportHeader": "{{reportType}} Guidance Report"
+      },
+      "header": {
+        "backAccessibilityLabel": "chat-back-button",
+        "menuAccessibilityLabel": "chat-menu-button",
+        "rupeeAccessibilityLabel": "chat-rupee-icon",
+        "deleteAccessibilityLabel": "chat-delete-button"
+      },
+      "suggestions": {
+        "header": "Suggested Questions",
+        "show": "Show",
+        "hide": "Hide",
+        "more": "More",
+        "moreSuggestions": "More Suggestions",
+        "modalTitle": "More Suggestions",
+        "forYouCategory": "For You",
+        "emptyState": "No suggestions available"
+      },
+      "notifications": {
+        "chat": {},
+        "wallet": {},
+        "transaction": {},
+        "guruTyping": {
+          "fallbackMessage": "Please wait while Guruji is typing..."
+        },
+        "delayWarning": {}
+      },
+      "actionBanner": {
+        "freeChatLimitReached": {
+          "title": "Free Chat Limit Reached.",
+          "actionText": "Recharge Now!"
+        },
+        "lowBalance": {
+          "title": "Low Balance",
+          "actionText": "Recharge Now!"
+        },
+        "noChatsAvailable": "Available chats: 0",
+        "freeChatStatus": "Available Free Chat:",
+        "guruCoinsUsing": "Using {{count}} Guru Coins",
+        "guruCoinsChatsBadge": "{{count}} Chats",
+        "infoCashBalance": "Cash balance will be used now",
+        "subscriptionUnlimited": "Unlimited Chats",
+        "infoCostFor": " for {{count}} Chats"
+      },
+      "sheets": {
+        "completion": {
+          "title": "Unlimited Free Chats",
+          "freeChatsPill": "Get {{count}} Free Chats Everyday",
+          "refreshingTimer": "refreshing in {{timer}}",
+          "completedToday": "{{used}}/{{total}} chats completed for today!",
+          "exploreCta": "Explore Gurus",
+          "rechargeCta": "Recharge Now"
+        },
+        "deleteConfirmation": {
+          "message": "Are you sure you want to delete this chat?",
+          "confirmCta": "Confirm Delete",
+          "cancelCta": "Cancel"
+        },
+        "freeChatFaq": {
+          "title": "Free Chat Everyday",
+          "subtitle": "Congratulations! You are eligible for",
+          "okayCta": "Okay",
+          "okayAccessibilityLabel": "Close FAQ sheet",
+          "discountIconAccessibilityLabel": "Discount percentage"
+        },
+        "guruChatUpsell": {
+          "closeAccessibilityLabel": "Close",
+          "closeAccessibilityHint": "Dismisses the bottom sheet",
+          "backdropAccessibilityLabel": "Close bottom sheet",
+          "fallbackBenefitImageLabel": "Locked content"
+        }
+      },
+      "freeChatInfo": {
+        "heroTitle": "Get {{count}} Free Chats",
+        "heroTitleLine2": "Everyday",
+        "heroSubtitle": "For the next 7 days",
+        "howItWorks": "How it works",
+        "step1Title": "Recharge your wallet",
+        "step1Subtitle": "Bas chhota sa deposit karo",
+        "step2Title": "Get two free chats everyday for next 7 days",
+        "extraStepBadge": "+",
+        "extraStepText": "Get 100 % Cash back",
+        "rechargeNowCta": "Recharge Now",
+        "rechargeNowAccessibilityLabel": "Recharge now to get free chats",
+        "backgroundAccessibilityLabel": "Free chat background design",
+        "characterAccessibilityLabel": "Person with megaphone announcement"
+      }
+    },
     "wallet": {},
     "reports": {},
     "marketing": {},

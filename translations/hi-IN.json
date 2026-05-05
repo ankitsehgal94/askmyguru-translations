@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-04-v4",
+  "version": "2026-05-05-v5",
   "lang": "hi-IN",
   "translations": {
     "common": {
@@ -98,7 +98,172 @@
       }
     },
     "home": {},
-    "chat": {},
+    "chat": {
+      "screen": {
+        "categoryPrefix": "AI {{category}}",
+        "deleteChatMenuItem": "चैट डिलीट करें",
+        "guruOfflineToast": "Guru अभी ऑफ़लाइन हैं",
+        "fallbackUserName": "यूज़र",
+        "fallbackGuruName": "Guru",
+        "guruTypingMessage": "कृपया प्रतीक्षा करें, Guruji लिख रहे हैं...",
+        "transactionToastBoth": "₹{{depositAmount}} | {{coinAmount}} Guru Coins आपके वॉलेट से उपयोग किए गए",
+        "transactionToastDeposit": "₹{{depositAmount}} आपके वॉलेट से उपयोग किए गए",
+        "transactionToastCoins": "{{coinAmount}} Guru Coins आपके वॉलेट से उपयोग किए गए",
+        "transactionToastDetails": "{{guruName}} से जुड़ने के लिए धन्यवाद",
+        "profileMessageHeader": "नमस्ते {{guruName}}, नीचे मेरी प्रोफ़ाइल जानकारी है:",
+        "profileMessageFallback": "नमस्ते, नीचे मेरी प्रोफ़ाइल जानकारी है:\nनाम: यूज़र\nलिंग: निर्दिष्ट नहीं",
+        "profileMessageNameLine": "नाम: {{name}}",
+        "profileMessageGenderLine": "लिंग: {{gender}}",
+        "profileMessageDobLine": "जन्म तिथि: {{dob}}",
+        "profileMessageTobLine": "जन्म समय: {{tob}}",
+        "profileMessageLocationLine": "स्थान: {{location}}",
+        "profileMessageLocationNotSpecified": "स्थान: निर्दिष्ट नहीं",
+        "profileMessageGenderNotSpecified": "निर्दिष्ट नहीं",
+        "profileMessageNameFallback": "null"
+      },
+      "input": {
+        "placeholderWithName": "{{guruName}} को संदेश भेजें",
+        "placeholderDefault": "संदेश",
+        "sendAccessibilityLabel": "संदेश भेजें",
+        "micAccessibilityLabel": "ऑडियो संदेश रिकॉर्ड करें",
+        "pickFromGalleryAccessibilityLabel": "गैलरी से चुनें",
+        "takePhotoAccessibilityLabel": "फ़ोटो लें"
+      },
+      "recording": {},
+      "errorBoundary": {
+        "title": "चैट अस्थायी रूप से अनुपलब्ध",
+        "message": "हमें चैट सुविधा में तकनीकी समस्याएँ हो रही हैं।",
+        "retryCta": "पुनः प्रयास करें",
+        "devErrorTitle": "Development Error Details:"
+      },
+      "contextBar": {
+        "dismissAccessibilityLabel": "संदर्भ बंद करें"
+      },
+      "paymentCard": {
+        "title": "जवाब अनलॉक करने के लिए रिचार्ज करें",
+        "lockIconAccessibilityLabel": "लॉक की गई सामग्री",
+        "subscriptionUnlimited": "₹{{amount}} → असीमित चैट",
+        "subscriptionAccessibilityLabel": "{{amount}} रुपये के लिए सब्सक्राइब करें",
+        "subscriptionAccessibilityHint": "भुगतान स्क्रीन खोलता है",
+        "depositChats": "₹{{amount}} → {{count}} चैट",
+        "depositAccessibilityLabel": "{{count}} चैट के लिए {{amount}} रुपये रिचार्ज करें",
+        "depositAccessibilityHint": "भुगतान स्क्रीन खोलता है",
+        "extraChats_one": "+ {{count}} अतिरिक्त मुफ़्त चैट",
+        "extraChats_other": "+ {{count}} अतिरिक्त मुफ़्त चैट"
+      },
+      "imageViewer": {
+        "closeAccessibilityLabel": "इमेज व्यूअर बंद करें",
+        "closeAccessibilityHint": "फ़ुल-स्क्रीन इमेज बंद करने के लिए टैप करें"
+      },
+      "attachmentPreview": {
+        "uploadingProgress": "अपलोड हो रहा है... {{percent}}%",
+        "uploadFailed": "अपलोड विफल।",
+        "uploaded": "अपलोड हो गया"
+      },
+      "list": {
+        "today": "आज",
+        "yesterday": "कल"
+      },
+      "item": {
+        "messageFailed": "संदेश विफल",
+        "resend": "पुनः भेजें",
+        "resendAccessibilityLabel": "संदेश पुनः भेजें",
+        "resendAccessibilityHint": "इस संदेश को इनपुट फ़ील्ड में जोड़ने के लिए टैप करें",
+        "disclaimer": "अस्वीकरण",
+        "enterKundaliPrompt": "बेहतर उत्तर देने के लिए कृपया अपना विवरण साझा करें। नीचे दिए गए लिंक पर क्लिक करें।",
+        "enterKundaliCta": "कुंडली दर्ज करें",
+        "kundliCardTitle": "आपकी कुंडली",
+        "kundliRashi": "राशि: {{rashi}}",
+        "kundliNakshatra": "नक्षत्र: {{nakshatra}}",
+        "shareChartCta": "चार्ट साझा करें",
+        "reportHeader": "{{reportType}} मार्गदर्शन रिपोर्ट"
+      },
+      "header": {
+        "backAccessibilityLabel": "chat-back-button",
+        "menuAccessibilityLabel": "chat-menu-button",
+        "rupeeAccessibilityLabel": "chat-rupee-icon",
+        "deleteAccessibilityLabel": "chat-delete-button"
+      },
+      "suggestions": {
+        "header": "सुझाए गए प्रश्न",
+        "show": "दिखाएँ",
+        "hide": "छिपाएँ",
+        "more": "अधिक",
+        "moreSuggestions": "अधिक सुझाव",
+        "modalTitle": "अधिक सुझाव",
+        "forYouCategory": "आपके लिए",
+        "emptyState": "कोई सुझाव उपलब्ध नहीं"
+      },
+      "notifications": {
+        "chat": {},
+        "wallet": {},
+        "transaction": {},
+        "guruTyping": {
+          "fallbackMessage": "कृपया प्रतीक्षा करें, Guruji लिख रहे हैं..."
+        },
+        "delayWarning": {}
+      },
+      "actionBanner": {
+        "freeChatLimitReached": {
+          "title": "मुफ़्त चैट सीमा पूरी हुई।",
+          "actionText": "अभी रिचार्ज करें!"
+        },
+        "lowBalance": {
+          "title": "कम बैलेंस",
+          "actionText": "अभी रिचार्ज करें!"
+        },
+        "noChatsAvailable": "उपलब्ध चैट: 0",
+        "freeChatStatus": "उपलब्ध मुफ़्त चैट:",
+        "guruCoinsUsing": "{{count}} Guru Coins उपयोग में",
+        "guruCoinsChatsBadge": "{{count}} चैट",
+        "infoCashBalance": "अब कैश बैलेंस का उपयोग होगा",
+        "subscriptionUnlimited": "असीमित चैट",
+        "infoCostFor": " {{count}} चैट के लिए"
+      },
+      "sheets": {
+        "completion": {
+          "title": "असीमित मुफ़्त चैट",
+          "freeChatsPill": "रोज़ {{count}} मुफ़्त चैट पाएँ",
+          "refreshingTimer": "{{timer}} में रिफ़्रेश हो रहा है",
+          "completedToday": "आज की {{used}}/{{total}} चैट पूरी हुईं!",
+          "exploreCta": "Guru एक्सप्लोर करें",
+          "rechargeCta": "अभी रिचार्ज करें"
+        },
+        "deleteConfirmation": {
+          "message": "क्या आप वाकई यह चैट डिलीट करना चाहते हैं?",
+          "confirmCta": "डिलीट की पुष्टि करें",
+          "cancelCta": "रद्द करें"
+        },
+        "freeChatFaq": {
+          "title": "रोज़ मुफ़्त चैट",
+          "subtitle": "बधाई हो! आप पात्र हैं",
+          "okayCta": "ठीक है",
+          "okayAccessibilityLabel": "FAQ शीट बंद करें",
+          "discountIconAccessibilityLabel": "छूट प्रतिशत"
+        },
+        "guruChatUpsell": {
+          "closeAccessibilityLabel": "बंद करें",
+          "closeAccessibilityHint": "बॉटम शीट बंद करता है",
+          "backdropAccessibilityLabel": "बॉटम शीट बंद करें",
+          "fallbackBenefitImageLabel": "लॉक की गई सामग्री"
+        }
+      },
+      "freeChatInfo": {
+        "heroTitle": "{{count}} मुफ़्त चैट पाएँ",
+        "heroTitleLine2": "रोज़",
+        "heroSubtitle": "अगले 7 दिनों के लिए",
+        "howItWorks": "यह कैसे काम करता है",
+        "step1Title": "अपना वॉलेट रिचार्ज करें",
+        "step1Subtitle": "बस छोटा सा डिपॉज़िट करो",
+        "step2Title": "अगले 7 दिनों तक रोज़ दो मुफ़्त चैट पाएँ",
+        "extraStepBadge": "+",
+        "extraStepText": "100 % कैश बैक पाएँ",
+        "rechargeNowCta": "अभी रिचार्ज करें",
+        "rechargeNowAccessibilityLabel": "मुफ़्त चैट पाने के लिए अभी रिचार्ज करें",
+        "backgroundAccessibilityLabel": "मुफ़्त चैट बैकग्राउंड डिज़ाइन",
+        "characterAccessibilityLabel": "मेगाफ़ोन के साथ घोषणा करता व्यक्ति"
+      }
+    },
     "wallet": {},
     "reports": {},
     "marketing": {},
