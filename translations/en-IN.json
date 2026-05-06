@@ -887,7 +887,16 @@
         "bhagavad gita": "Bhagavad Gita"
       }
     },
-    "navigation": {},
+    "navigation": {
+      "tabs": {
+        "home": "Home",
+        "mychats": "All Chats",
+        "reports": "Reports",
+        "match-making": "Match",
+        "profile": "Panchang",
+        "content": "VedTV"
+      }
+    },
     "notifications": {},
     "support": {},
     "shopping": {},

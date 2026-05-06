@@ -887,7 +887,16 @@
         "bhagavad gita": "भगवद गीता"
       }
     },
-    "navigation": {},
+    "navigation": {
+      "tabs": {
+        "home": "होम",
+        "mychats": "सभी चैट",
+        "reports": "रिपोर्ट्स",
+        "match-making": "मैच",
+        "profile": "पंचांग",
+        "content": "वेद टीवी"
+      }
+    },
     "notifications": {},
     "support": {},
     "shopping": {},
