@@ -263,6 +263,28 @@
         "backgroundAccessibilityLabel": "मुफ़्त चैट बैकग्राउंड डिज़ाइन",
         "characterAccessibilityLabel": "मेगाफ़ोन के साथ घोषणा करता व्यक्ति"
       },
+      "guruDetail": {
+        "headerTitle": "विवरण",
+        "aboutMe": "मेरे बारे में",
+        "fieldOfWork": "कार्यक्षेत्र",
+        "language": "भाषा",
+        "skillsExpertise": "कौशल और विशेषज्ञता",
+        "likes": "लाइक्स",
+        "orders": "ऑर्डर",
+        "nonMedicalSuffix": "(गैर-चिकित्सीय)",
+        "disclaimer": "अस्वीकरण",
+        "avatarDisplayNameFallback": "AI Guru Avatar"
+      },
+      "guruPricing": {
+        "freeChat": "मुफ़्त चैट",
+        "chatNow": "अभी चैट करें",
+        "off": "की छूट",
+        "use": "उपयोग करें",
+        "guruCoinIcon": "Guru Coin आइकन",
+        "priceUnit": "/{{count}} चैट",
+        "paidChatPriceText": "₹{{cost}}/{{count}} चैट",
+        "startChatWith": "{{name}} के साथ चैट शुरू करें"
+      },
       "rating": {
         "initialStep": {
           "titlePrefix": "कृपया {{guruName}} के साथ अपनी चैट को रेट करें — ",
@@ -846,7 +868,13 @@
     "profile": {},
     "dasha": {},
     "relationships": {},
-    "categories": {},
+    "categories": {
+      "fieldOfWork": {
+        "astrology": "ज्योतिष",
+        "ayurveda": "आयुर्वेद",
+        "bhagavad gita": "भगवद गीता"
+      }
+    },
     "navigation": {},
     "notifications": {},
     "support": {},

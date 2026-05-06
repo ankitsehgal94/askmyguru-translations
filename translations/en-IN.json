@@ -287,6 +287,28 @@
         "rechargeNowAccessibilityLabel": "Recharge now to get free chats",
         "backgroundAccessibilityLabel": "Free chat background design",
         "characterAccessibilityLabel": "Person with megaphone announcement"
+      },
+      "guruDetail": {
+        "headerTitle": "Details",
+        "aboutMe": "About Me",
+        "fieldOfWork": "Field of Work",
+        "language": "Language",
+        "skillsExpertise": "Skills & Expertise",
+        "likes": "Likes",
+        "orders": "Orders",
+        "nonMedicalSuffix": "(Non Medical)",
+        "disclaimer": "Disclaimer",
+        "avatarDisplayNameFallback": "AI Guru Avatar"
+      },
+      "guruPricing": {
+        "freeChat": "Free Chat",
+        "chatNow": "Chat Now",
+        "off": "Off",
+        "use": "Use",
+        "guruCoinIcon": "Guru Coin Icon",
+        "priceUnit": "/{{count}} Chats",
+        "paidChatPriceText": "₹{{cost}}/{{count}} chats",
+        "startChatWith": "Start chat with {{name}}"
       }
     },
     "wallet": {
@@ -846,7 +868,13 @@
     "profile": {},
     "dasha": {},
     "relationships": {},
-    "categories": {},
+    "categories": {
+      "fieldOfWork": {
+        "astrology": "Astrology",
+        "ayurveda": "Ayurveda",
+        "bhagavad gita": "Bhagavad Gita"
+      }
+    },
     "navigation": {},
     "notifications": {},
     "support": {},
