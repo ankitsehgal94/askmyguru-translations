@@ -15,7 +15,8 @@
       "retry": "Retry",
       "save": "Save",
       "submit": "Submit",
-      "yes": "Yes"
+      "yes": "Yes",
+      "switchingLanguage": "Switching language..."
     },
     "auth": {
       "landingPage": {

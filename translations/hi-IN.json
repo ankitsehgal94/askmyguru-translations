@@ -15,7 +15,8 @@
       "back": "वापस",
       "next": "आगे",
       "submit": "सबमिट करें",
-      "done": "हो गया"
+      "done": "हो गया",
+      "switchingLanguage": "भाषा बदली जा रही है..."
     },
     "auth": {
       "landingPage": {
