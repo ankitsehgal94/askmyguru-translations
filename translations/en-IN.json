@@ -308,7 +308,18 @@
         "guruCoinIcon": "Guru Coin Icon",
         "priceUnit": "/{{count}} Chats",
         "paidChatPriceText": "₹{{cost}}/{{count}} chats",
-        "startChatWith": "Start chat with {{name}}"
+        "startChatWith": "Start chat with {{name}}",
+        "freeChatsCount_one": "1 Free Chat",
+        "freeChatsCount_other": "{{count}} Free Chats",
+        "priceLabel": "₹{{price}}/{{count}} Chats",
+        "discountPercent": "{{percent}}% Off",
+        "unlimitedChats": "Unlimited Chats",
+        "subscribed": "Subscribed",
+        "premium": "Premium",
+        "premiumGuru": "Premium Guru",
+        "chatWithGuru": "Chat with {{name}}",
+        "guruCardA11yLabel": "Guru card for {{name}}",
+        "priceA11yLabel": "Price: {{label}}"
       }
     },
     "wallet": {

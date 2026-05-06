@@ -283,7 +283,18 @@
         "guruCoinIcon": "Guru Coin आइकन",
         "priceUnit": "/{{count}} चैट",
         "paidChatPriceText": "₹{{cost}}/{{count}} चैट",
-        "startChatWith": "{{name}} के साथ चैट शुरू करें"
+        "startChatWith": "{{name}} के साथ चैट शुरू करें",
+        "freeChatsCount_one": "1 मुफ़्त चैट",
+        "freeChatsCount_other": "{{count}} मुफ़्त चैट",
+        "priceLabel": "₹{{price}}/{{count}} चैट",
+        "discountPercent": "{{percent}}% की छूट",
+        "unlimitedChats": "अनलिमिटेड चैट",
+        "subscribed": "सब्सक्राइब्ड",
+        "premium": "प्रीमियम",
+        "premiumGuru": "प्रीमियम Guru",
+        "chatWithGuru": "{{name}} के साथ चैट करें",
+        "guruCardA11yLabel": "{{name}} के लिए Guru कार्ड",
+        "priceA11yLabel": "मूल्य: {{label}}"
       },
       "rating": {
         "initialStep": {
