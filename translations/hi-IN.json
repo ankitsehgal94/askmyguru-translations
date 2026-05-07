@@ -157,6 +157,27 @@
         "message": "क्या आप वाकई ऐप से बाहर निकलना चाहते हैं?",
         "cancel": "रद्द करें",
         "exit": "बाहर निकलें"
+      },
+      "tabs": {
+        "astrology": "AI ज्योतिष",
+        "ayurveda": "AI आयुर्वेद",
+        "bhagavadGita": "AI भगवद गीता"
+      },
+      "horoscopeCategories": {
+        "Marriage": "विवाह",
+        "Relationship": "रिश्ते",
+        "Career": "करियर",
+        "Finance": "वित्त",
+        "Health": "स्वास्थ्य"
+      },
+      "sections": {
+        "forYouGurus": "आपके लिए Guru",
+        "astrologers": "ज्योतिषी",
+        "allAstrologers": "सभी ज्योतिषी",
+        "premiumAstrologers": "प्रीमियम ज्योतिषी",
+        "freeChatGurus": "मुफ़्त चैट Guru",
+        "newGurus": "नए Guru",
+        "reportsForYouFallback": "आपके लिए रिपोर्ट्स"
       }
     },
     "chat": {

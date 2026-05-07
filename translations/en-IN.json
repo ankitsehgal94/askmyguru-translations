@@ -157,6 +157,27 @@
         "message": "Are you sure you want to exit the app?",
         "cancel": "Cancel",
         "exit": "Exit"
+      },
+      "tabs": {
+        "astrology": "AI Astrology",
+        "ayurveda": "AI Ayurveda",
+        "bhagavadGita": "AI Bhagavad Gita"
+      },
+      "horoscopeCategories": {
+        "Marriage": "Marriage",
+        "Relationship": "Relationship",
+        "Career": "Career",
+        "Finance": "Finance",
+        "Health": "Health"
+      },
+      "sections": {
+        "forYouGurus": "For You Gurus",
+        "astrologers": "Astrologers",
+        "allAstrologers": "All Astrologers",
+        "premiumAstrologers": "Premium Astrologers",
+        "freeChatGurus": "Free Chat Gurus",
+        "newGurus": "New Gurus",
+        "reportsForYouFallback": "Reports for you"
       }
     },
     "chat": {
