@@ -170,6 +170,10 @@
         "Finance": "Finance",
         "Health": "Health"
       },
+      "dashaSuffix": {
+        "mahadasha": "{{planet}} Mahadasha",
+        "antardasha": "{{planet}} Antardasha"
+      },
       "sections": {
         "forYouGurus": "For You Gurus",
         "astrologers": "Astrologers",

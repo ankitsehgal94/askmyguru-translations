@@ -170,6 +170,10 @@
         "Finance": "वित्त",
         "Health": "स्वास्थ्य"
       },
+      "dashaSuffix": {
+        "mahadasha": "{{planet}} महादशा",
+        "antardasha": "{{planet}} अंतर्दशा"
+      },
       "sections": {
         "forYouGurus": "आपके लिए Guru",
         "astrologers": "ज्योतिषी",
