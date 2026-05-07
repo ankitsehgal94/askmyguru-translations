@@ -98,7 +98,67 @@
         "backA11yHint": "पिछली स्क्रीन पर वापस जाता है"
       }
     },
-    "home": {},
+    "home": {
+      "greeting": {
+        "namaste": "नमस्ते",
+        "userFallback": "उपयोगकर्ता",
+        "soon": "जल्द ही",
+        "freeChats_one": "रोज़ 1 मुफ़्त चैट पाएं",
+        "freeChats_other": "रोज़ {{count}} मुफ़्त चैट पाएं",
+        "freeChatsRefreshIn": "{{time}} में मुफ़्त चैट फिर से उपलब्ध होगी",
+        "unlimitedChatsActive": "अनलिमिटेड चैट सक्रिय",
+        "startChattingUpsell": "विशेषज्ञ Guru के साथ चैट शुरू करें"
+      },
+      "subscriptionFailed": {
+        "title": "हम आपका सब्सक्रिप्शन रिन्यू नहीं कर सके।",
+        "fixByDate": "{{date}} तक इसे ठीक करें और अपनी प्रीमियम एक्सेस बनाए रखें।",
+        "fixSoon": "कृपया जल्द ही इसे ठीक करें और अपनी प्रीमियम एक्सेस बनाए रखें।",
+        "subtitleByDate": "{{date}} तक इसे ठीक करने का समय है",
+        "subtitleFixSoon": "कृपया जल्द ही इसे ठीक करें",
+        "updatePayment": "भुगतान अपडेट करें",
+        "contactSupport": "सहायता से संपर्क करें",
+        "bannerA11yLabel": "भुगतान विफल बैनर",
+        "bannerA11yHint": "भुगतान अपडेट करने के लिए टैप करें"
+      },
+      "freeChatBanner": {
+        "a11yLabel": "मुफ़्त चैट बैनर",
+        "a11yHint": "Guru के साथ चैट करने के लिए टैप करें"
+      },
+      "dashaWidget": {
+        "todaysStories": "आज की स्टोरीज़",
+        "questionForTheDay": "आज का प्रश्न",
+        "opensDashaTab": "दशा टैब खोलता है"
+      },
+      "stackSection": {
+        "defaultTitle": "दैनिक राशिफल",
+        "downloadReport": "रिपोर्ट डाउनलोड करें",
+        "previousCard": "पिछला कार्ड",
+        "nextCard": "अगला कार्ड",
+        "previousCardHint": "कैरोसेल में पिछले कार्ड पर जाएं",
+        "nextCardHint": "कैरोसेल में अगले कार्ड पर जाएं"
+      },
+      "expertiseFilter": {
+        "filterByCategory": "{{category}} से फ़िल्टर करें"
+      },
+      "scrollNavigator": {
+        "scrollLabel": "स्क्रॉल",
+        "scrollToTop": "सबसे ऊपर जाएं",
+        "scrollToTopHint": "पेज के सबसे ऊपर वापस स्क्रॉल करें",
+        "scrollDown": "नीचे स्क्रॉल करें",
+        "scrollDownHint": "एक स्क्रीन नीचे स्क्रॉल करें"
+      },
+      "screen": {
+        "openMenu": "मेनू खोलें",
+        "openMyChats": "मेरी चैट खोलें",
+        "navigateChatListing": "चैट सूची पर जाएं"
+      },
+      "exitConfirm": {
+        "title": "रुकिए!",
+        "message": "क्या आप वाकई ऐप से बाहर निकलना चाहते हैं?",
+        "cancel": "रद्द करें",
+        "exit": "बाहर निकलें"
+      }
+    },
     "chat": {
       "screen": {
         "categoryPrefix": "AI {{category}}",

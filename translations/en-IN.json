@@ -98,7 +98,67 @@
         "backA11yHint": "Returns to the previous screen"
       }
     },
-    "home": {},
+    "home": {
+      "greeting": {
+        "namaste": "Namaste",
+        "userFallback": "User",
+        "soon": "soon",
+        "freeChats_one": "Get 1 Free Chat Everyday",
+        "freeChats_other": "Get {{count}} Free Chats Everyday",
+        "freeChatsRefreshIn": "Daily Free Chats refreshes in {{time}}",
+        "unlimitedChatsActive": "Unlimited Chats Active",
+        "startChattingUpsell": "Start chatting with expert gurus"
+      },
+      "subscriptionFailed": {
+        "title": "We couldn't renew your subscription.",
+        "fixByDate": "You have until {{date}} to fix this and keep your premium access.",
+        "fixSoon": "Please fix this soon and keep your premium access.",
+        "subtitleByDate": "You have until {{date}} to fix this",
+        "subtitleFixSoon": "Please fix this soon",
+        "updatePayment": "Update Payment",
+        "contactSupport": "Contact Support",
+        "bannerA11yLabel": "Payment failed banner",
+        "bannerA11yHint": "Tap to update payment"
+      },
+      "freeChatBanner": {
+        "a11yLabel": "Free chat banner",
+        "a11yHint": "Tap to chat with a guru"
+      },
+      "dashaWidget": {
+        "todaysStories": "Today's Stories",
+        "questionForTheDay": "Question for the day",
+        "opensDashaTab": "Opens dasha tab"
+      },
+      "stackSection": {
+        "defaultTitle": "Daily Horoscopes",
+        "downloadReport": "Download Report",
+        "previousCard": "Previous card",
+        "nextCard": "Next card",
+        "previousCardHint": "Navigate to previous card in the carousel",
+        "nextCardHint": "Navigate to next card in the carousel"
+      },
+      "expertiseFilter": {
+        "filterByCategory": "Filter by {{category}}"
+      },
+      "scrollNavigator": {
+        "scrollLabel": "Scroll",
+        "scrollToTop": "Scroll to top",
+        "scrollToTopHint": "Scrolls back to the top of the page",
+        "scrollDown": "Scroll down",
+        "scrollDownHint": "Scrolls down by one screen"
+      },
+      "screen": {
+        "openMenu": "Open menu",
+        "openMyChats": "Open my chats",
+        "navigateChatListing": "Navigate to chat listing"
+      },
+      "exitConfirm": {
+        "title": "Hold on!",
+        "message": "Are you sure you want to exit the app?",
+        "cancel": "Cancel",
+        "exit": "Exit"
+      }
+    },
     "chat": {
       "screen": {
         "categoryPrefix": "AI {{category}}",
