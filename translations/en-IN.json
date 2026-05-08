@@ -386,6 +386,12 @@
         "disclaimer": "Disclaimer",
         "avatarDisplayNameFallback": "AI Guru Avatar"
       },
+      "myChats": {
+        "headerTitle": "My Chats",
+        "emptyStateTitle": "You don't have any conversation yet!",
+        "exploreFreeGurus": "Explore Our Free Gurus",
+        "supportLink": "Need help? Please talk to us."
+      },
       "guruPricing": {
         "freeChat": "Free Chat",
         "chatNow": "Chat Now",

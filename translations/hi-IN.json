@@ -361,6 +361,12 @@
         "disclaimer": "अस्वीकरण",
         "avatarDisplayNameFallback": "AI Guru Avatar"
       },
+      "myChats": {
+        "headerTitle": "मेरी चैट",
+        "emptyStateTitle": "आपने अभी तक कोई बातचीत नहीं की है!",
+        "exploreFreeGurus": "हमारे मुफ़्त Guru एक्सप्लोर करें",
+        "supportLink": "मदद चाहिए? कृपया हमसे बात करें।"
+      },
       "guruPricing": {
         "freeChat": "मुफ़्त चैट",
         "chatNow": "अभी चैट करें",
