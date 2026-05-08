@@ -1033,6 +1033,25 @@
         "editA11yLabel": "Edit profile",
         "editA11yHint": "Edits the user profile"
       },
+      "deleteAccount": {
+        "title": "Are you sure you want to delete your account?",
+        "walletWarning": "Your wallet balance will reset to ₹0",
+        "currentBalance": "Current Balance",
+        "afterDeletion": "After Deletion",
+        "confirmButton": "Delete & Logout",
+        "cancelButton": "Cancel",
+        "closeA11y": "Close delete account modal",
+        "consequences": [
+          "Your profile details and all secondary profiles will be permanently deleted",
+          "Your profile details will be deleted.",
+          "Your Guru Coin balance will be reset to 0.",
+          "Your chat history will be deleted.",
+          "Your downloaded reports, if any, will be deleted.",
+          "Any chat packs, offers, etc either bought or rewarded by the platform will be reset and can not be retrieved.",
+          "All Profile linked to the profile will be deleted",
+          "Any active subscriptions will be cancelled, Amount already deducted cannot be refunded."
+        ]
+      },
       "unlockPredictions": {
         "title": "Unlock Your Daily Predictions",
         "subtitle": "Get personalised insights based on your birth details.",
