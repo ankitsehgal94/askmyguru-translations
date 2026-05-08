@@ -968,7 +968,85 @@
     },
     "reports": {},
     "marketing": {},
-    "profile": {},
+    "profile": {
+      "screen": {
+        "headerTitle": "Today",
+        "openMenu": "Open menu",
+        "todayScreenTabs": "Today screen tabs",
+        "loadError": "Couldn't load your profile. Please try again.",
+        "deleteAccount": "Delete Account",
+        "userFallback": "User"
+      },
+      "tabs": {
+        "dasha": "Dasha",
+        "panchang": "Panchang"
+      },
+      "spiritualEnergy": {
+        "todayAtAGlance": "Today at a Glance",
+        "spiritualEnergyToday": "Spiritual Energy Today",
+        "strengths": "Strengths",
+        "precautions": "Precautions",
+        "ctaTitle": "Get a detailed analysis\nAnd remedies",
+        "chatNow": "Chat Now",
+        "chatA11yLabel": "Chat now for detailed analysis and remedies"
+      },
+      "panchang": {
+        "spiritualCosmicDetails": "Spiritual & Cosmic Details",
+        "auspiciousTimings": "Auspicious Timings & Fortune",
+        "labels": {
+          "rashi": "Rashi",
+          "lagna": "Lagna",
+          "nakshatra": "Nakshatra",
+          "gana": "Gana",
+          "rahuKaal": "Rahu Kaal",
+          "brahmaMuhurat": "Brahma Muhurat",
+          "yamagandaKaal": "Yamaganda Kaal",
+          "tithi": "Tithi",
+          "luckyColors": "Lucky Colors",
+          "luckyNumbers": "Lucky Numbers"
+        }
+      },
+      "mantra": {
+        "mantraForTheDay": "Mantra for the Day",
+        "defaultMantra": "Om Namo Bhagavate Vasudevaya",
+        "sayItForCount": "Say it for 101 times"
+      },
+      "lifeAreas": {
+        "title": "Areas of you life",
+        "loveLife": "Love Life",
+        "moneyChakra": "Money Chakra",
+        "career": "Career",
+        "health": "Health",
+        "downloadReport": "Download Report"
+      },
+      "birthChart": {
+        "title": "Birth Chart",
+        "d1Chart": "D1 Chart",
+        "d9Chart": "D9 Chart",
+        "d1Description": "Shows your life, personality, and career path.",
+        "d9Description": "Reveals marriage, relationships, and long-term destiny.",
+        "shareChart": "Share Chart",
+        "tabsA11yLabel": "Birth chart type tabs"
+      },
+      "profileCard": {
+        "namaste": "Namaste",
+        "editA11yLabel": "Edit profile",
+        "editA11yHint": "Edits the user profile"
+      },
+      "unlockPredictions": {
+        "title": "Unlock Your Daily Predictions",
+        "subtitle": "Get personalised insights based on your birth details.",
+        "ctaButton": "Enter Your Birth Details",
+        "ctaA11yLabel": "Enter your birth details",
+        "ctaA11yHint": "Navigate to onboarding to enter your birth details",
+        "whatYoullGet": "What you'll get:",
+        "feature1": "Today at a Glance",
+        "feature2": "Love, Money & Health Insights",
+        "feature3": "Mantra for the Day",
+        "feature4": "Detail Panchang & Auspicious Timings",
+        "scrollIllustration": "Scroll illustration"
+      }
+    },
     "dasha": {},
     "relationships": {},
     "categories": {

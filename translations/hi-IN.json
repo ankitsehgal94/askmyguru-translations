@@ -968,7 +968,85 @@
     },
     "reports": {},
     "marketing": {},
-    "profile": {},
+    "profile": {
+      "screen": {
+        "headerTitle": "आज",
+        "openMenu": "मेनू खोलें",
+        "todayScreenTabs": "टुडे स्क्रीन टैब्स",
+        "loadError": "हम आपकी प्रोफ़ाइल लोड नहीं कर सके। कृपया पुनः प्रयास करें।",
+        "deleteAccount": "खाता हटाएं",
+        "userFallback": "उपयोगकर्ता"
+      },
+      "tabs": {
+        "dasha": "दशा",
+        "panchang": "पंचांग"
+      },
+      "spiritualEnergy": {
+        "todayAtAGlance": "आज पर एक नज़र",
+        "spiritualEnergyToday": "आज की आध्यात्मिक ऊर्जा",
+        "strengths": "ताकतें",
+        "precautions": "सावधानियाँ",
+        "ctaTitle": "विस्तृत विश्लेषण और\nउपाय पाएं",
+        "chatNow": "अभी चैट करें",
+        "chatA11yLabel": "विस्तृत विश्लेषण और उपायों के लिए अभी चैट करें"
+      },
+      "panchang": {
+        "spiritualCosmicDetails": "आध्यात्मिक और ब्रह्मांडीय विवरण",
+        "auspiciousTimings": "शुभ समय और भाग्य",
+        "labels": {
+          "rashi": "राशि",
+          "lagna": "लग्न",
+          "nakshatra": "नक्षत्र",
+          "gana": "गण",
+          "rahuKaal": "राहु काल",
+          "brahmaMuhurat": "ब्रह्म मुहूर्त",
+          "yamagandaKaal": "यमगंड काल",
+          "tithi": "तिथि",
+          "luckyColors": "शुभ रंग",
+          "luckyNumbers": "शुभ अंक"
+        }
+      },
+      "mantra": {
+        "mantraForTheDay": "आज का मंत्र",
+        "defaultMantra": "ॐ नमो भगवते वासुदेवाय",
+        "sayItForCount": "इसे 101 बार बोलें"
+      },
+      "lifeAreas": {
+        "title": "आपके जीवन के क्षेत्र",
+        "loveLife": "प्रेम जीवन",
+        "moneyChakra": "धन चक्र",
+        "career": "करियर",
+        "health": "स्वास्थ्य",
+        "downloadReport": "रिपोर्ट डाउनलोड करें"
+      },
+      "birthChart": {
+        "title": "जन्म कुंडली",
+        "d1Chart": "D1 चार्ट",
+        "d9Chart": "D9 चार्ट",
+        "d1Description": "आपके जीवन, व्यक्तित्व और करियर पथ को दर्शाता है।",
+        "d9Description": "विवाह, रिश्ते और दीर्घकालिक भाग्य को प्रकट करता है।",
+        "shareChart": "चार्ट साझा करें",
+        "tabsA11yLabel": "जन्म कुंडली प्रकार टैब्स"
+      },
+      "profileCard": {
+        "namaste": "नमस्ते",
+        "editA11yLabel": "प्रोफ़ाइल संपादित करें",
+        "editA11yHint": "उपयोगकर्ता प्रोफ़ाइल संपादित करता है"
+      },
+      "unlockPredictions": {
+        "title": "अपनी दैनिक भविष्यवाणियाँ अनलॉक करें",
+        "subtitle": "अपने जन्म विवरण के आधार पर वैयक्तिकृत अंतर्दृष्टि पाएं।",
+        "ctaButton": "अपना जन्म विवरण दर्ज करें",
+        "ctaA11yLabel": "अपना जन्म विवरण दर्ज करें",
+        "ctaA11yHint": "जन्म विवरण दर्ज करने के लिए ऑनबोर्डिंग पर जाएं",
+        "whatYoullGet": "आपको क्या मिलेगा:",
+        "feature1": "आज पर एक नज़र",
+        "feature2": "प्रेम, धन और स्वास्थ्य अंतर्दृष्टि",
+        "feature3": "आज का मंत्र",
+        "feature4": "विस्तृत पंचांग और शुभ समय",
+        "scrollIllustration": "स्क्रॉल चित्रण"
+      }
+    },
     "dasha": {},
     "relationships": {},
     "categories": {
