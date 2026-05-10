@@ -1,5 +1,5 @@
 {
-  "hashValue": "8ce9713de84445590d21e15ed41af447a8dfab2fdee8b87f28c8736318311b54",
+  "hashValue": "8598dfae752515beaef1bbe7dde23171944ddf4c50963f66d8e8d93d2d0fc4fb",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -767,14 +767,6 @@
     "profile.deleteAccount.confirmButton": "Delete & Logout",
     "profile.deleteAccount.cancelButton": "Cancel",
     "profile.deleteAccount.closeA11y": "Close delete account modal",
-    "profile.deleteAccount.consequences.0": "Your profile details and all secondary profiles will be permanently deleted",
-    "profile.deleteAccount.consequences.1": "Your profile details will be deleted.",
-    "profile.deleteAccount.consequences.2": "Your Guru Coin balance will be reset to 0.",
-    "profile.deleteAccount.consequences.3": "Your chat history will be deleted.",
-    "profile.deleteAccount.consequences.4": "Your downloaded reports, if any, will be deleted.",
-    "profile.deleteAccount.consequences.5": "Any chat packs, offers, etc either bought or rewarded by the platform will be reset and can not be retrieved.",
-    "profile.deleteAccount.consequences.6": "All Profile linked to the profile will be deleted",
-    "profile.deleteAccount.consequences.7": "Any active subscriptions will be cancelled, Amount already deducted cannot be refunded.",
     "profile.unlockPredictions.title": "Unlock Your Daily Predictions",
     "profile.unlockPredictions.subtitle": "Get personalised insights based on your birth details.",
     "profile.unlockPredictions.ctaButton": "Enter Your Birth Details",
@@ -794,6 +786,16 @@
     "navigation.tabs.reports": "Reports",
     "navigation.tabs.match-making": "Match",
     "navigation.tabs.profile": "Panchang",
-    "navigation.tabs.content": "VedTV"
+    "navigation.tabs.content": "VedTV",
+    "profile.deleteAccount.consequences": [
+      "Your profile details and all secondary profiles will be permanently deleted",
+      "Your profile details will be deleted.",
+      "Your Guru Coin balance will be reset to 0.",
+      "Your chat history will be deleted.",
+      "Your downloaded reports, if any, will be deleted.",
+      "Any chat packs, offers, etc either bought or rewarded by the platform will be reset and can not be retrieved.",
+      "All Profile linked to the profile will be deleted",
+      "Any active subscriptions will be cancelled, Amount already deducted cannot be refunded."
+    ]
   }
 }

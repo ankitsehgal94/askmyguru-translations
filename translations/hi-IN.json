@@ -1,5 +1,5 @@
 {
-  "hashValue": "3bb3f3dac8798643fef9c7401b7c988b272d798c0df428586109a3c9c5f5d4f7",
+  "hashValue": "c784be3775e62d1b0f0209960215784ddb1d562be837895f93352473213c466a",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -767,14 +767,6 @@
     "profile.deleteAccount.confirmButton": "हटाएं और लॉगआउट करें",
     "profile.deleteAccount.cancelButton": "रद्द करें",
     "profile.deleteAccount.closeA11y": "खाता हटाएं मॉडल बंद करें",
-    "profile.deleteAccount.consequences.0": "आपकी प्रोफ़ाइल विवरण और सभी द्वितीयक प्रोफ़ाइल स्थायी रूप से हटा दी जाएँगी",
-    "profile.deleteAccount.consequences.1": "आपकी प्रोफ़ाइल विवरण हटा दी जाएगी।",
-    "profile.deleteAccount.consequences.2": "आपका Guru Coin बैलेंस 0 हो जाएगा।",
-    "profile.deleteAccount.consequences.3": "आपका चैट इतिहास हटा दिया जाएगा।",
-    "profile.deleteAccount.consequences.4": "आपकी डाउनलोड की गई रिपोर्ट्स, यदि कोई हो, हटा दी जाएँगी।",
-    "profile.deleteAccount.consequences.5": "प्लेटफ़ॉर्म द्वारा खरीदे गए या रिवॉर्ड में दिए गए कोई भी चैट पैक, ऑफ़र आदि रीसेट हो जाएँगे और पुनः प्राप्त नहीं किए जा सकते।",
-    "profile.deleteAccount.consequences.6": "इस प्रोफ़ाइल से जुड़ी सभी प्रोफ़ाइलें हटा दी जाएँगी",
-    "profile.deleteAccount.consequences.7": "कोई भी सक्रिय सब्सक्रिप्शन रद्द कर दिया जाएगा, पहले से कटी हुई राशि वापस नहीं की जा सकती।",
     "profile.unlockPredictions.title": "अपनी दैनिक भविष्यवाणियाँ अनलॉक करें",
     "profile.unlockPredictions.subtitle": "अपने जन्म विवरण के आधार पर वैयक्तिकृत अंतर्दृष्टि पाएं।",
     "profile.unlockPredictions.ctaButton": "अपना जन्म विवरण दर्ज करें",
@@ -794,6 +786,16 @@
     "navigation.tabs.reports": "रिपोर्ट्स",
     "navigation.tabs.match-making": "मैच",
     "navigation.tabs.profile": "पंचांग",
-    "navigation.tabs.content": "वेद टीवी"
+    "navigation.tabs.content": "वेद टीवी",
+    "profile.deleteAccount.consequences": [
+      "आपकी प्रोफ़ाइल विवरण और सभी द्वितीयक प्रोफ़ाइल स्थायी रूप से हटा दी जाएँगी",
+      "आपकी प्रोफ़ाइल विवरण हटा दी जाएगी।",
+      "आपका Guru Coin बैलेंस 0 हो जाएगा।",
+      "आपका चैट इतिहास हटा दिया जाएगा।",
+      "आपकी डाउनलोड की गई रिपोर्ट्स, यदि कोई हो, हटा दी जाएँगी।",
+      "प्लेटफ़ॉर्म द्वारा खरीदे गए या रिवॉर्ड में दिए गए कोई भी चैट पैक, ऑफ़र आदि रीसेट हो जाएँगे और पुनः प्राप्त नहीं किए जा सकते।",
+      "इस प्रोफ़ाइल से जुड़ी सभी प्रोफ़ाइलें हटा दी जाएँगी",
+      "कोई भी सक्रिय सब्सक्रिप्शन रद्द कर दिया जाएगा, पहले से कटी हुई राशि वापस नहीं की जा सकती।"
+    ]
   }
 }
