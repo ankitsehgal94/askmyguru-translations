@@ -1,5 +1,5 @@
 {
-  "hashValue": "a1dd9a3f43d7b680aa2d7defca97de6b57e11ef1f7c0f326a5f156e803de8fac",
+  "hashValue": "3ce3653d898811ec604b5388faddfdbb43d4338254dcd9d2cfde8ff1b2f4ffcf",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -821,6 +821,20 @@
     "navigation.tabs.match-making": "Match",
     "navigation.tabs.profile": "Panchang",
     "navigation.tabs.content": "VedTV",
+    "reports.banner.ctaBuyNow": "Buy Now",
+    "reports.templateDetailsCta.freeLabel": "Download Free Report",
+    "reports.templateDetailsCta.confirmPayment": "Generate Report @ ₹{{price}}",
+    "reports.templateDetailsCta.buyNow": "Buy Now @ ₹{{price}}",
+    "reports.templateDetailsCta.generating": "Generating Report...",
+    "reports.templateDetailsCta.viewReport": "View Report",
+    "reports.templateDetailsCta.freeWithSubscription": "Free with Subscription",
+    "reports.templateDetailsCta.a11y.downloadFree": "Download free report",
+    "reports.templateDetailsCta.a11y.generateForPrice": "Generate report for {{price}} rupees",
+    "reports.templateDetailsCta.a11y.buyForPrice": "Buy report for {{price}} rupees",
+    "reports.templateDetailsCta.a11y.generating": "Report is being generated",
+    "reports.templateDetailsCta.a11y.viewReport": "View your report",
+    "reports.templateDetailsCta.a11y.freeWithSubscription": "Get report free with subscription",
+    "reports.whatsIncludedBlur.title": "YOUR FULL REPORT IS READY",
     "profile.deleteAccount.consequences": [
       "Your profile details and all secondary profiles will be permanently deleted",
       "Your profile details will be deleted.",

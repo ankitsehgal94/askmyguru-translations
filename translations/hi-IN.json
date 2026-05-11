@@ -1,5 +1,5 @@
 {
-  "hashValue": "2805497820a9765dca5d72407c4b9196b1fa9333fbfd2bf24285eb915a433832",
+  "hashValue": "43e30e8024280928733d5b5447398aadfa9e6baf067b859855839eda4cc8f1f4",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -821,6 +821,20 @@
     "navigation.tabs.match-making": "मैच",
     "navigation.tabs.profile": "पंचांग",
     "navigation.tabs.content": "वेद टीवी",
+    "reports.banner.ctaBuyNow": "अभी खरीदें",
+    "reports.templateDetailsCta.freeLabel": "मुफ़्त रिपोर्ट डाउनलोड करें",
+    "reports.templateDetailsCta.confirmPayment": "₹{{price}} में रिपोर्ट जनरेट करें",
+    "reports.templateDetailsCta.buyNow": "₹{{price}} में अभी खरीदें",
+    "reports.templateDetailsCta.generating": "रिपोर्ट जनरेट हो रही है...",
+    "reports.templateDetailsCta.viewReport": "रिपोर्ट देखें",
+    "reports.templateDetailsCta.freeWithSubscription": "सब्सक्रिप्शन के साथ मुफ़्त",
+    "reports.templateDetailsCta.a11y.downloadFree": "मुफ़्त रिपोर्ट डाउनलोड करें",
+    "reports.templateDetailsCta.a11y.generateForPrice": "{{price}} रुपये में रिपोर्ट जनरेट करें",
+    "reports.templateDetailsCta.a11y.buyForPrice": "{{price}} रुपये में रिपोर्ट खरीदें",
+    "reports.templateDetailsCta.a11y.generating": "रिपोर्ट जनरेट हो रही है",
+    "reports.templateDetailsCta.a11y.viewReport": "अपनी रिपोर्ट देखें",
+    "reports.templateDetailsCta.a11y.freeWithSubscription": "सब्सक्रिप्शन के साथ रिपोर्ट मुफ़्त पाएं",
+    "reports.whatsIncludedBlur.title": "आपकी पूरी रिपोर्ट तैयार है",
     "profile.deleteAccount.consequences": [
       "आपकी प्रोफ़ाइल विवरण और सभी द्वितीयक प्रोफ़ाइल स्थायी रूप से हटा दी जाएँगी",
       "आपकी प्रोफ़ाइल विवरण हटा दी जाएगी।",
