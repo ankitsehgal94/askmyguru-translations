@@ -1,5 +1,5 @@
 {
-  "hashValue": "5aa4593e4deb509bf41e1b587b2ef3e4a8b213888c1fc6373a2540b707a16ccb",
+  "hashValue": "19f175a26856d9e87604d828d09cbedb30d73d263f3127f4a35b9fccf14e2e1d",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1100,6 +1100,13 @@
     "profile.editFlow.relationshipTypes.GRANDMOTHER": "दादी/नानी",
     "profile.editFlow.relationshipTypes.GRANDFATHER": "दादा/नाना",
     "profile.editFlow.relationshipTypes.FRIEND": "गर्लफ्रेंड",
-    "profile.editFlow.relationshipTypes.OTHER": "बॉयफ्रेंड"
+    "profile.editFlow.relationshipTypes.OTHER": "बॉयफ्रेंड",
+    "profile.editFlow.placeOfBirth.headerTitle": "जन्म स्थान",
+    "profile.editFlow.placeOfBirth.searchPlaceholder": "शहर खोजें...",
+    "profile.editFlow.placeOfBirth.clearCta": "साफ़ करें",
+    "profile.editFlow.placeOfBirth.selectCta": "चुनें",
+    "profile.editFlow.placeOfBirth.searching": "शहर खोज रहे हैं...",
+    "profile.editFlow.placeOfBirth.hint": "शहर खोजने के लिए कम से कम 2 अक्षर लिखें",
+    "profile.editFlow.placeOfBirth.noResults": "\"{{query}}\" के लिए कोई शहर नहीं मिला"
   }
 }

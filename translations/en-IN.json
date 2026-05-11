@@ -1,5 +1,5 @@
 {
-  "hashValue": "087115d76e167de2be959f643f5c37addbe18f32990f8732a26bfaf5a1ab2506",
+  "hashValue": "852a093ef03ff5d42673dd4921edfe13df0723dc96444316e7f20a7ba2023e9f",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1100,6 +1100,13 @@
     "profile.editFlow.relationshipTypes.GRANDMOTHER": "Grandmother",
     "profile.editFlow.relationshipTypes.GRANDFATHER": "Grandfather",
     "profile.editFlow.relationshipTypes.FRIEND": "GirlFriend",
-    "profile.editFlow.relationshipTypes.OTHER": "BoyFriend"
+    "profile.editFlow.relationshipTypes.OTHER": "BoyFriend",
+    "profile.editFlow.placeOfBirth.headerTitle": "Place of Birth",
+    "profile.editFlow.placeOfBirth.searchPlaceholder": "Search for a city...",
+    "profile.editFlow.placeOfBirth.clearCta": "Clear",
+    "profile.editFlow.placeOfBirth.selectCta": "Select",
+    "profile.editFlow.placeOfBirth.searching": "Searching cities...",
+    "profile.editFlow.placeOfBirth.hint": "Type at least 2 characters to search for a city",
+    "profile.editFlow.placeOfBirth.noResults": "No cities found for \"{{query}}\""
   }
 }
