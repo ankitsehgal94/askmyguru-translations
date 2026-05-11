@@ -1,5 +1,5 @@
 {
-  "hashValue": "2e6c972c6389cb9fc1395689c3cbf4aeb0f86ba9883fa52d3617b80c73e19857",
+  "hashValue": "21b1c9cdd1f985d7647d8cdacc0a3e9928eadc788dcfc2198a8d2ee0819b5b89",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1293,6 +1293,12 @@
     "vedshala.stories.a11y.openAudio": "Opens full audio content",
     "vedshala.stories.a11y.openVideo": "Opens full video content",
     "vedshala.moreLikeThis.a11yHint": "Open series",
-    "vedshala.series.tab.episodes": "Episodes"
+    "vedshala.series.tab.episodes": "Episodes",
+    "vedshala.player.unlockToContinue": "Unlock to continue watching",
+    "vedshala.player.episodeLabel": "Episode {{number}}",
+    "vedshala.player.nextEpisodeShort": "Next Ep.",
+    "vedshala.player.moreInfoShort": "More",
+    "vedshala.episodeList.metaWithNumber": "Ep {{number}} • {{duration}}m",
+    "vedshala.episodeList.metaDuration": "{{duration}}m"
   }
 }

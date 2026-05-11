@@ -1,5 +1,5 @@
 {
-  "hashValue": "4c0c95332f780a454ba887212708ba88d055c3102f94f610d6d86001c77c011e",
+  "hashValue": "4d40a78244f55f4f8c2ef38046b2ce6158e5c1d197a6fc2c940f0b2d49f537c7",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1293,6 +1293,12 @@
     "vedshala.stories.a11y.openAudio": "पूरा ऑडियो खोलता है",
     "vedshala.stories.a11y.openVideo": "पूरा वीडियो खोलता है",
     "vedshala.moreLikeThis.a11yHint": "सीरीज़ खोलें",
-    "vedshala.series.tab.episodes": "एपिसोड"
+    "vedshala.series.tab.episodes": "एपिसोड",
+    "vedshala.player.unlockToContinue": "देखना जारी रखने के लिए अनलॉक करें",
+    "vedshala.player.episodeLabel": "एपिसोड {{number}}",
+    "vedshala.player.nextEpisodeShort": "अगला एप.",
+    "vedshala.player.moreInfoShort": "और",
+    "vedshala.episodeList.metaWithNumber": "एप {{number}} • {{duration}}मि",
+    "vedshala.episodeList.metaDuration": "{{duration}}मि"
   }
 }
