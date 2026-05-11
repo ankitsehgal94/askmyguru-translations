@@ -1,5 +1,5 @@
 {
-  "hashValue": "8598dfae752515beaef1bbe7dde23171944ddf4c50963f66d8e8d93d2d0fc4fb",
+  "hashValue": "4aa6a6166c6d865dec2fec4ad76c91df56f3014a1ad831b789f07d0d8391bb24",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -516,6 +516,11 @@
     "wallet.subscription.planCard.intervalWeekPlural": "{{count}} weeks",
     "wallet.subscription.planCard.intervalMonthPlural": "{{count}} months",
     "wallet.subscription.planCard.intervalYearPlural": "{{count}} years",
+    "wallet.subscription.planCard.titleWeekly": "Weekly",
+    "wallet.subscription.planCard.titleMonthly": "Monthly",
+    "wallet.subscription.planCard.titleYearly": "Yearly",
+    "wallet.subscription.planCard.titleDayPlural_one": "1 Day",
+    "wallet.subscription.planCard.titleDayPlural_other": "{{count}} Days",
     "wallet.subscription.hero.subtitleSubscribed": "Enjoy",
     "wallet.subscription.hero.subtitleNonSubscribed": "Unlock",
     "wallet.subscription.hero.titleLine1": "Unlimited",

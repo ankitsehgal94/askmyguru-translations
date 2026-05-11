@@ -1,5 +1,5 @@
 {
-  "hashValue": "c784be3775e62d1b0f0209960215784ddb1d562be837895f93352473213c466a",
+  "hashValue": "799becad701aa02d3e245165e0be5d0c7040d99fb683477c35b8e46aba3e3d0c",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -516,6 +516,11 @@
     "wallet.subscription.planCard.intervalWeekPlural": "{{count}} सप्ताह",
     "wallet.subscription.planCard.intervalMonthPlural": "{{count}} महीने",
     "wallet.subscription.planCard.intervalYearPlural": "{{count}} साल",
+    "wallet.subscription.planCard.titleWeekly": "साप्ताहिक",
+    "wallet.subscription.planCard.titleMonthly": "मासिक",
+    "wallet.subscription.planCard.titleYearly": "वार्षिक",
+    "wallet.subscription.planCard.titleDayPlural_one": "1 दिन",
+    "wallet.subscription.planCard.titleDayPlural_other": "{{count}} दिन",
     "wallet.subscription.hero.subtitleSubscribed": "आनंद लें",
     "wallet.subscription.hero.subtitleNonSubscribed": "अनलॉक करें",
     "wallet.subscription.hero.titleLine1": "असीमित",
