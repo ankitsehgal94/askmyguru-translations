@@ -1,5 +1,5 @@
 {
-  "hashValue": "c9feca685ac5d0963fc1c494c2b18fe292598f36399ee9037e3644b8d27e37ca",
+  "hashValue": "82ed34cf0794564e03eb08002a63d8d27c34ee66dbff68d13368fac30ad93673",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -140,8 +140,8 @@
     "chat.screen.transactionToastDeposit": "₹{{depositAmount}} used from your wallet",
     "chat.screen.transactionToastCoins": "{{coinAmount}} Guru Coins used from your wallet",
     "chat.screen.transactionToastDetails": "Thanks for connecting with {{guruName}}",
-    "chat.screen.profileMessageHeader": "Hello {{guruName}}, below are my Profile Information:",
-    "chat.screen.profileMessageFallback": "Hello, below are my Profile Information:\nName: User\nGender: Not specified",
+    "chat.screen.profileMessageHeader": "Namaste {{guruName}} Ji,\nBelow are my Profile Information:",
+    "chat.screen.profileMessageFallback": "Namaste,\nBelow are my Profile Information:\nName: User\nGender: Not specified",
     "chat.screen.profileMessageNameLine": "Name: {{name}}",
     "chat.screen.profileMessageGenderLine": "Gender: {{gender}}",
     "chat.screen.profileMessageDobLine": "DOB: {{dob}}",
@@ -1251,6 +1251,7 @@
     "match-making.profileSelector.youSuffix": " • You",
     "match-making.profileSelector.changeCta": "Change",
     "match-making.compatibilityLoader": "Preparing your Compatibility...",
-    "match-making.pdf.shareAsPdf": "Share as PDF"
+    "match-making.pdf.shareAsPdf": "Share as PDF",
+    "chat.screen.welcomeAutomatedTemplate": "Your chat has started with the AI Guruavataar.\nKindly use this as a gentle guide."
   }
 }

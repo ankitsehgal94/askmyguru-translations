@@ -1,5 +1,5 @@
 {
-  "hashValue": "41014d10fc3bf1693ba94c00f7ef1bbfa50ac80e8014bd482d82254f48fe97e5",
+  "hashValue": "75e8ee58883d633425741a597122ede7acf1c3d41ebf88991847654728083ec9",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -140,8 +140,8 @@
     "chat.screen.transactionToastDeposit": "₹{{depositAmount}} आपके वॉलेट से उपयोग किए गए",
     "chat.screen.transactionToastCoins": "{{coinAmount}} Guru Coins आपके वॉलेट से उपयोग किए गए",
     "chat.screen.transactionToastDetails": "{{guruName}} से जुड़ने के लिए धन्यवाद",
-    "chat.screen.profileMessageHeader": "नमस्ते {{guruName}}, नीचे मेरी प्रोफ़ाइल जानकारी है:",
-    "chat.screen.profileMessageFallback": "नमस्ते, नीचे मेरी प्रोफ़ाइल जानकारी है:\nनाम: यूज़र\nलिंग: निर्दिष्ट नहीं",
+    "chat.screen.profileMessageHeader": "नमस्ते {{guruName}} जी,\nनीचे मेरी प्रोफ़ाइल जानकारी है:",
+    "chat.screen.profileMessageFallback": "नमस्ते,\nनीचे मेरी प्रोफ़ाइल जानकारी है:\nनाम: यूज़र\nलिंग: निर्दिष्ट नहीं",
     "chat.screen.profileMessageNameLine": "नाम: {{name}}",
     "chat.screen.profileMessageGenderLine": "लिंग: {{gender}}",
     "chat.screen.profileMessageDobLine": "जन्म तिथि: {{dob}}",
@@ -1251,6 +1251,7 @@
     "match-making.profileSelector.youSuffix": " • आप",
     "match-making.profileSelector.changeCta": "बदलें",
     "match-making.compatibilityLoader": "आपकी अनुकूलता तैयार कर रहे हैं...",
-    "match-making.pdf.shareAsPdf": "PDF के रूप में शेयर करें"
+    "match-making.pdf.shareAsPdf": "PDF के रूप में शेयर करें",
+    "chat.screen.welcomeAutomatedTemplate": "आपकी चैट AI गुरुअवतार के साथ शुरू हो गई है।\nकृपया इसे एक कोमल मार्गदर्शन के रूप में लें।"
   }
 }
