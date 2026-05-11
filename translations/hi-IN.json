@@ -1,5 +1,5 @@
 {
-  "hashValue": "799becad701aa02d3e245165e0be5d0c7040d99fb683477c35b8e46aba3e3d0c",
+  "hashValue": "c2f2a4a5be8e67fa37067a19737ff5c56db29fc36244bfa73a467c59cb4898d6",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -508,7 +508,7 @@
     "wallet.subscription.details.deactivate": "निष्क्रिय करें",
     "wallet.subscription.planCard.defaultPlanName": "प्लान",
     "wallet.subscription.planCard.saveBadge": "{{percent}}% बचाएं",
-    "wallet.subscription.planCard.bigSavings": "बड़ी बचत",
+    "wallet.subscription.planCard.bigSavings": "महाबचत",
     "wallet.subscription.planCard.intervalWeek": "सप्ताह",
     "wallet.subscription.planCard.intervalMonth": "महीना",
     "wallet.subscription.planCard.intervalYear": "साल",
