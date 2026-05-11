@@ -1,5 +1,5 @@
 {
-  "hashValue": "92808b5902737e464bfd394d3783eb2da973d7b0ea6a11afd2efb9b5e1909564",
+  "hashValue": "5aa4593e4deb509bf41e1b587b2ef3e4a8b213888c1fc6373a2540b707a16ccb",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1091,6 +1091,15 @@
     "profile.editFlow.deleteDialog.title": "इस प्रोफ़ाइल को हटाएँ?",
     "profile.editFlow.deleteDialog.body": "इस प्रोफ़ाइल का सारा डेटा स्थायी रूप से हटा दिया जाएगा।",
     "profile.editFlow.deleteDialog.confirmCta": "हाँ, हटाएँ",
-    "profile.editFlow.deleteDialog.cancelCta": "रद्द करें"
+    "profile.editFlow.deleteDialog.cancelCta": "रद्द करें",
+    "profile.editFlow.relationshipTypes.MOTHER": "माँ",
+    "profile.editFlow.relationshipTypes.FATHER": "पिता",
+    "profile.editFlow.relationshipTypes.SPOUSE": "जीवनसाथी",
+    "profile.editFlow.relationshipTypes.CHILD": "बच्चा",
+    "profile.editFlow.relationshipTypes.SIBLING": "भाई/बहन",
+    "profile.editFlow.relationshipTypes.GRANDMOTHER": "दादी/नानी",
+    "profile.editFlow.relationshipTypes.GRANDFATHER": "दादा/नाना",
+    "profile.editFlow.relationshipTypes.FRIEND": "गर्लफ्रेंड",
+    "profile.editFlow.relationshipTypes.OTHER": "बॉयफ्रेंड"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "hashValue": "298cf3c83152001505be4b9bfd37b2c0df92f2d01cb9370d41a24aa24c9e8d44",
+  "hashValue": "087115d76e167de2be959f643f5c37addbe18f32990f8732a26bfaf5a1ab2506",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1091,6 +1091,15 @@
     "profile.editFlow.deleteDialog.title": "Delete this profile?",
     "profile.editFlow.deleteDialog.body": "All data for this profile will be permanently deleted.",
     "profile.editFlow.deleteDialog.confirmCta": "Yes Delete",
-    "profile.editFlow.deleteDialog.cancelCta": "Cancel"
+    "profile.editFlow.deleteDialog.cancelCta": "Cancel",
+    "profile.editFlow.relationshipTypes.MOTHER": "Mother",
+    "profile.editFlow.relationshipTypes.FATHER": "Father",
+    "profile.editFlow.relationshipTypes.SPOUSE": "Spouse",
+    "profile.editFlow.relationshipTypes.CHILD": "Child",
+    "profile.editFlow.relationshipTypes.SIBLING": "Sibling",
+    "profile.editFlow.relationshipTypes.GRANDMOTHER": "Grandmother",
+    "profile.editFlow.relationshipTypes.GRANDFATHER": "Grandfather",
+    "profile.editFlow.relationshipTypes.FRIEND": "GirlFriend",
+    "profile.editFlow.relationshipTypes.OTHER": "BoyFriend"
   }
 }
