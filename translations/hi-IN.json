@@ -1,5 +1,5 @@
 {
-  "hashValue": "fb30058ff03bc490349f44ce77f5d6c1a8f81c0bebc3b0c3eac2261d185af33d",
+  "hashValue": "475109d896d1f8dd0d968893c7ddfd01cbb5d41bc5bac54f16280414ecc64d3e",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -350,6 +350,15 @@
     "dasha.levels.pratyantarDasha": "प्रत्यंतर",
     "dasha.levels.sukshmaDasha": "सूक्ष्म",
     "dasha.levels.pranaDasha": "प्राण",
+    "dasha.planetNames.0": "सूर्य",
+    "dasha.planetNames.1": "चंद्र",
+    "dasha.planetNames.2": "मंगल",
+    "dasha.planetNames.3": "बुध",
+    "dasha.planetNames.4": "बृहस्पति",
+    "dasha.planetNames.5": "शुक्र",
+    "dasha.planetNames.6": "शनि",
+    "dasha.planetNames.7": "राहु",
+    "dasha.planetNames.8": "केतु",
     "dasha.detail.planetListTitle": "आपकी {{label}}:",
     "dasha.detail.planetListTitleNested": "{{parentPlanet}} {{parentLabel}} के लिए आपकी {{label}}:",
     "dasha.detail.insightHeading": "{{planet}} {{level}} में क्या उम्मीद करें",

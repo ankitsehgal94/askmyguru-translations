@@ -1,5 +1,5 @@
 {
-  "hashValue": "bf00717d693af2723d0fa8fe599373a9773a8691a31200f4c361ca1f6ac95b04",
+  "hashValue": "fe4e3c011a80327f6c4ba8ef768ca178ec4694a9758e18abfb18948a275e4c4d",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -304,6 +304,15 @@
     "dasha.levels.pratyantarDasha": "Pratyantar",
     "dasha.levels.sukshmaDasha": "Sookshma",
     "dasha.levels.pranaDasha": "Prana",
+    "dasha.planetNames.0": "Sun",
+    "dasha.planetNames.1": "Moon",
+    "dasha.planetNames.2": "Mars",
+    "dasha.planetNames.3": "Mercury",
+    "dasha.planetNames.4": "Jupiter",
+    "dasha.planetNames.5": "Venus",
+    "dasha.planetNames.6": "Saturn",
+    "dasha.planetNames.7": "Rahu",
+    "dasha.planetNames.8": "Ketu",
     "dasha.detail.planetListTitle": "Your {{label}}s:",
     "dasha.detail.planetListTitleNested": "Your {{label}}s for {{parentPlanet}} {{parentLabel}}:",
     "dasha.detail.insightHeading": "What to expect in {{planet}} {{level}}",
