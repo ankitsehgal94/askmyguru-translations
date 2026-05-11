@@ -1,5 +1,5 @@
 {
-  "hashValue": "43e30e8024280928733d5b5447398aadfa9e6baf067b859855839eda4cc8f1f4",
+  "hashValue": "89a5844dafc25279c8a02bd0aad2834168f5a84d7c12fcb7f7e87a1d530188d2",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -835,6 +835,18 @@
     "reports.templateDetailsCta.a11y.viewReport": "अपनी रिपोर्ट देखें",
     "reports.templateDetailsCta.a11y.freeWithSubscription": "सब्सक्रिप्शन के साथ रिपोर्ट मुफ़्त पाएं",
     "reports.whatsIncludedBlur.title": "आपकी पूरी रिपोर्ट तैयार है",
+    "reports.templateDetails.headerTitle": "रिपोर्ट विवरण",
+    "reports.whatsIncluded.sectionTitle": "इस रिपोर्ट में क्या शामिल है",
+    "reports.whatsIncluded.analysisFor": "आपकी {{name}} का विस्तृत विश्लेषण।\nखास आपके लिए तैयार।",
+    "reports.whatsIncluded.analysisFallback": "आपकी रिपोर्ट का विस्तृत विश्लेषण।\nखास आपके लिए तैयार।",
+    "reports.trustMarkers.percent": "100%",
+    "reports.trustMarkers.secure": "सुरक्षित",
+    "reports.trustMarkers.instant": "तुरंत",
+    "reports.trustMarkers.download": "डाउनलोड",
+    "reports.trustMarkers.likedBy": "पसंद किया",
+    "reports.trustMarkers.users": "{{value}}+ यूज़र्स",
+    "reports.trustMarkers.defaultUsers": "3 हज़ार+ यूज़र्स",
+    "reports.reportsGenerated": "{{value}} रिपोर्ट्स जनरेट हुईं",
     "profile.deleteAccount.consequences": [
       "आपकी प्रोफ़ाइल विवरण और सभी द्वितीयक प्रोफ़ाइल स्थायी रूप से हटा दी जाएँगी",
       "आपकी प्रोफ़ाइल विवरण हटा दी जाएगी।",

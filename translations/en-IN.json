@@ -1,5 +1,5 @@
 {
-  "hashValue": "3ce3653d898811ec604b5388faddfdbb43d4338254dcd9d2cfde8ff1b2f4ffcf",
+  "hashValue": "0264693a58b8e370a2a39b48d6e70fc602dfb553173197bbb7f70565d6120534",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -835,6 +835,18 @@
     "reports.templateDetailsCta.a11y.viewReport": "View your report",
     "reports.templateDetailsCta.a11y.freeWithSubscription": "Get report free with subscription",
     "reports.whatsIncludedBlur.title": "YOUR FULL REPORT IS READY",
+    "reports.templateDetails.headerTitle": "Report Details",
+    "reports.whatsIncluded.sectionTitle": "What's Included in This Report",
+    "reports.whatsIncluded.analysisFor": "Detailed analysis of your {{name}}.\nCrafted just for you.",
+    "reports.whatsIncluded.analysisFallback": "Detailed analysis of your report.\nCrafted just for you.",
+    "reports.trustMarkers.percent": "100%",
+    "reports.trustMarkers.secure": "Secure",
+    "reports.trustMarkers.instant": "Instant",
+    "reports.trustMarkers.download": "Download",
+    "reports.trustMarkers.likedBy": "Liked by",
+    "reports.trustMarkers.users": "{{value}}+ users",
+    "reports.trustMarkers.defaultUsers": "3K+ users",
+    "reports.reportsGenerated": "{{value}} Reports Generated",
     "profile.deleteAccount.consequences": [
       "Your profile details and all secondary profiles will be permanently deleted",
       "Your profile details will be deleted.",
