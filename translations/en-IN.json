@@ -1,5 +1,5 @@
 {
-  "hashValue": "0264693a58b8e370a2a39b48d6e70fc602dfb553173197bbb7f70565d6120534",
+  "hashValue": "ee9fa53d0c7175a618f8835db8ba15bfa9369dcd670ef88c91115d46bd11b3a2",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -15,6 +15,10 @@
     "common.submit": "Submit",
     "common.yes": "Yes",
     "common.switchingLanguage": "Switching language...",
+    "common.forceUpdate.defaultTitle": "New Update is Here!",
+    "common.forceUpdate.defaultDescription": "To enjoy the latest features and fixes, please update your app now.",
+    "common.forceUpdate.featuresLabel": "Features",
+    "common.forceUpdate.updateCta": "Update Now",
     "auth.landingPage.title": "AskMyGuru",
     "auth.landingPage.unlimitedFreeChats": "Unlimited Free Chats",
     "auth.landingPage.guruChats": "Guru Chats 24 x 7",

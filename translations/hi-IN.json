@@ -1,5 +1,5 @@
 {
-  "hashValue": "89a5844dafc25279c8a02bd0aad2834168f5a84d7c12fcb7f7e87a1d530188d2",
+  "hashValue": "8873cd5e164b09975a43908037583da66a00db4725f8020427fd5908ff9e6c34",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -15,6 +15,10 @@
     "common.submit": "सबमिट करें",
     "common.done": "हो गया",
     "common.switchingLanguage": "भाषा बदली जा रही है...",
+    "common.forceUpdate.defaultTitle": "नया अपडेट आ गया है!",
+    "common.forceUpdate.defaultDescription": "नवीनतम फ़ीचर और सुधारों का आनंद लेने के लिए अभी अपना ऐप अपडेट करें।",
+    "common.forceUpdate.featuresLabel": "फ़ीचर्स",
+    "common.forceUpdate.updateCta": "अभी अपडेट करें",
     "auth.landingPage.title": "AskMyGuru",
     "auth.landingPage.unlimitedFreeChats": "असीमित मुफ़्त चैट",
     "auth.landingPage.guruChats": "गुरुओं से 24 x 7 चैट",
