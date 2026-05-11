@@ -1,5 +1,5 @@
 {
-  "hashValue": "75e8ee58883d633425741a597122ede7acf1c3d41ebf88991847654728083ec9",
+  "hashValue": "483164d8276c614fe39afd1282e37ed49be1f282dda286a4abcc48fa48100418",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1252,6 +1252,6 @@
     "match-making.profileSelector.changeCta": "बदलें",
     "match-making.compatibilityLoader": "आपकी अनुकूलता तैयार कर रहे हैं...",
     "match-making.pdf.shareAsPdf": "PDF के रूप में शेयर करें",
-    "chat.screen.welcomeAutomatedTemplate": "आपकी चैट AI गुरुअवतार के साथ शुरू हो गई है।\nकृपया इसे एक कोमल मार्गदर्शन के रूप में लें।"
+    "chat.screen.welcomeAutomatedTemplate": "AI गुरुअवतार के साथ आपकी चैट शुरू हुई।\nइसे मार्गदर्शन के रूप में लें।"
   }
 }
