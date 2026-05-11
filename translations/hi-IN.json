@@ -1,5 +1,5 @@
 {
-  "hashValue": "61fb2e0d347fb750d2328b90d83a30b111f3b6b4c6e7df69335ae449a0ef5414",
+  "hashValue": "41014d10fc3bf1693ba94c00f7ef1bbfa50ac80e8014bd482d82254f48fe97e5",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1161,7 +1161,7 @@
     "match-making.detailsHeader.deleteCta": "मैच हटाएँ",
     "match-making.tabs.ashtakoot": "अष्टकूट",
     "match-making.tabs.partnerKundli": "कुंडली",
-    "match-making.tabs.yourFuture": "आपका भविष्य",
+    "match-making.tabs.yourFuture": "भविष्य",
     "match-making.loading": "लोड हो रहा है...",
     "match-making.errors.createFailed": "मैच बनाने में असफल। कृपया फिर कोशिश करें।",
     "match-making.errors.deleteFailed": "मैच हटाने में असफल। कृपया फिर कोशिश करें।",
