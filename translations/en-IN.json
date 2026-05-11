@@ -1,5 +1,5 @@
 {
-  "hashValue": "21b1c9cdd1f985d7647d8cdacc0a3e9928eadc788dcfc2198a8d2ee0819b5b89",
+  "hashValue": "f2a403407094d8e5fd2a3d84adc0b9ce88af663176e1a3211314dc07143ddb23",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1299,6 +1299,22 @@
     "vedshala.player.nextEpisodeShort": "Next Ep.",
     "vedshala.player.moreInfoShort": "More",
     "vedshala.episodeList.metaWithNumber": "Ep {{number}} • {{duration}}m",
-    "vedshala.episodeList.metaDuration": "{{duration}}m"
+    "vedshala.episodeList.metaDuration": "{{duration}}m",
+    "profile.enterDetailsCard.title": "Get Your Daily Predictions",
+    "profile.enterDetailsCard.subtitle": "Unlock personalised insights based on your birth details.",
+    "profile.enterDetailsCard.ctaButton": "ENTER YOUR DETAILS",
+    "profile.enterDetailsCard.ctaA11yLabel": "Enter your details",
+    "profile.monthsAbbr.jan": "Jan",
+    "profile.monthsAbbr.feb": "Feb",
+    "profile.monthsAbbr.mar": "Mar",
+    "profile.monthsAbbr.apr": "Apr",
+    "profile.monthsAbbr.may": "May",
+    "profile.monthsAbbr.jun": "Jun",
+    "profile.monthsAbbr.jul": "Jul",
+    "profile.monthsAbbr.aug": "Aug",
+    "profile.monthsAbbr.sep": "Sep",
+    "profile.monthsAbbr.oct": "Oct",
+    "profile.monthsAbbr.nov": "Nov",
+    "profile.monthsAbbr.dec": "Dec"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "hashValue": "4d40a78244f55f4f8c2ef38046b2ce6158e5c1d197a6fc2c940f0b2d49f537c7",
+  "hashValue": "da0576b98e30554b88c581f0542e347e80bf61b948af3d883bc57046e66250be",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1299,6 +1299,22 @@
     "vedshala.player.nextEpisodeShort": "अगला एप.",
     "vedshala.player.moreInfoShort": "और",
     "vedshala.episodeList.metaWithNumber": "एप {{number}} • {{duration}}मि",
-    "vedshala.episodeList.metaDuration": "{{duration}}मि"
+    "vedshala.episodeList.metaDuration": "{{duration}}मि",
+    "profile.enterDetailsCard.title": "अपनी दैनिक भविष्यवाणियाँ पाएँ",
+    "profile.enterDetailsCard.subtitle": "अपने जन्म विवरण के आधार पर व्यक्तिगत अंतर्दृष्टि अनलॉक करें।",
+    "profile.enterDetailsCard.ctaButton": "अपना विवरण दर्ज करें",
+    "profile.enterDetailsCard.ctaA11yLabel": "अपना विवरण दर्ज करें",
+    "profile.monthsAbbr.jan": "जन",
+    "profile.monthsAbbr.feb": "फर",
+    "profile.monthsAbbr.mar": "मार्च",
+    "profile.monthsAbbr.apr": "अप्रै",
+    "profile.monthsAbbr.may": "मई",
+    "profile.monthsAbbr.jun": "जून",
+    "profile.monthsAbbr.jul": "जुला",
+    "profile.monthsAbbr.aug": "अग",
+    "profile.monthsAbbr.sep": "सित",
+    "profile.monthsAbbr.oct": "अक्टू",
+    "profile.monthsAbbr.nov": "नव",
+    "profile.monthsAbbr.dec": "दिस"
   }
 }
