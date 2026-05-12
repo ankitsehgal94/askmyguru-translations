@@ -1,5 +1,5 @@
 {
-  "hashValue": "9ca01e8aaef4dc61",
+  "hashValue": "65c3d96cdd169aaa",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1472,6 +1472,21 @@
     "social-status.textSheet.deleteA11y": "कस्टम टेक्स्ट हटाएँ",
     "chat.sheets.exploreMore.suggestionLabels.content": "वेद TV",
     "chat.sheets.exploreMore.suggestionLabels.mychats": "चैट",
-    "chat.sheets.exploreMore.suggestionLabels.reports": "रिपोर्ट"
+    "chat.sheets.exploreMore.suggestionLabels.reports": "रिपोर्ट",
+    "language-picker.screen.title": "अपनी भाषा चुनें",
+    "language-picker.screen.subtitle": "इसे बाद में सेटिंग्स से बदला जा सकता है",
+    "language-picker.screen.ctaContinue": "जारी रखें",
+    "language-picker.screen.skipLabel": "छोड़ें",
+    "language-picker.sheet.title": "अपनी भाषा चुनें",
+    "language-picker.sheet.subtitle": "वह भाषा चुनें जिसमें आप AskMyGuru का उपयोग करना चाहते हैं",
+    "language-picker.sheet.ctaContinue": "जारी रखें",
+    "language-picker.sheet.closeA11y": "बंद करें",
+    "language-picker.languages.en-IN": "English",
+    "language-picker.languages.hi-IN": "हिन्दी",
+    "language-picker.languages.ta-IN": "தமிழ்",
+    "language-picker.languages.te-IN": "తెలుగు",
+    "language-picker.languages.kn-IN": "ಕನ್ನಡ",
+    "language-picker.languages.mr-IN": "मराठी",
+    "language-picker.languages.bn-IN": "বাংলা"
   }
 }
