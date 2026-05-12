@@ -1,5 +1,5 @@
 {
-  "hashValue": "6aafd0dc72c46b9b",
+  "hashValue": "ac0d7cbf65f946c7",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -478,6 +478,11 @@
     "wallet.addMoneyV2.config.subscribeReportForFreeTitle": "सब्सक्राइब करें और यह रिपोर्ट मुफ़्त पाएं",
     "wallet.addMoneyV2.config.unlimitedReports": "असीमित रिपोर्ट",
     "wallet.addMoneyV2.config.allReportsFreeDescription": "सब्सक्रिप्शन के साथ सभी रिपोर्ट मुफ़्त पाएं",
+    "wallet.addMoneyV2.config.reportV2PurchaseWidgetTitle": "सीमित अवधि का ऑफ़र!",
+    "wallet.addMoneyV2.config.reportV2PurchasePillText": "VIP Plan | साप्ताहिक सब्सक्रिप्शन",
+    "wallet.addMoneyV2.config.reportV2PurchaseDescription": "असीमित परामर्श के साथ पिछला जीवन रिपोर्ट पाएं",
+    "wallet.addMoneyV2.config.reportV2PurchaseSecondaryDescription": "हर हफ़्ते ऑटोपे, कभी भी रद्द करें",
+    "wallet.addMoneyV2.config.reportV2PurchasePayPerChatPromptText": "बिना ऑफ़र के रिपोर्ट खरीदें",
     "wallet.balanceScreen.headerTitle": "मेरा बैलेंस",
     "wallet.balanceScreen.totalCash": "कुल कैश",
     "wallet.balanceScreen.guruCoins": "Guru Coins",

@@ -1,5 +1,5 @@
 {
-  "hashValue": "075c74277cf0f53c",
+  "hashValue": "99e191a21a7f29e3",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -478,6 +478,11 @@
     "wallet.addMoneyV2.config.subscribeReportForFreeTitle": "Subscribe & Get this Report for free",
     "wallet.addMoneyV2.config.unlimitedReports": "Unlimited Reports",
     "wallet.addMoneyV2.config.allReportsFreeDescription": "Get all reports free with subscription",
+    "wallet.addMoneyV2.config.reportV2PurchaseWidgetTitle": "Limited Period Offer!",
+    "wallet.addMoneyV2.config.reportV2PurchasePillText": "VIP Plan | Weekly Subscription",
+    "wallet.addMoneyV2.config.reportV2PurchaseDescription": "Get Past Life Report with Unlimited Consultations",
+    "wallet.addMoneyV2.config.reportV2PurchaseSecondaryDescription": "Autopay every week, Cancel Anytime",
+    "wallet.addMoneyV2.config.reportV2PurchasePayPerChatPromptText": "Purchase Report without Offer",
     "wallet.balanceScreen.headerTitle": "My Balance",
     "wallet.balanceScreen.totalCash": "Total Cash",
     "wallet.balanceScreen.guruCoins": "Guru Coins",
