@@ -1,5 +1,5 @@
 {
-  "hashValue": "9c1b2bdd14a2c30c",
+  "hashValue": "9ca01e8aaef4dc61",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1469,6 +1469,9 @@
     "social-status.textSheet.deleteLabel": "हटाएँ",
     "social-status.textSheet.addA11y": "कस्टम टेक्स्ट जोड़ें",
     "social-status.textSheet.saveA11y": "कस्टम टेक्स्ट सेव करें",
-    "social-status.textSheet.deleteA11y": "कस्टम टेक्स्ट हटाएँ"
+    "social-status.textSheet.deleteA11y": "कस्टम टेक्स्ट हटाएँ",
+    "chat.sheets.exploreMore.suggestionLabels.content": "वेद TV",
+    "chat.sheets.exploreMore.suggestionLabels.mychats": "चैट",
+    "chat.sheets.exploreMore.suggestionLabels.reports": "रिपोर्ट"
   }
 }

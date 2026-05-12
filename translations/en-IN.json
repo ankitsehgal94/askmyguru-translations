@@ -1,5 +1,5 @@
 {
-  "hashValue": "24ff25cd2f3a023f",
+  "hashValue": "15d411007e78cded",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1469,6 +1469,9 @@
     "social-status.textSheet.deleteLabel": "Delete",
     "social-status.textSheet.addA11y": "Add custom text",
     "social-status.textSheet.saveA11y": "Save custom text",
-    "social-status.textSheet.deleteA11y": "Delete custom text"
+    "social-status.textSheet.deleteA11y": "Delete custom text",
+    "chat.sheets.exploreMore.suggestionLabels.content": "Ved TV",
+    "chat.sheets.exploreMore.suggestionLabels.mychats": "Chat",
+    "chat.sheets.exploreMore.suggestionLabels.reports": "Report"
   }
 }
