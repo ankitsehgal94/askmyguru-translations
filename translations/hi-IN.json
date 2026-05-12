@@ -1,5 +1,5 @@
 {
-  "hashValue": "ac0d7cbf65f946c7",
+  "hashValue": "357b45e093d9bdf1",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -483,6 +483,9 @@
     "wallet.addMoneyV2.config.reportV2PurchaseDescription": "असीमित परामर्श के साथ पिछला जीवन रिपोर्ट पाएं",
     "wallet.addMoneyV2.config.reportV2PurchaseSecondaryDescription": "हर हफ़्ते ऑटोपे, कभी भी रद्द करें",
     "wallet.addMoneyV2.config.reportV2PurchasePayPerChatPromptText": "बिना ऑफ़र के रिपोर्ट खरीदें",
+    "wallet.addMoneyV2.reportSuggestion.primaryLabel": "रिपोर्ट की कीमत",
+    "wallet.addMoneyV2.reportSuggestion.addAmount": "₹{{amount}} जोड़ें",
+    "wallet.addMoneyV2.reportSuggestion.addAmountMinDeposit": "₹{{amount}} जोड़ें (न्यूनतम डिपॉज़िट)",
     "wallet.balanceScreen.headerTitle": "मेरा बैलेंस",
     "wallet.balanceScreen.totalCash": "कुल कैश",
     "wallet.balanceScreen.guruCoins": "Guru Coins",

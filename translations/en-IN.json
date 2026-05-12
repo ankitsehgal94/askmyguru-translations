@@ -1,5 +1,5 @@
 {
-  "hashValue": "99e191a21a7f29e3",
+  "hashValue": "17d581a6106eb371",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -483,6 +483,9 @@
     "wallet.addMoneyV2.config.reportV2PurchaseDescription": "Get Past Life Report with Unlimited Consultations",
     "wallet.addMoneyV2.config.reportV2PurchaseSecondaryDescription": "Autopay every week, Cancel Anytime",
     "wallet.addMoneyV2.config.reportV2PurchasePayPerChatPromptText": "Purchase Report without Offer",
+    "wallet.addMoneyV2.reportSuggestion.primaryLabel": "Report Price",
+    "wallet.addMoneyV2.reportSuggestion.addAmount": "Add ₹{{amount}}",
+    "wallet.addMoneyV2.reportSuggestion.addAmountMinDeposit": "Add ₹{{amount}} (Min. Deposit)",
     "wallet.balanceScreen.headerTitle": "My Balance",
     "wallet.balanceScreen.totalCash": "Total Cash",
     "wallet.balanceScreen.guruCoins": "Guru Coins",
