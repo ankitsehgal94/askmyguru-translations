@@ -1,5 +1,5 @@
 {
-  "hashValue": "6dee7199921e924e",
+  "hashValue": "075c74277cf0f53c",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -924,6 +924,8 @@
     "navigation.drawer.badge.active": "Active",
     "navigation.drawer.badge.deactivated": "Deactivated",
     "reports.banner.ctaBuyNow": "Buy Now",
+    "reports.purchaseSheet.titleWithName": "{{reportName}} for {{name}}",
+    "reports.purchaseSheet.defaultReportName": "{{category}} Report",
     "reports.templateDetailsCta.freeLabel": "Download Free Report",
     "reports.templateDetailsCta.confirmPayment": "Generate Report @ ₹{{price}}",
     "reports.templateDetailsCta.buyNow": "Buy Now @ ₹{{price}}",

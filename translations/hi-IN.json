@@ -1,5 +1,5 @@
 {
-  "hashValue": "4371853dad1f9b4a",
+  "hashValue": "6aafd0dc72c46b9b",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -924,6 +924,8 @@
     "navigation.drawer.badge.active": "सक्रिय",
     "navigation.drawer.badge.deactivated": "निष्क्रिय",
     "reports.banner.ctaBuyNow": "अभी खरीदें",
+    "reports.purchaseSheet.titleWithName": "{{name}} के लिए {{reportName}}",
+    "reports.purchaseSheet.defaultReportName": "{{category}} रिपोर्ट",
     "reports.templateDetailsCta.freeLabel": "मुफ़्त रिपोर्ट डाउनलोड करें",
     "reports.templateDetailsCta.confirmPayment": "₹{{price}} में रिपोर्ट जनरेट करें",
     "reports.templateDetailsCta.buyNow": "₹{{price}} में अभी खरीदें",
