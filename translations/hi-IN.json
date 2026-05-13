@@ -1,5 +1,5 @@
 {
-  "hashValue": "249e01701cf85e5c",
+  "hashValue": "1bfb01632a49a0d2",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1574,6 +1574,31 @@
     "reports.generation.noteText": "अपनी डाउनलोड की गई रिपोर्ट्स देखने के लिए रिपोर्ट हिस्ट्री पर जाएँ।",
     "navigation.drawer.closeDrawer": "ड्रॉअर बंद करें",
     "navigation.drawer.logout": "लॉगआउट",
-    "navigation.drawer.appVersion": "ऐप वर्ज़न {{version}}"
+    "navigation.drawer.appVersion": "ऐप वर्ज़न {{version}}",
+    "profile.shareDetailsSheet.reportHeader.title": "आइए आपकी व्यक्तिगत रिपोर्ट बनाएँ",
+    "profile.shareDetailsSheet.reportHeader.subtitle": "कृपया अपनी जानकारी भरें",
+    "profile.shareDetailsSheet.chatHeader.title": "{{guruName}} के साथ चैट शुरू करने के लिए अपनी जानकारी भरें",
+    "profile.shareDetailsSheet.chatHeader.subtitle": "चैट शुरू करने के लिए अभी शेयर करें",
+    "profile.shareDetailsSheet.chatHeader.guruFallback": "गुरुजी",
+    "profile.shareDetailsSheet.name.label": "नाम दर्ज करें",
+    "profile.shareDetailsSheet.name.placeholder": "पहला नाम अंतिम नाम",
+    "profile.shareDetailsSheet.gender.label": "लिंग चुनें",
+    "profile.shareDetailsSheet.placeOfBirth.label": "जन्म स्थान",
+    "profile.shareDetailsSheet.placeOfBirth.placeholder": "जन्म स्थान चुनें",
+    "profile.shareDetailsSheet.placeOfBirth.hint": "संकेत: यदि आपका सटीक जन्मस्थान सूची में नहीं है तो अपना नज़दीकी शहर, ज़िला या राज्य दर्ज करें।",
+    "profile.shareDetailsSheet.dateTime.label": "जन्म तिथि व समय",
+    "profile.shareDetailsSheet.dateTime.datePickerLabel": "जन्म तिथि चुनें",
+    "profile.shareDetailsSheet.dateTime.dateFormat": "DD-MM-YYYY",
+    "profile.shareDetailsSheet.dateTime.dayLabel": "दिन",
+    "profile.shareDetailsSheet.dateTime.dayPlaceholder": "DD",
+    "profile.shareDetailsSheet.dateTime.monthLabel": "महीना",
+    "profile.shareDetailsSheet.dateTime.monthPlaceholder": "MM",
+    "profile.shareDetailsSheet.dateTime.yearLabel": "वर्ष",
+    "profile.shareDetailsSheet.dateTime.yearPlaceholder": "YYYY",
+    "profile.shareDetailsSheet.dateTime.invalidDate": "कृपया एक मान्य तिथि दर्ज करें",
+    "profile.shareDetailsSheet.dateTime.timePickerLabel": "जन्म समय",
+    "profile.shareDetailsSheet.dateTime.timePlaceholder": "जन्म समय चुनें",
+    "profile.shareDetailsSheet.dateTime.hint": "संकेत: यदि आपको अपना सटीक जन्म समय नहीं पता तो कृपया 12:00 PM दर्ज करें",
+    "profile.shareDetailsSheet.submitCta": "विवरण सहेजें"
   }
 }
