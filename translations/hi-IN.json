@@ -1,5 +1,5 @@
 {
-  "hashValue": "89171a0cb5d851a2",
+  "hashValue": "45a29f35bd23e59e",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1608,6 +1608,16 @@
     "common.appRating.feedbackPlaceholder": "अपनी प्रतिक्रिया यहाँ लिखें...",
     "common.appRating.submitCta": "सबमिट करें",
     "common.appRating.starsA11y_one": "{{count}} स्टार",
-    "common.appRating.starsA11y_other": "{{count}} स्टार"
+    "common.appRating.starsA11y_other": "{{count}} स्टार",
+    "wallet.guruCoinsFaq.headerTitle": "गुरु कॉइन के बारे में",
+    "wallet.guruCoinsFaq.question1": "गुरु कॉइन क्या हैं?",
+    "wallet.guruCoinsFaq.question1Description": "गुरु कॉइन प्लेटफ़ॉर्म पर एक वर्चुअल मुद्रा है।",
+    "wallet.guruCoinsFaq.valueLabel": "गुरु कॉइन का मूल्य",
+    "wallet.guruCoinsFaq.question2": "मैं गुरु कॉइन का उपयोग कहाँ कर सकता हूँ?",
+    "wallet.guruCoinsFaq.question2Description": "आप केवल उन गुरुओं के साथ चैट के लिए गुरु कॉइन का उपयोग कर सकते हैं जिनकी प्रोफ़ाइल पर \"Pay with Guru Coins\" टैग है।",
+    "wallet.guruCoinsFaq.question3": "गुरु कॉइन कैसे कमाएँ?",
+    "wallet.guruCoinsFaq.buttonNext": "अगला",
+    "wallet.guruCoinsFaq.buttonDone": "पूर्ण",
+    "wallet.guruCoinsFaq.buttonCancel": "रद्द करें"
   }
 }
