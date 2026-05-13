@@ -1,5 +1,5 @@
 {
-  "hashValue": "1bfb01632a49a0d2",
+  "hashValue": "89171a0cb5d851a2",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1599,6 +1599,15 @@
     "profile.shareDetailsSheet.dateTime.timePickerLabel": "जन्म समय",
     "profile.shareDetailsSheet.dateTime.timePlaceholder": "जन्म समय चुनें",
     "profile.shareDetailsSheet.dateTime.hint": "संकेत: यदि आपको अपना सटीक जन्म समय नहीं पता तो कृपया 12:00 PM दर्ज करें",
-    "profile.shareDetailsSheet.submitCta": "विवरण सहेजें"
+    "profile.shareDetailsSheet.submitCta": "विवरण सहेजें",
+    "common.appRating.title": "आपका अनुभव कैसा रहा?",
+    "common.appRating.questions.guruAdvice": "क्या Guruji की सलाह आपके लिए मददगार रही?",
+    "common.appRating.questions.chatPrices": "क्या चैट की कीमतें आपके लिए ठीक थीं?",
+    "common.appRating.questions.appEasyToUse": "क्या ऐप उपयोग करने में आसान था?",
+    "common.appRating.additionalFeedbackLabel": "क्या आप कुछ और साझा करना चाहेंगे?",
+    "common.appRating.feedbackPlaceholder": "अपनी प्रतिक्रिया यहाँ लिखें...",
+    "common.appRating.submitCta": "सबमिट करें",
+    "common.appRating.starsA11y_one": "{{count}} स्टार",
+    "common.appRating.starsA11y_other": "{{count}} स्टार"
   }
 }
