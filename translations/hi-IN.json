@@ -1,5 +1,5 @@
 {
-  "hashValue": "45a29f35bd23e59e",
+  "hashValue": "c23935e3a9c1f81c",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1618,6 +1618,22 @@
     "wallet.guruCoinsFaq.question3": "गुरु कॉइन कैसे कमाएँ?",
     "wallet.guruCoinsFaq.buttonNext": "अगला",
     "wallet.guruCoinsFaq.buttonDone": "पूर्ण",
-    "wallet.guruCoinsFaq.buttonCancel": "रद्द करें"
+    "wallet.guruCoinsFaq.buttonCancel": "रद्द करें",
+    "chat.callAlerts.endCall.title": "कॉल समाप्त करें",
+    "chat.callAlerts.endCall.message": "क्या आप वाकई कॉल समाप्त करना चाहते हैं?",
+    "chat.callAlerts.endCall.cancel": "रद्द करें",
+    "chat.callAlerts.endCall.confirm": "समाप्त करें",
+    "chat.callAlerts.featureUnavailable.title": "फ़ीचर उपलब्ध नहीं",
+    "chat.callAlerts.featureUnavailable.message": "कॉल फ़ीचर अभी उपलब्ध नहीं है।",
+    "chat.callAlerts.featureUnavailable.ok": "ठीक है",
+    "reports.history.toast.inProgress.title": "रिपोर्ट प्रगति पर है",
+    "reports.history.toast.inProgress.description": "आपकी रिपोर्ट अभी भी बन रही है। कृपया कुछ देर बाद देखें।",
+    "reports.history.toast.failed.title": "रिपोर्ट बनाने में विफलता",
+    "reports.history.toast.failed.description": "आपकी रिपोर्ट बनाने में समस्या आई। कृपया पुनः प्रयास करें।",
+    "reports.history.toast.notAvailable.title": "रिपोर्ट उपलब्ध नहीं",
+    "reports.history.toast.notAvailable.description": "यह रिपोर्ट अभी देखने के लिए तैयार नहीं है।",
+    "auth.errors.authFailed.title": "प्रमाणीकरण विफल",
+    "auth.errors.authFailed.message": "कृपया पुनः लॉगिन करें",
+    "referral.toast.codeCopied": "रेफ़रल कोड कॉपी हो गया!"
   }
 }
