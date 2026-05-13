@@ -1,5 +1,5 @@
 {
-  "hashValue": "ec3bc42fa9f3acbb",
+  "hashValue": "3db35e43c9eee8c0",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1650,6 +1650,16 @@
     "referral.screen.steps.friendLogsInTitle": "दोस्त लॉगिन करता है",
     "referral.screen.steps.friendLogsInDesc": "आपके कोड के साथ",
     "referral.screen.steps.youGetTitle": "आपको मिलते हैं ₹50",
-    "referral.screen.steps.youGetDesc": "आपके दोस्त को ₹50 मिलते हैं"
+    "referral.screen.steps.youGetDesc": "आपके दोस्त को ₹50 मिलते हैं",
+    "chat.continueChatting": "गुरुजी से चैट जारी रखें",
+    "chat.guruSuggestion.recentChats": "हाल की चैट्स",
+    "chat.guruSuggestion.categoryExperts": "{{category}} विशेषज्ञ",
+    "chat.guruSuggestion.loading": "लोड हो रहा है...",
+    "chat.disclaimer.okayCta": "ठीक है!",
+    "chat.disclaimer.okayHint": "अस्वीकरण बॉटम शीट बंद करें",
+    "chat.sheets.delayWarning.title": "जवाब सामान्य से अधिक समय ले रहा है...",
+    "chat.sheets.delayWarning.body": "{{guruName}} को आपके सवाल का जवाब देने में थोड़ा और समय लगेगा। आप अपने सवाल पूछना जारी रख सकते हैं — {{guruName}} के जवाब देते ही हम आपको सूचित कर देंगे।",
+    "chat.sheets.delayWarning.cta": "चैट जारी रखें",
+    "chat.sheets.delayWarning.guruFallback": "गुरुजी"
   }
 }
