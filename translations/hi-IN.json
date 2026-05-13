@@ -1,5 +1,5 @@
 {
-  "hashValue": "aa2f1314a642c20f",
+  "hashValue": "249e01701cf85e5c",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1571,6 +1571,9 @@
     "reports.generation.failed.subtitle": "कोई राशि नहीं काटी गई!",
     "reports.generation.failed.cta": "पुनः प्रयास करें",
     "reports.generation.noteLabel": "नोट:",
-    "reports.generation.noteText": "अपनी डाउनलोड की गई रिपोर्ट्स देखने के लिए रिपोर्ट हिस्ट्री पर जाएँ।"
+    "reports.generation.noteText": "अपनी डाउनलोड की गई रिपोर्ट्स देखने के लिए रिपोर्ट हिस्ट्री पर जाएँ।",
+    "navigation.drawer.closeDrawer": "ड्रॉअर बंद करें",
+    "navigation.drawer.logout": "लॉगआउट",
+    "navigation.drawer.appVersion": "ऐप वर्ज़न {{version}}"
   }
 }
