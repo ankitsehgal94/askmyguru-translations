@@ -1,5 +1,5 @@
 {
-  "hashValue": "c23935e3a9c1f81c",
+  "hashValue": "ec3bc42fa9f3acbb",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1634,6 +1634,22 @@
     "reports.history.toast.notAvailable.description": "यह रिपोर्ट अभी देखने के लिए तैयार नहीं है।",
     "auth.errors.authFailed.title": "प्रमाणीकरण विफल",
     "auth.errors.authFailed.message": "कृपया पुनः लॉगिन करें",
-    "referral.toast.codeCopied": "रेफ़रल कोड कॉपी हो गया!"
+    "referral.toast.codeCopied": "रेफ़रल कोड कॉपी हो गया!",
+    "referral.screen.loading": "रेफ़रल विवरण लोड हो रहा है...",
+    "referral.screen.error": "रेफ़रल विवरण लाने में असमर्थ। कृपया बाद में पुनः प्रयास करें।",
+    "referral.screen.retry": "पुनः प्रयास करें",
+    "referral.screen.earnedGuruCoins": "अर्जित गुरु कॉइन",
+    "referral.screen.titleLine1": "अपने दोस्तों और परिवार को आमंत्रित करें",
+    "referral.screen.titleLine2": "और गुरु कॉइन कमाएँ",
+    "referral.screen.getUpTo": "पाएँ अधिकतम",
+    "referral.screen.referralCode": "रेफ़रल कोड",
+    "referral.screen.tapToCopy": "कॉपी करने के लिए टैप करें",
+    "referral.screen.shareWhatsapp": "WhatsApp पर शेयर करें",
+    "referral.screen.steps.shareCodeTitle": "कोड साझा करें",
+    "referral.screen.steps.shareCodeDesc": "अपने दोस्तों के साथ",
+    "referral.screen.steps.friendLogsInTitle": "दोस्त लॉगिन करता है",
+    "referral.screen.steps.friendLogsInDesc": "आपके कोड के साथ",
+    "referral.screen.steps.youGetTitle": "आपको मिलते हैं ₹50",
+    "referral.screen.steps.youGetDesc": "आपके दोस्त को ₹50 मिलते हैं"
   }
 }
