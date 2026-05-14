@@ -1,5 +1,5 @@
 {
-  "hashValue": "2cb149109da17de6",
+  "hashValue": "a1f1e0e60a038e72",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1524,6 +1524,14 @@
     "common.headerWallet.chatTooltip": "Find your Guru Chats here",
     "common.headerWallet.chatTooltipA11y": "Find your Guru Chats tooltip",
     "common.headerWallet.openChatsA11y": "Open chats",
-    "common.headerWallet.openWalletA11y": "Open wallet"
+    "common.headerWallet.openWalletA11y": "Open wallet",
+    "match-making.bhavishyaTab.loading.0.line1": "Analyzing your cosmic connection...",
+    "match-making.bhavishyaTab.loading.0.line2": "Aapke taaron ka sangam dekh rahe hain...",
+    "match-making.bhavishyaTab.loading.1.line1": "Reading the stars for your future together...",
+    "match-making.bhavishyaTab.loading.1.line2": "Aapke bhavishya ke sitaare padh rahe hain...",
+    "match-making.bhavishyaTab.loading.2.line1": "Calculating planetary alignments...",
+    "match-making.bhavishyaTab.loading.2.line2": "Grahon ki sthiti ka vishleshan ho raha hai...",
+    "match-making.bhavishyaTab.loading.3.line1": "Unveiling insights from ancient wisdom...",
+    "match-making.bhavishyaTab.loading.3.line2": "Prachin gyan se rahasya khul rahe hain..."
   }
 }
