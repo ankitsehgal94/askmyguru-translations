@@ -1,5 +1,5 @@
 {
-  "hashValue": "ca6e03c73532100a",
+  "hashValue": "42c76e152081670a",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1671,6 +1671,10 @@
     "dasha.planetCard.cardA11yLabel": "{{planet}} {{label}}{{currentSuffix}}{{changedSuffix}}",
     "dasha.planetCard.a11yCurrentSuffix": ", वर्तमान अवधि",
     "dasha.planetCard.a11yChangedSuffix": ", हाल ही में बदला",
-    "dasha.planetCard.a11yHint": "विवरण देखने के लिए डबल टैप करें"
+    "dasha.planetCard.a11yHint": "विवरण देखने के लिए डबल टैप करें",
+    "reports.customBanner.customBanner.title1": "अनलिमिटेड फ्री चैट और मुफ़्त पास्ट लाइफ रिपोर्ट",
+    "reports.customBanner.customBanner.title2": "वीआईपी प्लान",
+    "reports.customBanner.customBanner.subtitle": "",
+    "reports.customBanner.customBanner.ctaText": "सब्सक्राइब करें"
   }
 }
