@@ -1,5 +1,5 @@
 {
-  "hashValue": "8c21825a037398f5",
+  "hashValue": "0e887e00281428e2",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1658,6 +1658,9 @@
     "profile.deleteAccount.consequences.4": "आपकी डाउनलोड की गई रिपोर्ट्स, यदि कोई हों, हटा दी जाएँगी।",
     "profile.deleteAccount.consequences.5": "प्लेटफ़ॉर्म द्वारा खरीदे गए या दिए गए किसी भी चैट पैक, ऑफ़र आदि रीसेट हो जाएँगे और दोबारा प्राप्त नहीं किए जा सकते।",
     "profile.deleteAccount.consequences.6": "प्रोफ़ाइल से जुड़ी सभी प्रोफ़ाइलें हटा दी जाएँगी",
-    "profile.deleteAccount.consequences.7": "कोई भी सक्रिय सब्सक्रिप्शन रद्द कर दिया जाएगा। पहले से कटी हुई राशि वापस नहीं की जाएगी।"
+    "profile.deleteAccount.consequences.7": "कोई भी सक्रिय सब्सक्रिप्शन रद्द कर दिया जाएगा। पहले से कटी हुई राशि वापस नहीं की जाएगी।",
+    "home.dashaWidget.greetingPrefix": "नमस्ते और जानें",
+    "home.dashaWidget.headerText": "आपका ज्योतिष विश्लेषण: विंशोत्तरी दशा",
+    "home.dashaWidget.storyTitle": "आज का मार्गदर्शन"
   }
 }
