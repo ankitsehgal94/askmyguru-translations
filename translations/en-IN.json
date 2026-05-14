@@ -1,5 +1,5 @@
 {
-  "hashValue": "d8992b7688d9de08",
+  "hashValue": "294f05b1616676e1",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -274,7 +274,7 @@
     "chat.disclaimer.fictionalDisclaimer.content.0": "All Guruavataars on AskMyGuru are fictitious. Any resemblance to actual persons, living or dead, is purely coincidental.",
     "chat.disclaimer.fictionalDisclaimer.content.1": "This is a work of fiction. Names, Pictures and Characters are AI generated, are either products of the creator's imagination or used fictitiously. AskMyGuru does not intend to defame or harm the reputation of any individual, community, caste, or religion.",
     "chat.disclaimer.termsSection.heading": "Terms of Use",
-    "chat.disclaimer.termsSection.description": "By Using Our Guruavataars, you agree to our terms and conditions. If you have questions or concerns, please contact us at namaste@askmyguru.live",
+    "chat.disclaimer.termsSection.description": "By using our Guruavataars, you agree to our <terms>terms and conditions</terms>. If you have questions or concerns, please contact us at <email>namaste@askmyguru.live</email>",
     "chat.disclaimer.byCategory.default.mainDescription.0": "Our Guruavataars, AI assistants trained on the centuries-old Vedic literature and books. Each AI assistant is designed to provide insights and resolutions that help you attain peace and happiness.",
     "chat.disclaimer.byCategory.default.bulletPoints.0": "The AI assistant does not possess consciousness, intuition, or spiritual insight;",
     "chat.disclaimer.byCategory.default.bulletPoints.1": "Use of the Services is at your sole discretion and risk.",
@@ -1495,6 +1495,7 @@
     "profile.profileSwitchTrigger.you": "You",
     "profile.profileSwitchTrigger.family": "Family",
     "reports.generation.polling.infoItems.0": "This may take 10 minutes.",
-    "reports.generation.polling.infoItems.1": "We'll send a <b>Push Notification</b> and a <b>WhatsApp Message</b> on your phone when the report is ready"
+    "reports.generation.polling.infoItems.1": "We'll send a <b>Push Notification</b> and a <b>WhatsApp Message</b> on your phone when the report is ready",
+    "chat.disclaimer.heading": "Disclaimer"
   }
 }
