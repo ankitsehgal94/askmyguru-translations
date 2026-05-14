@@ -1,5 +1,5 @@
 {
-  "hashValue": "c9a914cf4e902d5f",
+  "hashValue": "d03c9de5e410fffc",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1691,6 +1691,16 @@
     "wallet.subscription.benefitReports.HEALTH.title": "स्वास्थ्य",
     "wallet.subscription.benefitReports.HEALTH.description": "अपनी कुंडली के आधार पर स्वास्थ्य और तंदुरुस्ती से जुड़ा मार्गदर्शन जानें।",
     "wallet.subscription.benefitReports.FINANCE.title": "वित्त",
-    "wallet.subscription.benefitReports.FINANCE.description": "अपनी वित्तीय संभावनाओं और धन-संचय के पैटर्न को समझें।"
+    "wallet.subscription.benefitReports.FINANCE.description": "अपनी वित्तीय संभावनाओं और धन-संचय के पैटर्न को समझें।",
+    "common.loaderMessages.0.line1": "ज्योतिष दिशा दिखाता है; रास्ता आपकी इच्छाशक्ति तय करती है।",
+    "common.loaderMessages.0.line2": "भविष्यवाणी सिर्फ़ संकेत है, चुनाव हमेशा आपका है।",
+    "common.loaderMessages.1.line1": "भविष्यवाणियों का उपयोग योजना के लिए करें, घबराने के लिए नहीं।",
+    "common.loaderMessages.1.line2": "सही समय पर सही निर्णय ही सबसे बड़ी ताक़त है।",
+    "common.loaderMessages.2.line1": "\"क्या होगा?\" से ज़्यादा पूछें \"मुझे क्या करना चाहिए?\"",
+    "common.loaderMessages.2.line2": "सही प्रश्न ही सही उत्तर तक ले जाते हैं।",
+    "common.loaderMessages.3.line1": "सबसे कठिन ग्रह भी निरंतर प्रयास से सकारात्मक फल देता है।",
+    "common.loaderMessages.3.line2": "धैर्य और मेहनत ज्योतिष से ज़्यादा शक्तिशाली हैं।",
+    "common.loaderMessages.4.line1": "सबसे उत्तम उपाय है — सही समय पर सही कर्म।",
+    "common.loaderMessages.4.line2": "समय और कर्म साथ हों तो परिणाम स्वतः अनुकूल होते हैं।"
   }
 }
