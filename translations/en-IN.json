@@ -1,5 +1,5 @@
 {
-  "hashValue": "294f05b1616676e1",
+  "hashValue": "4e30d08967d0ecfe",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1496,6 +1496,17 @@
     "profile.profileSwitchTrigger.family": "Family",
     "reports.generation.polling.infoItems.0": "This may take 10 minutes.",
     "reports.generation.polling.infoItems.1": "We'll send a <b>Push Notification</b> and a <b>WhatsApp Message</b> on your phone when the report is ready",
-    "chat.disclaimer.heading": "Disclaimer"
+    "chat.disclaimer.heading": "Disclaimer",
+    "wallet.subscription.benefitReports.fallback.description": "Get detailed insights and guidance.",
+    "wallet.subscription.benefitReports.MARRIAGE.title": "Marriage",
+    "wallet.subscription.benefitReports.MARRIAGE.description": "Understand your marriage prospects, timing, and compatibility insights.",
+    "wallet.subscription.benefitReports.RELATIONSHIP.title": "Relationship",
+    "wallet.subscription.benefitReports.RELATIONSHIP.description": "Understand your love life, compatibility, and relationship guidance.",
+    "wallet.subscription.benefitReports.CAREER.title": "Career",
+    "wallet.subscription.benefitReports.CAREER.description": "Get insights about your career path, growth opportunities, and success.",
+    "wallet.subscription.benefitReports.HEALTH.title": "Health",
+    "wallet.subscription.benefitReports.HEALTH.description": "Discover health insights and wellness guidance based on your chart.",
+    "wallet.subscription.benefitReports.FINANCE.title": "Finance",
+    "wallet.subscription.benefitReports.FINANCE.description": "Understand your financial prospects and wealth accumulation patterns."
   }
 }
