@@ -1,5 +1,5 @@
 {
-  "hashValue": "3db35e43c9eee8c0",
+  "hashValue": "eff1baace07646e8",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -894,11 +894,11 @@
     "profile.profileCard.editA11yHint": "उपयोगकर्ता प्रोफ़ाइल संपादित करता है",
     "profile.deleteAccount.title": "क्या आप वाकई अपना खाता हटाना चाहते हैं?",
     "profile.deleteAccount.walletWarning": "आपका वॉलेट बैलेंस ₹0 हो जाएगा",
-    "profile.deleteAccount.currentBalance": "वर्तमान बैलेंस",
+    "profile.deleteAccount.currentBalance": "मौजूदा बैलेंस",
     "profile.deleteAccount.afterDeletion": "हटाने के बाद",
-    "profile.deleteAccount.confirmButton": "हटाएं और लॉगआउट करें",
+    "profile.deleteAccount.confirmButton": "हटाएँ और लॉगआउट करें",
     "profile.deleteAccount.cancelButton": "रद्द करें",
-    "profile.deleteAccount.closeA11y": "खाता हटाएं मॉडल बंद करें",
+    "profile.deleteAccount.closeA11y": "खाता हटाएँ मोडल बंद करें",
     "profile.unlockPredictions.title": "अपनी दैनिक भविष्यवाणियाँ अनलॉक करें",
     "profile.unlockPredictions.subtitle": "अपने जन्म विवरण के आधार पर वैयक्तिकृत अंतर्दृष्टि पाएं।",
     "profile.unlockPredictions.ctaButton": "अपना जन्म विवरण दर्ज करें",
@@ -1660,6 +1660,14 @@
     "chat.sheets.delayWarning.title": "जवाब सामान्य से अधिक समय ले रहा है...",
     "chat.sheets.delayWarning.body": "{{guruName}} को आपके सवाल का जवाब देने में थोड़ा और समय लगेगा। आप अपने सवाल पूछना जारी रख सकते हैं — {{guruName}} के जवाब देते ही हम आपको सूचित कर देंगे।",
     "chat.sheets.delayWarning.cta": "चैट जारी रखें",
-    "chat.sheets.delayWarning.guruFallback": "गुरुजी"
+    "chat.sheets.delayWarning.guruFallback": "गुरुजी",
+    "profile.deleteAccount.consequences.0": "आपकी प्रोफ़ाइल और सभी द्वितीयक प्रोफ़ाइलें स्थायी रूप से हटा दी जाएँगी",
+    "profile.deleteAccount.consequences.1": "आपकी प्रोफ़ाइल विवरण हटा दिए जाएँगे।",
+    "profile.deleteAccount.consequences.2": "आपका गुरु कॉइन बैलेंस 0 कर दिया जाएगा।",
+    "profile.deleteAccount.consequences.3": "आपकी चैट हिस्ट्री हटा दी जाएगी।",
+    "profile.deleteAccount.consequences.4": "आपकी डाउनलोड की गई रिपोर्ट्स, यदि कोई हों, हटा दी जाएँगी।",
+    "profile.deleteAccount.consequences.5": "प्लेटफ़ॉर्म द्वारा खरीदे गए या दिए गए किसी भी चैट पैक, ऑफ़र आदि रीसेट हो जाएँगे और दोबारा प्राप्त नहीं किए जा सकते।",
+    "profile.deleteAccount.consequences.6": "प्रोफ़ाइल से जुड़ी सभी प्रोफ़ाइलें हटा दी जाएँगी",
+    "profile.deleteAccount.consequences.7": "कोई भी सक्रिय सब्सक्रिप्शन रद्द कर दिया जाएगा। पहले से कटी हुई राशि वापस नहीं की जाएगी।"
   }
 }
