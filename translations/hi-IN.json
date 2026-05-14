@@ -1,5 +1,5 @@
 {
-  "hashValue": "d03c9de5e410fffc",
+  "hashValue": "77543b20838be582",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -429,8 +429,8 @@
     "wallet.addMoneyV2.amountPills.extra": "{{amount}} अतिरिक्त",
     "wallet.addMoneyV2.amountPills.freeChats": "+ {{count}} फ्री चैट",
     "wallet.addMoneyV2.amountPills.freeChatsPlural": "+ {{count}} फ्री चैट",
-    "wallet.addMoneyV2.amountPills.extraGuruCoin": "{{amount}} अतिरिक्त Guru Coin",
-    "wallet.addMoneyV2.amountPills.guruCoinAccessibilityLabel": "Guru Coin",
+    "wallet.addMoneyV2.amountPills.extraGuruCoin": "{{amount}} अतिरिक्त गुरु कॉइन",
+    "wallet.addMoneyV2.amountPills.guruCoinAccessibilityLabel": "गुरु कॉइन",
     "wallet.addMoneyV2.subscriptionWidget.defaultTitle": "सब्सक्राइब करें",
     "wallet.addMoneyV2.subscriptionWidget.moreLinkDefault": "और",
     "wallet.addMoneyV2.subscriptionWidget.moreLinkV2": "और देखें",
@@ -1701,6 +1701,13 @@
     "common.loaderMessages.3.line1": "सबसे कठिन ग्रह भी निरंतर प्रयास से सकारात्मक फल देता है।",
     "common.loaderMessages.3.line2": "धैर्य और मेहनत ज्योतिष से ज़्यादा शक्तिशाली हैं।",
     "common.loaderMessages.4.line1": "सबसे उत्तम उपाय है — सही समय पर सही कर्म।",
-    "common.loaderMessages.4.line2": "समय और कर्म साथ हों तो परिणाम स्वतः अनुकूल होते हैं।"
+    "common.loaderMessages.4.line2": "समय और कर्म साथ हों तो परिणाम स्वतः अनुकूल होते हैं।",
+    "wallet.depositSuggestions.offerCashExtra": "₹{{amount}} अतिरिक्त पाएं",
+    "wallet.depositSuggestions.offerGuruCoinsExtra_one": "{{count}} गुरु कॉइन अतिरिक्त पाएं",
+    "wallet.depositSuggestions.offerGuruCoinsExtra_other": "{{count}} गुरु कॉइन अतिरिक्त पाएं",
+    "common.headerWallet.chatTooltip": "अपनी गुरु चैट यहाँ देखें",
+    "common.headerWallet.chatTooltipA11y": "गुरु चैट टूलटिप",
+    "common.headerWallet.openChatsA11y": "चैट खोलें",
+    "common.headerWallet.openWalletA11y": "वॉलेट खोलें"
   }
 }
