@@ -1,5 +1,5 @@
 {
-  "hashValue": "62307e7e41815184",
+  "hashValue": "c9a914cf4e902d5f",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1680,6 +1680,17 @@
     "profile.profileSwitchTrigger.family": "परिवार",
     "reports.generation.polling.infoItems.0": "इसमें 10 मिनट तक लग सकते हैं।",
     "reports.generation.polling.infoItems.1": "जब रिपोर्ट तैयार हो जाएगी तो हम आपके फ़ोन पर <b>पुश नोटिफ़िकेशन</b> और <b>व्हाट्सऐप मैसेज</b> भेजेंगे।",
-    "chat.disclaimer.heading": "अस्वीकरण"
+    "chat.disclaimer.heading": "अस्वीकरण",
+    "wallet.subscription.benefitReports.fallback.description": "विस्तृत जानकारी और मार्गदर्शन पाएं।",
+    "wallet.subscription.benefitReports.MARRIAGE.title": "विवाह",
+    "wallet.subscription.benefitReports.MARRIAGE.description": "अपने विवाह की संभावनाएं, समय और अनुकूलता संबंधी जानकारी समझें।",
+    "wallet.subscription.benefitReports.RELATIONSHIP.title": "रिश्ते",
+    "wallet.subscription.benefitReports.RELATIONSHIP.description": "अपने प्रेम जीवन, अनुकूलता और रिश्तों के मार्गदर्शन को समझें।",
+    "wallet.subscription.benefitReports.CAREER.title": "करियर",
+    "wallet.subscription.benefitReports.CAREER.description": "अपने करियर के रास्ते, विकास के अवसरों और सफलता के बारे में जानकारी पाएं।",
+    "wallet.subscription.benefitReports.HEALTH.title": "स्वास्थ्य",
+    "wallet.subscription.benefitReports.HEALTH.description": "अपनी कुंडली के आधार पर स्वास्थ्य और तंदुरुस्ती से जुड़ा मार्गदर्शन जानें।",
+    "wallet.subscription.benefitReports.FINANCE.title": "वित्त",
+    "wallet.subscription.benefitReports.FINANCE.description": "अपनी वित्तीय संभावनाओं और धन-संचय के पैटर्न को समझें।"
   }
 }
