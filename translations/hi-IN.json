@@ -1,5 +1,5 @@
 {
-  "hashValue": "f794fa00c52b096d",
+  "hashValue": "ba094ed5ebbdf482",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1679,6 +1679,6 @@
     "profile.profileSwitchTrigger.you": "आप",
     "profile.profileSwitchTrigger.family": "परिवार",
     "reports.generation.polling.infoItems.0": "इसमें 10 मिनट तक लग सकते हैं।",
-    "reports.generation.polling.infoItems.1": "जब रिपोर्ट तैयार हो जाएगी तो हम आपके फ़ोन पर पुश नोटिफ़िकेशन और व्हाट्सऐप मैसेज भेजेंगे।"
+    "reports.generation.polling.infoItems.1": "जब रिपोर्ट तैयार हो जाएगी तो हम आपके फ़ोन पर <b>पुश नोटिफ़िकेशन</b> और <b>व्हाट्सऐप मैसेज</b> भेजेंगे।"
   }
 }
