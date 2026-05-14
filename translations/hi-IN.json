@@ -1,5 +1,5 @@
 {
-  "hashValue": "42c76e152081670a",
+  "hashValue": "ddf50741ce8c535e",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1675,6 +1675,8 @@
     "reports.customBanner.customBanner.title1": "अनलिमिटेड फ्री चैट और मुफ़्त पास्ट लाइफ रिपोर्ट",
     "reports.customBanner.customBanner.title2": "वीआईपी प्लान",
     "reports.customBanner.customBanner.subtitle": "",
-    "reports.customBanner.customBanner.ctaText": "सब्सक्राइब करें"
+    "reports.customBanner.customBanner.ctaText": "सब्सक्राइब करें",
+    "profile.profileSwitchTrigger.you": "आप",
+    "profile.profileSwitchTrigger.family": "परिवार"
   }
 }
