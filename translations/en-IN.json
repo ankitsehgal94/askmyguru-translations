@@ -1,5 +1,5 @@
 {
-  "hashValue": "a0b4bb113fb064c3",
+  "hashValue": "8cc537410330e73a",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1491,6 +1491,8 @@
     "reports.customBanner.customBanner.title1": "Unlimited Free Chats & Free Past Life Report",
     "reports.customBanner.customBanner.title2": "VIP Plan",
     "reports.customBanner.customBanner.subtitle": "",
-    "reports.customBanner.customBanner.ctaText": "Subscribe Now"
+    "reports.customBanner.customBanner.ctaText": "Subscribe Now",
+    "profile.profileSwitchTrigger.you": "You",
+    "profile.profileSwitchTrigger.family": "Family"
   }
 }
