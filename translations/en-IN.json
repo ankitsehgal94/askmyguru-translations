@@ -1,5 +1,5 @@
 {
-  "hashValue": "7bcd7ead5183c789",
+  "hashValue": "d8992b7688d9de08",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1495,6 +1495,6 @@
     "profile.profileSwitchTrigger.you": "You",
     "profile.profileSwitchTrigger.family": "Family",
     "reports.generation.polling.infoItems.0": "This may take 10 minutes.",
-    "reports.generation.polling.infoItems.1": "We'll send a Push Notification and a WhatsApp Message on your phone when the report is ready"
+    "reports.generation.polling.infoItems.1": "We'll send a <b>Push Notification</b> and a <b>WhatsApp Message</b> on your phone when the report is ready"
   }
 }
