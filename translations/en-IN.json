@@ -1,5 +1,5 @@
 {
-  "hashValue": "9ed5c5056a7f8a73",
+  "hashValue": "a0b4bb113fb064c3",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1487,6 +1487,10 @@
     "language-picker.languages.te-IN": "తెలుగు",
     "language-picker.languages.kn-IN": "ಕನ್ನಡ",
     "language-picker.languages.mr-IN": "मराठी",
-    "language-picker.languages.bn-IN": "বাংলা"
+    "language-picker.languages.bn-IN": "বাংলা",
+    "reports.customBanner.customBanner.title1": "Unlimited Free Chats & Free Past Life Report",
+    "reports.customBanner.customBanner.title2": "VIP Plan",
+    "reports.customBanner.customBanner.subtitle": "",
+    "reports.customBanner.customBanner.ctaText": "Subscribe Now"
   }
 }
