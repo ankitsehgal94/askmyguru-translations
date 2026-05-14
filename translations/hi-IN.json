@@ -1,5 +1,5 @@
 {
-  "hashValue": "214d0d5259ceafb3",
+  "hashValue": "ca6e03c73532100a",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1663,6 +1663,14 @@
     "home.dashaWidget.headerText": "आपका ज्योतिष विश्लेषण: विंशोत्तरी दशा",
     "home.dashaWidget.storyTitle": "आज का मार्गदर्शन",
     "dasha.planetList.currentBadge": "वर्तमान",
-    "dasha.planetList.a11yLabelCurrent": "{{planet}}, वर्तमान सक्रिय अवधि"
+    "dasha.planetList.a11yLabelCurrent": "{{planet}}, वर्तमान सक्रिय अवधि",
+    "dasha.planetCard.recentChangeLine1": "हाल का",
+    "dasha.planetCard.recentChangeLine2": "परिवर्तन",
+    "dasha.planetCard.nextA11yLabel": "अगला {{label}}",
+    "dasha.planetCard.previousA11yLabel": "पिछला {{label}}",
+    "dasha.planetCard.cardA11yLabel": "{{planet}} {{label}}{{currentSuffix}}{{changedSuffix}}",
+    "dasha.planetCard.a11yCurrentSuffix": ", वर्तमान अवधि",
+    "dasha.planetCard.a11yChangedSuffix": ", हाल ही में बदला",
+    "dasha.planetCard.a11yHint": "विवरण देखने के लिए डबल टैप करें"
   }
 }
