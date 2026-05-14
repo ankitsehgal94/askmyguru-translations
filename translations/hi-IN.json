@@ -1,5 +1,5 @@
 {
-  "hashValue": "77543b20838be582",
+  "hashValue": "b02fbad701398de9",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1708,6 +1708,14 @@
     "common.headerWallet.chatTooltip": "अपनी गुरु चैट यहाँ देखें",
     "common.headerWallet.chatTooltipA11y": "गुरु चैट टूलटिप",
     "common.headerWallet.openChatsA11y": "चैट खोलें",
-    "common.headerWallet.openWalletA11y": "वॉलेट खोलें"
+    "common.headerWallet.openWalletA11y": "वॉलेट खोलें",
+    "match-making.bhavishyaTab.loading.0.line1": "आपके ब्रह्मांडीय संबंध का विश्लेषण कर रहे हैं...",
+    "match-making.bhavishyaTab.loading.0.line2": "आपके सितारों का संगम देख रहे हैं...",
+    "match-making.bhavishyaTab.loading.1.line1": "आपके साथ भविष्य के लिए सितारों को पढ़ रहे हैं...",
+    "match-making.bhavishyaTab.loading.1.line2": "आपके भविष्य के सितारे पढ़े जा रहे हैं...",
+    "match-making.bhavishyaTab.loading.2.line1": "ग्रहों की स्थिति की गणना हो रही है...",
+    "match-making.bhavishyaTab.loading.2.line2": "ग्रहों की स्थिति का विश्लेषण हो रहा है...",
+    "match-making.bhavishyaTab.loading.3.line1": "प्राचीन ज्ञान से अंतर्दृष्टि उजागर हो रही है...",
+    "match-making.bhavishyaTab.loading.3.line2": "प्राचीन ज्ञान से रहस्य खुल रहे हैं..."
   }
 }
