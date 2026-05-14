@@ -1,5 +1,5 @@
 {
-  "hashValue": "6201fe680c1a8c0a",
+  "hashValue": "2cb149109da17de6",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -429,7 +429,7 @@
     "wallet.addMoneyV2.amountPills.extra": "{{amount}} extra",
     "wallet.addMoneyV2.amountPills.freeChats": "+ {{count}} Free Chat",
     "wallet.addMoneyV2.amountPills.freeChatsPlural": "+ {{count}} Free Chats",
-    "wallet.addMoneyV2.amountPills.extraGuruCoin": "{{amount}} Extra Guru Coin",
+    "wallet.addMoneyV2.amountPills.extraGuruCoin": "{{amount}} extra Guru Coin",
     "wallet.addMoneyV2.amountPills.guruCoinAccessibilityLabel": "Guru Coin",
     "wallet.addMoneyV2.subscriptionWidget.defaultTitle": "Subscribe",
     "wallet.addMoneyV2.subscriptionWidget.moreLinkDefault": "More",
@@ -1517,6 +1517,13 @@
     "common.loaderMessages.3.line1": "Even the toughest planet responds to consistent effort.",
     "common.loaderMessages.3.line2": "Sabse kathin grah bhi lagataar mehnat se positive result dene lagta hai.",
     "common.loaderMessages.4.line1": "The best remedy is the right action at the right time.",
-    "common.loaderMessages.4.line2": "Sabse behtar upaay: sahi waqt par sahi action."
+    "common.loaderMessages.4.line2": "Sabse behtar upaay: sahi waqt par sahi action.",
+    "wallet.depositSuggestions.offerCashExtra": "Get ₹{{amount}} extra",
+    "wallet.depositSuggestions.offerGuruCoinsExtra_one": "Get {{count}} Guru Coin extra",
+    "wallet.depositSuggestions.offerGuruCoinsExtra_other": "Get {{count}} Guru Coins extra",
+    "common.headerWallet.chatTooltip": "Find your Guru Chats here",
+    "common.headerWallet.chatTooltipA11y": "Find your Guru Chats tooltip",
+    "common.headerWallet.openChatsA11y": "Open chats",
+    "common.headerWallet.openWalletA11y": "Open wallet"
   }
 }
