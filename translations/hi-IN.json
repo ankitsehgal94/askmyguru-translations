@@ -1,5 +1,5 @@
 {
-  "hashValue": "ddf50741ce8c535e",
+  "hashValue": "f794fa00c52b096d",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1677,6 +1677,8 @@
     "reports.customBanner.customBanner.subtitle": "",
     "reports.customBanner.customBanner.ctaText": "सब्सक्राइब करें",
     "profile.profileSwitchTrigger.you": "आप",
-    "profile.profileSwitchTrigger.family": "परिवार"
+    "profile.profileSwitchTrigger.family": "परिवार",
+    "reports.generation.polling.infoItems.0": "इसमें 10 मिनट तक लग सकते हैं।",
+    "reports.generation.polling.infoItems.1": "जब रिपोर्ट तैयार हो जाएगी तो हम आपके फ़ोन पर पुश नोटिफ़िकेशन और व्हाट्सऐप मैसेज भेजेंगे।"
   }
 }
