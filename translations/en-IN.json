@@ -1,5 +1,5 @@
 {
-  "hashValue": "4e30d08967d0ecfe",
+  "hashValue": "6201fe680c1a8c0a",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1507,6 +1507,16 @@
     "wallet.subscription.benefitReports.HEALTH.title": "Health",
     "wallet.subscription.benefitReports.HEALTH.description": "Discover health insights and wellness guidance based on your chart.",
     "wallet.subscription.benefitReports.FINANCE.title": "Finance",
-    "wallet.subscription.benefitReports.FINANCE.description": "Understand your financial prospects and wealth accumulation patterns."
+    "wallet.subscription.benefitReports.FINANCE.description": "Understand your financial prospects and wealth accumulation patterns.",
+    "common.loaderMessages.0.line1": "Astrology shows the direction; free will decides the route.",
+    "common.loaderMessages.0.line2": "Astrology sirf direction dikhati hai, raasta toh aapko hi choose karna hai",
+    "common.loaderMessages.1.line1": "Use predictions to plan, not to panic.",
+    "common.loaderMessages.1.line2": "Predictions ka use planning ke liye karo, panic ke liye nahi.",
+    "common.loaderMessages.2.line1": "Ask \"What can I do?\" more than \"What will happen?\"",
+    "common.loaderMessages.2.line2": "\"Aage kya hoga?\" se zyaada poochho, \"Mujhe aage kya karna chahiye?\"",
+    "common.loaderMessages.3.line1": "Even the toughest planet responds to consistent effort.",
+    "common.loaderMessages.3.line2": "Sabse kathin grah bhi lagataar mehnat se positive result dene lagta hai.",
+    "common.loaderMessages.4.line1": "The best remedy is the right action at the right time.",
+    "common.loaderMessages.4.line2": "Sabse behtar upaay: sahi waqt par sahi action."
   }
 }
