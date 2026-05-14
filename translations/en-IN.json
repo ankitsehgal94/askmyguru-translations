@@ -1,5 +1,5 @@
 {
-  "hashValue": "8cc537410330e73a",
+  "hashValue": "7bcd7ead5183c789",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1493,6 +1493,8 @@
     "reports.customBanner.customBanner.subtitle": "",
     "reports.customBanner.customBanner.ctaText": "Subscribe Now",
     "profile.profileSwitchTrigger.you": "You",
-    "profile.profileSwitchTrigger.family": "Family"
+    "profile.profileSwitchTrigger.family": "Family",
+    "reports.generation.polling.infoItems.0": "This may take 10 minutes.",
+    "reports.generation.polling.infoItems.1": "We'll send a Push Notification and a WhatsApp Message on your phone when the report is ready"
   }
 }
