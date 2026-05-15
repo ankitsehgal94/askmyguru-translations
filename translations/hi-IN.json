@@ -1,5 +1,5 @@
 {
-  "hashValue": "b02fbad701398de9",
+  "hashValue": "34e0e73cb6794844",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1716,6 +1716,18 @@
     "match-making.bhavishyaTab.loading.2.line1": "ग्रहों की स्थिति की गणना हो रही है...",
     "match-making.bhavishyaTab.loading.2.line2": "ग्रहों की स्थिति का विश्लेषण हो रहा है...",
     "match-making.bhavishyaTab.loading.3.line1": "प्राचीन ज्ञान से अंतर्दृष्टि उजागर हो रही है...",
-    "match-making.bhavishyaTab.loading.3.line2": "प्राचीन ज्ञान से रहस्य खुल रहे हैं..."
+    "match-making.bhavishyaTab.loading.3.line2": "प्राचीन ज्ञान से रहस्य खुल रहे हैं...",
+    "common.networkOffline.title": "इंटरनेट कनेक्शन नहीं है",
+    "common.networkOffline.message": "कृपया अपना कनेक्शन जांचें और दोबारा प्रयास करें।",
+    "common.pdfShare.sharingUnavailable": "इस डिवाइस पर शेयरिंग उपलब्ध नहीं है",
+    "common.pdfShare.permissionRequired": "अनुमति आवश्यक। कृपया फ़ाइलें सहेजने की अनुमति दें।",
+    "common.pdfShare.saveFallback": "PDF सीधे सहेजी नहीं जा सकी। फ़ाइल सहेजने के लिए शेयर विकल्प का उपयोग करें।",
+    "common.pdfShare.saveToFilesHint": "PDF डाउनलोड करने के लिए शेयर मेनू में \"Save to Files\" पर टैप करें",
+    "common.pdfShare.captureFailed": "कंटेंट कैप्चर नहीं हो सका। कृपया दोबारा प्रयास करें।",
+    "common.pdfShare.generateFailedAndroid": "PDF बनाने में विफल। कृपया सुनिश्चित करें कि कंटेंट पूरी तरह लोड हो चुका है।",
+    "common.pdfShare.generateFailed": "PDF बनाने में विफल। कृपया दोबारा प्रयास करें।",
+    "profile.profileSwitchError": "कृपया दोबारा प्रयास करें",
+    "chat.item.delayWarning.title": "आपके प्रश्न कतार में हैं...",
+    "chat.item.delayWarning.message": "देरी के लिए क्षमा करें, गुरुजी जल्द ही उत्तर देंगे।"
   }
 }
