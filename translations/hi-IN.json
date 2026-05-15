@@ -1,5 +1,5 @@
 {
-  "hashValue": "e5e828c025e71e40",
+  "hashValue": "7b532c5e7b7f7a40",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1730,6 +1730,13 @@
     "chat.item.delayWarning.title": "आपके प्रश्न कतार में हैं...",
     "chat.item.delayWarning.message": "देरी के लिए क्षमा करें, गुरुजी जल्द ही उत्तर देंगे।",
     "profile.profileSwitchSuccess": "प्रोफ़ाइल सफलतापूर्वक बदल दी गई",
-    "profile.profileSwitchFailed": "प्रोफ़ाइल बदलने में विफल"
+    "profile.profileSwitchFailed": "प्रोफ़ाइल बदलने में विफल",
+    "profile.profileEdit.errors.nameMinLength": "नाम कम से कम 2 अक्षरों का होना चाहिए",
+    "profile.profileEdit.errors.nameMaxLength": "नाम 50 अक्षरों से कम होना चाहिए",
+    "profile.profileEdit.errors.nameLettersOnly": "नाम में केवल अक्षर और स्पेस होने चाहिए",
+    "profile.profileEdit.errors.dobRequired": "जन्म तिथि आवश्यक है",
+    "profile.profileEdit.errors.tobRequired": "जन्म समय आवश्यक है",
+    "profile.profileEdit.errors.placeOfBirthRequired": "जन्म स्थान आवश्यक है",
+    "profile.profileEdit.errors.locationCoordinatesRequired": "स्थान निर्देशांक आवश्यक हैं"
   }
 }
