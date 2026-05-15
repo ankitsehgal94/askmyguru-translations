@@ -1,5 +1,5 @@
 {
-  "hashValue": "73d087aa828f8109",
+  "hashValue": "8c1dfa8a05497343",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1749,6 +1749,10 @@
     "wallet.transactionDetails.subscription.refundedMessage": "The amount has been refunded to your account.",
     "home.shortcuts.recent_chats": "Recent Chats",
     "home.shortcuts.daily_status": "Whatsapp Status",
-    "home.shortcuts.kundali_match": "Kundali Match"
+    "home.shortcuts.kundali_match": "Kundali Match",
+    "vedshala.contentTags.mantra": "Mantra",
+    "vedshala.contentTags.meditation": "Meditation",
+    "vedshala.contentTags.stories": "Stories",
+    "vedshala.contentTags.bhajan": "Bhajan"
   }
 }
