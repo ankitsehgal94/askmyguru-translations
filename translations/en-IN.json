@@ -1,5 +1,5 @@
 {
-  "hashValue": "f0e04ee59bf03113",
+  "hashValue": "ff3f85a956a0a82b",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1553,6 +1553,10 @@
     "profile.profileEdit.errors.dobRequired": "Date of birth is required",
     "profile.profileEdit.errors.tobRequired": "Time of birth is required",
     "profile.profileEdit.errors.placeOfBirthRequired": "Place of birth is required",
-    "profile.profileEdit.errors.locationCoordinatesRequired": "Location coordinates are required"
+    "profile.profileEdit.errors.locationCoordinatesRequired": "Location coordinates are required",
+    "profile.profileToasts.updated": "Profile updated successfully",
+    "profile.profileToasts.created": "Profile created successfully",
+    "profile.profileToasts.deleted": "Profile deleted successfully",
+    "profile.profileToasts.deleting": "Deleting profile..."
   }
 }
