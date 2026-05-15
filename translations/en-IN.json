@@ -1,5 +1,5 @@
 {
-  "hashValue": "a9eab2d19498dcb2",
+  "hashValue": "f0e04ee59bf03113",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1546,6 +1546,13 @@
     "chat.item.delayWarning.title": "Your questions are in queue...",
     "chat.item.delayWarning.message": "Sorry for the delay, Guruji will reply shortly.",
     "profile.profileSwitchSuccess": "Profile switched successfully",
-    "profile.profileSwitchFailed": "Failed to switch profile"
+    "profile.profileSwitchFailed": "Failed to switch profile",
+    "profile.profileEdit.errors.nameMinLength": "Name must be at least 2 characters",
+    "profile.profileEdit.errors.nameMaxLength": "Name must be less than 50 characters",
+    "profile.profileEdit.errors.nameLettersOnly": "Name should only contain letters and spaces",
+    "profile.profileEdit.errors.dobRequired": "Date of birth is required",
+    "profile.profileEdit.errors.tobRequired": "Time of birth is required",
+    "profile.profileEdit.errors.placeOfBirthRequired": "Place of birth is required",
+    "profile.profileEdit.errors.locationCoordinatesRequired": "Location coordinates are required"
   }
 }
