@@ -1,5 +1,5 @@
 {
-  "hashValue": "335ebf912f626358",
+  "hashValue": "a9eab2d19498dcb2",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1544,6 +1544,8 @@
     "common.pdfShare.generateFailed": "Failed to generate PDF. Please try again.",
     "profile.profileSwitchError": "Please try again",
     "chat.item.delayWarning.title": "Your questions are in queue...",
-    "chat.item.delayWarning.message": "Sorry for the delay, Guruji will reply shortly."
+    "chat.item.delayWarning.message": "Sorry for the delay, Guruji will reply shortly.",
+    "profile.profileSwitchSuccess": "Profile switched successfully",
+    "profile.profileSwitchFailed": "Failed to switch profile"
   }
 }
