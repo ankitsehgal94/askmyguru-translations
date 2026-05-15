@@ -1,5 +1,5 @@
 {
-  "hashValue": "c26d3d56c4f5dbfb",
+  "hashValue": "4002e839af854807",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1746,6 +1746,9 @@
     "wallet.transactionDetails.deposit.failedMessage": "आपके खाते से कटी कोई भी राशि <highlight>5-7 कार्य दिवसों में</highlight> वापस कर दी जाएगी।<break/>आप अपने बैंक से जाँच करें और इस ट्रांज़ैक्शन ID का संदर्भ दें: {orderId}",
     "wallet.transactionDetails.deposit.refundedMessage": "राशि आपके खाते में वापस कर दी गई है।",
     "wallet.transactionDetails.subscription.pendingMessage": "<highlight>थोड़ी देर रुकें – हम काम पर हैं!</highlight><break/>कभी-कभी पेमेंट में थोड़ा अधिक समय लग जाता है। निश्चिंत रहें, आपका पैसा सुरक्षित है।",
-    "wallet.transactionDetails.subscription.refundedMessage": "राशि आपके खाते में वापस कर दी गई है।"
+    "wallet.transactionDetails.subscription.refundedMessage": "राशि आपके खाते में वापस कर दी गई है।",
+    "home.shortcuts.recent_chats": "हाल की चैट",
+    "home.shortcuts.daily_status": "व्हाट्सऐप स्टेटस",
+    "home.shortcuts.kundali_match": "कुंडली मिलान"
   }
 }
