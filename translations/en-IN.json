@@ -1,5 +1,5 @@
 {
-  "hashValue": "a1f1e0e60a038e72",
+  "hashValue": "335ebf912f626358",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1532,6 +1532,18 @@
     "match-making.bhavishyaTab.loading.2.line1": "Calculating planetary alignments...",
     "match-making.bhavishyaTab.loading.2.line2": "Grahon ki sthiti ka vishleshan ho raha hai...",
     "match-making.bhavishyaTab.loading.3.line1": "Unveiling insights from ancient wisdom...",
-    "match-making.bhavishyaTab.loading.3.line2": "Prachin gyan se rahasya khul rahe hain..."
+    "match-making.bhavishyaTab.loading.3.line2": "Prachin gyan se rahasya khul rahe hain...",
+    "common.networkOffline.title": "No internet connection",
+    "common.networkOffline.message": "Please check your connection and try again.",
+    "common.pdfShare.sharingUnavailable": "Sharing is not available on this device",
+    "common.pdfShare.permissionRequired": "Permission required. Please grant permission to save files to your device.",
+    "common.pdfShare.saveFallback": "Could not save PDF directly. Use the share option to save the file.",
+    "common.pdfShare.saveToFilesHint": "Tap \"Save to Files\" in the share menu to download the PDF",
+    "common.pdfShare.captureFailed": "Unable to capture content. Please try again.",
+    "common.pdfShare.generateFailedAndroid": "Failed to generate PDF. Please make sure the content is fully loaded.",
+    "common.pdfShare.generateFailed": "Failed to generate PDF. Please try again.",
+    "profile.profileSwitchError": "Please try again",
+    "chat.item.delayWarning.title": "Your questions are in queue...",
+    "chat.item.delayWarning.message": "Sorry for the delay, Guruji will reply shortly."
   }
 }
