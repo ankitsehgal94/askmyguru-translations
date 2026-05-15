@@ -1,5 +1,5 @@
 {
-  "hashValue": "ff3f85a956a0a82b",
+  "hashValue": "8bac16c815f4989a",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1557,6 +1557,22 @@
     "profile.profileToasts.updated": "Profile updated successfully",
     "profile.profileToasts.created": "Profile created successfully",
     "profile.profileToasts.deleted": "Profile deleted successfully",
-    "profile.profileToasts.deleting": "Deleting profile..."
+    "profile.profileToasts.deleting": "Deleting profile...",
+    "referral.screen.loading": "Loading referral details...",
+    "referral.screen.error": "Unable to fetch referral details. Please try again later.",
+    "referral.screen.retry": "Retry",
+    "referral.screen.earnedGuruCoins": "EARNED GURU COINS",
+    "referral.screen.titleLine1": "Invite your Friends, Family",
+    "referral.screen.titleLine2": "& earn Guru coins",
+    "referral.screen.getUpTo": "Get Up To",
+    "referral.screen.referralCode": "REFERRAL CODE",
+    "referral.screen.tapToCopy": "Tap to Copy",
+    "referral.screen.shareWhatsapp": "Share on WhatsApp",
+    "referral.screen.steps.shareCodeTitle": "Share code",
+    "referral.screen.steps.shareCodeDesc": "with your friends",
+    "referral.screen.steps.friendLogsInTitle": "Friend logs in",
+    "referral.screen.steps.friendLogsInDesc": "with your code",
+    "referral.screen.steps.youGetTitle": "You get ₹50",
+    "referral.screen.steps.youGetDesc": "Your friend gets ₹50"
   }
 }
