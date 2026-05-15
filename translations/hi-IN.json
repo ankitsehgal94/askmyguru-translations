@@ -1,5 +1,5 @@
 {
-  "hashValue": "7b532c5e7b7f7a40",
+  "hashValue": "5c35931e7dd3c88f",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1737,6 +1737,10 @@
     "profile.profileEdit.errors.dobRequired": "जन्म तिथि आवश्यक है",
     "profile.profileEdit.errors.tobRequired": "जन्म समय आवश्यक है",
     "profile.profileEdit.errors.placeOfBirthRequired": "जन्म स्थान आवश्यक है",
-    "profile.profileEdit.errors.locationCoordinatesRequired": "स्थान निर्देशांक आवश्यक हैं"
+    "profile.profileEdit.errors.locationCoordinatesRequired": "स्थान निर्देशांक आवश्यक हैं",
+    "profile.profileToasts.updated": "प्रोफ़ाइल सफलतापूर्वक अपडेट हो गई",
+    "profile.profileToasts.created": "प्रोफ़ाइल सफलतापूर्वक बनाई गई",
+    "profile.profileToasts.deleted": "प्रोफ़ाइल सफलतापूर्वक हटा दी गई",
+    "profile.profileToasts.deleting": "प्रोफ़ाइल हटाई जा रही है..."
   }
 }
