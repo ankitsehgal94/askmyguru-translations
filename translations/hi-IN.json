@@ -1,5 +1,5 @@
 {
-  "hashValue": "34e0e73cb6794844",
+  "hashValue": "e5e828c025e71e40",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1728,6 +1728,8 @@
     "common.pdfShare.generateFailed": "PDF बनाने में विफल। कृपया दोबारा प्रयास करें।",
     "profile.profileSwitchError": "कृपया दोबारा प्रयास करें",
     "chat.item.delayWarning.title": "आपके प्रश्न कतार में हैं...",
-    "chat.item.delayWarning.message": "देरी के लिए क्षमा करें, गुरुजी जल्द ही उत्तर देंगे।"
+    "chat.item.delayWarning.message": "देरी के लिए क्षमा करें, गुरुजी जल्द ही उत्तर देंगे।",
+    "profile.profileSwitchSuccess": "प्रोफ़ाइल सफलतापूर्वक बदल दी गई",
+    "profile.profileSwitchFailed": "प्रोफ़ाइल बदलने में विफल"
   }
 }
