@@ -1,5 +1,5 @@
 {
-  "hashValue": "8c1dfa8a05497343",
+  "hashValue": "1b2fea6d0f32cfec",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1753,6 +1753,7 @@
     "vedshala.contentTags.mantra": "Mantra",
     "vedshala.contentTags.meditation": "Meditation",
     "vedshala.contentTags.stories": "Stories",
-    "vedshala.contentTags.bhajan": "Bhajan"
+    "vedshala.contentTags.bhajan": "Bhajan",
+    "wallet.addMoneyV2.amountPills.extraGuruCoinShort": "+{{amount}}"
   }
 }
