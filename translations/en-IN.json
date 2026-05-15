@@ -1,5 +1,5 @@
 {
-  "hashValue": "dddfb0255077448e",
+  "hashValue": "3b72677e209e85a5",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1741,6 +1741,11 @@
     "reports.rating.thankYou.satisfied.title": "Thank You for Your Love!",
     "social-status.share.shareMessage": "Shared from AskMyGuru",
     "social-status.share.shareTitle": "Share Status",
-    "social-status.share.watermark": "Made with ❤️ by AskMyGuru"
+    "social-status.share.watermark": "Made with ❤️ by AskMyGuru",
+    "wallet.transactionDetails.deposit.pendingMessage": "<highlight>Hang tight – we're on it!</highlight><break/>Sometimes payments take a little longer. Rest assured, your money is safe.",
+    "wallet.transactionDetails.deposit.failedMessage": "Any deducted balance from your account will be refunded in <highlight>5-7 business days.</highlight><break/>You can check with your Bank and give reference for this Transaction ID: {orderId}",
+    "wallet.transactionDetails.deposit.refundedMessage": "The amount has been refunded to your account.",
+    "wallet.transactionDetails.subscription.pendingMessage": "<highlight>Hang tight – we're on it!</highlight><break/>Sometimes payments take a little longer. Rest assured, your money is safe.",
+    "wallet.transactionDetails.subscription.refundedMessage": "The amount has been refunded to your account."
   }
 }
