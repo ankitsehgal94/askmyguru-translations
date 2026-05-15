@@ -1,5 +1,5 @@
 {
-  "hashValue": "3b72677e209e85a5",
+  "hashValue": "73d087aa828f8109",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1746,6 +1746,9 @@
     "wallet.transactionDetails.deposit.failedMessage": "Any deducted balance from your account will be refunded in <highlight>5-7 business days.</highlight><break/>You can check with your Bank and give reference for this Transaction ID: {orderId}",
     "wallet.transactionDetails.deposit.refundedMessage": "The amount has been refunded to your account.",
     "wallet.transactionDetails.subscription.pendingMessage": "<highlight>Hang tight – we're on it!</highlight><break/>Sometimes payments take a little longer. Rest assured, your money is safe.",
-    "wallet.transactionDetails.subscription.refundedMessage": "The amount has been refunded to your account."
+    "wallet.transactionDetails.subscription.refundedMessage": "The amount has been refunded to your account.",
+    "home.shortcuts.recent_chats": "Recent Chats",
+    "home.shortcuts.daily_status": "Whatsapp Status",
+    "home.shortcuts.kundali_match": "Kundali Match"
   }
 }
