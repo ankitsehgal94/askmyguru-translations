@@ -1847,6 +1847,8 @@
     "timed-event.reactionPicker.closeA11y": "Hide reactions",
     "timed-event.reactionPicker.sendA11y": "Send {{name}} reaction",
     "timed-event.viewerCount.watching": "{{value}} Watching",
-    "timed-event.viewerCount.a11y": "{{count}} people watching"
+    "timed-event.viewerCount.a11y": "{{count}} people watching",
+    "timed-event.header.duration": "{{minutes}} mins",
+    "timed-event.header.durationWithSubtitle": "{{minutes}} mins 🕘 {{subtitle}}"
   }
 }
