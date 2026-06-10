@@ -1849,6 +1849,7 @@
     "timed-event.viewerCount.watching": "{{value}} Watching",
     "timed-event.viewerCount.a11y": "{{count}} people watching",
     "timed-event.header.duration": "{{minutes}} mins",
-    "timed-event.header.durationWithSubtitle": "{{minutes}} mins 🕘 {{subtitle}}"
+    "timed-event.header.durationWithSubtitle": "{{minutes}} mins 🕘 {{subtitle}}",
+    "timed-event.card.countdownLabels.day": "Day"
   }
 }
