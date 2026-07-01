@@ -1,5 +1,5 @@
 {
-  "hashValue": "a395268f52ce1a93",
+  "hashValue": "e894df8e813dfa03",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1850,6 +1850,27 @@
     "timed-event.viewerCount.a11y": "{{count}} लोग देख रहे हैं",
     "timed-event.header.duration": "{{minutes}} मिनट",
     "timed-event.header.durationWithSubtitle": "{{minutes}} मिनट 🕘 {{subtitle}}",
-    "timed-event.card.countdownLabels.day": "दिन"
+    "timed-event.card.countdownLabels.day": "दिन",
+    "wallet.subscriptionSuccess.heroTitle": "VIP प्लान सक्रिय है",
+    "wallet.subscriptionSuccess.heroSubtitle": "बधाई हो!",
+    "wallet.subscriptionSuccess.collapsedTitle": "VIP प्लान",
+    "wallet.subscriptionSuccess.close": "बंद करें",
+    "wallet.subscriptionSuccess.autoRenews": "ऑटो-रिन्यू: {{date}}",
+    "wallet.subscriptionSuccess.validTill": "{{date}} तक मान्य",
+    "wallet.subscriptionSuccess.manage": "मैनेज करें",
+    "wallet.subscriptionSuccess.manageTitle": "{{plan}}: {{price}}",
+    "wallet.subscriptionSuccess.addFamily": "फैमिली जोड़ें",
+    "wallet.subscriptionSuccess.skipIntro": "एनिमेशन स्किप करें",
+    "wallet.subscriptionSuccess.usage.badge": "आप पहले ही {{chats}} की अनलिमिटेड चैट्स का लाभ उठा चुके हैं",
+    "wallet.subscriptionSuccess.usage.badgeWithReports": "आप पहले ही {{chats}} की अनलिमिटेड चैट्स + {{count}} रिपोर्ट ({{reports}}) का लाभ उठा चुके हैं",
+    "wallet.subscriptionSuccess.usage.chats": "चैट्स",
+    "wallet.subscriptionSuccess.usage.videos": "वीडियो",
+    "wallet.subscriptionSuccess.usage.todaysChats": "आज",
+    "wallet.subscriptionSuccess.usage.todaysWatch": "आज",
+    "wallet.subscriptionSuccess.usage.useChatsNow": "अभी अपनी अनलिमिटेड चैट्स इस्तेमाल करें",
+    "wallet.subscriptionSuccess.usage.useVideosNow": "अभी अपने अनलिमिटेड वीडियो देखें",
+    "home.subscriptionSuccess.reportsTitle": "VIP के साथ 1 फ्री रिपोर्ट शामिल",
+    "home.subscriptionSuccess.reportsSubtitle": "कोई भी प्रीमियम रिपोर्ट चुनें।",
+    "home.subscriptionSuccess.exploreReports": "रिपोर्ट्स एक्सप्लोर करें"
   }
 }

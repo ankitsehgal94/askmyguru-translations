@@ -1,5 +1,5 @@
 {
-  "hashValue": "1b2fea6d0f32cfec",
+  "hashValue": "b439fd42a66811a7",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1850,6 +1850,27 @@
     "timed-event.viewerCount.a11y": "{{count}} people watching",
     "timed-event.header.duration": "{{minutes}} mins",
     "timed-event.header.durationWithSubtitle": "{{minutes}} mins 🕘 {{subtitle}}",
-    "timed-event.card.countdownLabels.day": "Day"
+    "timed-event.card.countdownLabels.day": "Day",
+    "wallet.subscriptionSuccess.heroTitle": "VIP Plan is active",
+    "wallet.subscriptionSuccess.heroSubtitle": "Congratulations!",
+    "wallet.subscriptionSuccess.collapsedTitle": "VIP Plan",
+    "wallet.subscriptionSuccess.close": "Close",
+    "wallet.subscriptionSuccess.autoRenews": "Auto Renews on: {{date}}",
+    "wallet.subscriptionSuccess.validTill": "Valid Till: {{date}}",
+    "wallet.subscriptionSuccess.manage": "Manage",
+    "wallet.subscriptionSuccess.manageTitle": "{{plan}}: {{price}}",
+    "wallet.subscriptionSuccess.addFamily": "Add Family",
+    "wallet.subscriptionSuccess.skipIntro": "Skip animation",
+    "wallet.subscriptionSuccess.usage.badge": "You have already enjoyed {{chats}} worth of Unlimited Chats",
+    "wallet.subscriptionSuccess.usage.badgeWithReports": "You have already enjoyed {{chats}} worth of Unlimited Chats + {{count}} Report worth {{reports}}",
+    "wallet.subscriptionSuccess.usage.chats": "Chats",
+    "wallet.subscriptionSuccess.usage.videos": "Videos",
+    "wallet.subscriptionSuccess.usage.todaysChats": "Today",
+    "wallet.subscriptionSuccess.usage.todaysWatch": "Today",
+    "wallet.subscriptionSuccess.usage.useChatsNow": "Use your unlimited chats Now",
+    "wallet.subscriptionSuccess.usage.useVideosNow": "Watch your unlimited videos Now",
+    "home.subscriptionSuccess.reportsTitle": "1 Free Report Included with VIP",
+    "home.subscriptionSuccess.reportsSubtitle": "Choose any premium report.",
+    "home.subscriptionSuccess.exploreReports": "Explore Reports"
   }
 }
