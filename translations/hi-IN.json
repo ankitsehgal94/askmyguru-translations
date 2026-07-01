@@ -1,5 +1,5 @@
 {
-  "hashValue": "e894df8e813dfa05",
+  "hashValue": "e894df8e813dfa06",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1873,6 +1873,7 @@
     "home.subscriptionSuccess.reportsSubtitle": "कोई भी प्रीमियम रिपोर्ट चुनें।",
     "home.subscriptionSuccess.exploreReports": "रिपोर्ट्स एक्सप्लोर करें",
     "home.appHome.guruSuggestions.ctaUnlimitedChats": "असीमित चैट्स",
-    "home.appHome.content.viewMoreLabel": "सभी एक्सप्लोर करें"
+    "home.appHome.content.viewMoreLabel": "सभी एक्सप्लोर करें",
+    "home.subscriptionSuccess.shareNow": "अभी शेयर करें"
   }
 }

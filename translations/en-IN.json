@@ -1,5 +1,5 @@
 {
-  "hashValue": "b439fd42a66811a8",
+  "hashValue": "b439fd42a66811a9",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1871,6 +1871,7 @@
     "wallet.subscriptionSuccess.usage.useVideosNow": "Watch your unlimited videos Now",
     "home.subscriptionSuccess.reportsTitle": "1 Free Report Included with VIP",
     "home.subscriptionSuccess.reportsSubtitle": "Choose any premium report.",
-    "home.subscriptionSuccess.exploreReports": "Explore Reports"
+    "home.subscriptionSuccess.exploreReports": "Explore Reports",
+    "home.subscriptionSuccess.shareNow": "Share Now"
   }
 }
