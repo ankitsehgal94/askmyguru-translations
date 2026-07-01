@@ -1,5 +1,5 @@
 {
-  "hashValue": "b439fd42a66811a7",
+  "hashValue": "b439fd42a66811a8",
   "translation": {
     "common.back": "Back",
     "common.cancel": "Cancel",
@@ -1865,8 +1865,8 @@
     "wallet.subscriptionSuccess.usage.badgeWithReports": "You have already enjoyed {{chats}} worth of Unlimited Chats + {{count}} Report worth {{reports}}",
     "wallet.subscriptionSuccess.usage.chats": "Chats",
     "wallet.subscriptionSuccess.usage.videos": "Videos",
-    "wallet.subscriptionSuccess.usage.todaysChats": "Today",
-    "wallet.subscriptionSuccess.usage.todaysWatch": "Today",
+    "wallet.subscriptionSuccess.usage.todaysChats": "Today's Chats: {{n}}",
+    "wallet.subscriptionSuccess.usage.todaysWatch": "Today's watch : {{n}}",
     "wallet.subscriptionSuccess.usage.useChatsNow": "Use your unlimited chats Now",
     "wallet.subscriptionSuccess.usage.useVideosNow": "Watch your unlimited videos Now",
     "home.subscriptionSuccess.reportsTitle": "1 Free Report Included with VIP",

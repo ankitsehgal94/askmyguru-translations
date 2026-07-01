@@ -1,5 +1,5 @@
 {
-  "hashValue": "e894df8e813dfa03",
+  "hashValue": "e894df8e813dfa04",
   "translation": {
     "common.cancel": "रद्द करें",
     "common.retry": "पुनः प्रयास करें",
@@ -1865,8 +1865,8 @@
     "wallet.subscriptionSuccess.usage.badgeWithReports": "आप पहले ही {{chats}} की अनलिमिटेड चैट्स + {{count}} रिपोर्ट ({{reports}}) का लाभ उठा चुके हैं",
     "wallet.subscriptionSuccess.usage.chats": "चैट्स",
     "wallet.subscriptionSuccess.usage.videos": "वीडियो",
-    "wallet.subscriptionSuccess.usage.todaysChats": "आज",
-    "wallet.subscriptionSuccess.usage.todaysWatch": "आज",
+    "wallet.subscriptionSuccess.usage.todaysChats": "आज की चैट्स: {{n}}",
+    "wallet.subscriptionSuccess.usage.todaysWatch": "आज देखे गए: {{n}}",
     "wallet.subscriptionSuccess.usage.useChatsNow": "अभी अपनी अनलिमिटेड चैट्स इस्तेमाल करें",
     "wallet.subscriptionSuccess.usage.useVideosNow": "अभी अपने अनलिमिटेड वीडियो देखें",
     "home.subscriptionSuccess.reportsTitle": "VIP के साथ 1 फ्री रिपोर्ट शामिल",
